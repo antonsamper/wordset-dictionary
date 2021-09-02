@@ -1,14 +1,4 @@
 {
-    "yet": {
-        "d": [
-            "to a greater degree or extent",
-            "despite anything to the contrary, usually following a concession",
-            "up to the present time",
-            "used in negative statement to describe a situation that has existed up to this point or up to the present time",
-            "used after a superlative",
-            "within an indefinite time or at an unspecified future time"
-        ]
-    },
     "yearly": {
         "d": [
             "without missing a year",
@@ -22,21 +12,6 @@
             "distant but within sight (`yon' is dialectal)"
         ]
     },
-    "yon": {
-        "d": [
-            "distant but within sight (`yon' is dialectal)"
-        ]
-    },
-    "you bet": {
-        "d": [
-            "an expression of emphatic agreement"
-        ]
-    },
-    "you said it": {
-        "d": [
-            "an expression of emphatic agreement"
-        ]
-    },
     "yieldingly": {
         "d": [
             "in an obedient manner"
@@ -45,12 +20,6 @@
     "yearningly": {
         "d": [
             "in a yearning manner"
-        ]
-    },
-    "yea": {
-        "d": [
-            "not only so, but",
-            "an affirmative"
         ]
     },
     "yeah": {
@@ -83,49 +52,9 @@
             "turn yellow"
         ]
     },
-    "yellow-bellied": {
-        "d": [
-            "easily frightened"
-        ]
-    },
     "yellowish": {
         "d": [
             "of the color intermediate between green and orange in the color spectrum"
-        ]
-    },
-    "yellow-beige": {
-        "d": [
-            "of beige tinged with yellow"
-        ]
-    },
-    "yellow-green": {
-        "d": [
-            "of a color midway between yellow and green"
-        ]
-    },
-    "yellow-orange": {
-        "d": [
-            "of orange tinged with yellow"
-        ]
-    },
-    "yellow-grey": {
-        "d": [
-            "of grey tinged with yellow"
-        ]
-    },
-    "yellow-white": {
-        "d": [
-            "of a white tinged with yellow"
-        ]
-    },
-    "yokel-like": {
-        "d": [
-            "stupid and ignorant like proverbial rural inhabitants"
-        ]
-    },
-    "yarn-spinning": {
-        "d": [
-            "inclined to tell long and involved stories, often of incredible happenings"
         ]
     },
     "yeasty": {
@@ -146,12 +75,6 @@
             "young people collectively"
         ]
     },
-    "year-end": {
-        "d": [
-            "taking place at the close of a fiscal year",
-            "the end of a calendar year"
-        ]
-    },
     "yielding": {
         "d": [
             "tending to give in or surrender or agree",
@@ -169,16 +92,6 @@
     "yelled": {
         "d": [
             "in a vehement outcry"
-        ]
-    },
-    "young-bearing": {
-        "d": [
-            "capable of producing eggs and bearing offspring"
-        ]
-    },
-    "year-round": {
-        "d": [
-            "operating or continuing throughout the year"
         ]
     },
     "Yankee": {
@@ -228,11 +141,6 @@
     "yummy": {
         "d": [
             "extremely pleasing to the sense of taste"
-        ]
-    },
-    "yearned-for": {
-        "d": [
-            "greatly desired"
         ]
     },
     "Yugoslavian": {
@@ -286,16 +194,6 @@
             "a system of exercises, focusing on breathing techniques, originally practiced as part of the Hindu religion, to promote control of the body and mind"
         ]
     },
-    "youth movement": {
-        "d": [
-            "political or religious or social reform movement or agitation consisting chiefly of young people"
-        ]
-    },
-    "youth crusade": {
-        "d": [
-            "political, religious, social reform movement or agitation consisting chiefly of young people"
-        ]
-    },
     "yawn": {
         "d": [
             "an involuntary intake of breath through a wide open mouth",
@@ -324,11 +222,6 @@
             "give in, as to influence or pressure"
         ]
     },
-    "yard sale": {
-        "d": [
-            "an outdoor sale of used personal or household items held on the seller's premises"
-        ]
-    },
     "yodeling": {
         "d": [
             "singing by changing back and forth between the chest voice and a falsetto"
@@ -338,12 +231,6 @@
         "d": [
             "nutritive material of an ovum stored for the nutrition of an embryo (especially the yellow mass of a bird or reptile egg)",
             "the yellow spherical part of an egg that is surrounded by the albumen"
-        ]
-    },
-    "yolk sac": {
-        "d": [
-            "membranous structure enclosing the yolk of eggs in birds, reptiles, marsupials, and some fishes",
-            "membranous structure that functions as the circulatory system in mammalian embryos until the heart becomes functional"
         ]
     },
     "yellowhammer": {
@@ -365,50 +252,15 @@
             "a young child"
         ]
     },
-    "yellow jacket": {
-        "d": [
-            "small yellow-marked social wasp commonly nesting in the ground",
-            "a barbiturate (trade name Nembutal) used as a sedative and hypnotic and antispasmodic"
-        ]
-    },
-    "yellowbelly marmot": {
-        "d": [
-            "heavy-bodied yellowish-brown marmot of rocky areas of western North America"
-        ]
-    },
-    "yak": {
-        "d": [
-            "large long-haired wild ox of Tibet often domesticated",
-            "noisy talk",
-            "talk profusely"
-        ]
-    },
     "yellowtail": {
         "d": [
             "game fish of southern California and Mexico having a yellow tail fin",
             "superior food fish of the tropical Atlantic and Caribbean with broad yellow stripe along the sides and on the tail"
         ]
     },
-    "yellow jack": {
-        "d": [
-            "fish of western Atlantic and Gulf of Mexico",
-            "yellow flag hoist on a ship in quarantine",
-            "caused by a flavivirus transmitted by a mosquito"
-        ]
-    },
     "yellowfin": {
         "d": [
             "may reach 400 pounds"
-        ]
-    },
-    "yellowfin tuna": {
-        "d": [
-            "a type of tuna fish, common as seafood in several cuisines; one fish can weigh as much as 400 pounds"
-        ]
-    },
-    "youth hostel": {
-        "d": [
-            "inexpensive supervised lodging for travelers, particularly students and young people"
         ]
     },
     "yarn": {
@@ -453,30 +305,10 @@
             "the height or length of something in yards, used only in combinations"
         ]
     },
-    "yard donkey": {
-        "d": [
-            "a winch, or system of winches, powered by an engine and used to haul logs from a stump to a landing or to a skid road"
-        ]
-    },
-    "yard goods": {
-        "d": [
-            "merchandise in the form of fabrics sold by the yard"
-        ]
-    },
-    "yard marker": {
-        "d": [
-            "in American football, a marker indicating the current position of the play, measured as yards from the center of the field"
-        ]
-    },
     "yardstick": {
         "d": [
             "a ruler or tape that is three feet long",
             "a measure or standard used for comparison"
-        ]
-    },
-    "yard measure": {
-        "d": [
-            "a ruler or tape that is three feet long"
         ]
     },
     "yarmulke": {
@@ -531,12 +363,6 @@
             "the control mechanism for an aircraft"
         ]
     },
-    "yo-yo": {
-        "d": [
-            "a toy consisting of a spool that is reeled up and down on a string by motions of the hand",
-            "to play with a yo-yo"
-        ]
-    },
     "yurt": {
         "d": [
             "a circular domed dwelling that is portable and self-supporting"
@@ -562,11 +388,6 @@
             "the freshness and vitality characteristic of a young person"
         ]
     },
-    "yellowish pink": {
-        "d": [
-            "a shade of pink tinged with yellow"
-        ]
-    },
     "yellowness": {
         "d": [
             "yellow color or pigment",
@@ -578,45 +399,9 @@
             "distance measured in the aggregate number of yards"
         ]
     },
-    "yellow marrow": {
-        "d": [
-            "bone marrow that is yellow with fat"
-        ]
-    },
-    "yap": {
-        "d": [
-            "informal terms for the mouth",
-            "bark in a high-pitched tone"
-        ]
-    },
-    "yellow bile": {
-        "d": [
-            "a humor that was once believed to be secreted by the liver and to cause irritability and anger"
-        ]
-    },
-    "yellow spot": {
-        "d": [
-            "a small yellowish central area of the retina that is rich in cones and that mediates clear detailed vision"
-        ]
-    },
     "yang": {
         "d": [
             "the bright, positive, masculine principle in Chinese dualistic cosmology"
-        ]
-    },
-    "yin": {
-        "d": [
-            "the dark, negative, feminine principle in Chinese dualistic cosmology"
-        ]
-    },
-    "y-axis": {
-        "d": [
-            "the vertical axis in a plane coordinate system"
-        ]
-    },
-    "yellow journalism": {
-        "d": [
-            "a type of sensationalist writing that is used to sell more copies of a certain print by means of catching one's attention with a flashy or shocking title"
         ]
     },
     "yearbook": {
@@ -624,24 +409,9 @@
             "a book published annually by a school usually containing photographs of faculty and students"
         ]
     },
-    "yellow-dog contract": {
-        "d": [
-            "a now illegal labor contract whereby the employee agrees not to join a trade union"
-        ]
-    },
-    "yellow light": {
-        "d": [
-            "the signal to proceed with caution"
-        ]
-    },
     "yodh": {
         "d": [
             "the 10th letter of the Hebrew alphabet"
-        ]
-    },
-    "y": {
-        "d": [
-            "the 25th letter of the Roman alphabet"
         ]
     },
     "yell": {
@@ -676,32 +446,6 @@
             "talk incessantly and tiresomely"
         ]
     },
-    "yakety-yak": {
-        "d": [
-            "noisy talk"
-        ]
-    },
-    "yes-no question": {
-        "d": [
-            "a question that can be answered by yes or no"
-        ]
-    },
-    "yes": {
-        "d": [
-            "an affirmative"
-        ]
-    },
-    "yellow pages": {
-        "d": [
-            "a telephone directory or section of a directory, usually printed on yellow paper, where business products and services are listed alphabetically by field along with classified advertising"
-        ]
-    },
-    "yip": {
-        "d": [
-            "a sharp high-pitched cry (especially by a dog)",
-            "bark in a high-pitched tone"
-        ]
-    },
     "yelp": {
         "d": [
             "a sharp, high-pitched cry, especially by a dog",
@@ -713,39 +457,9 @@
             "a sharp high-pitched cry, especially by a dog"
         ]
     },
-    "yaw": {
-        "d": [
-            "to rotate along the vertical axis in the horizontal plane",
-            "a direction of rotation along the vertical axis in the horizontal plane",
-            "an erratic deflection from an intended course",
-            "to swerve off course momentarily",
-            "to deviate erratically from a set course",
-            "to be wide open"
-        ]
-    },
     "yearning": {
         "d": [
             "prolonged unfulfilled desire or need"
-        ]
-    },
-    "yen": {
-        "d": [
-            "a yearning for something or to do something",
-            "the basic unit of money in Japan",
-            "have a desire for something or someone who is not present"
-        ]
-    },
-    "Yorkshire pudding": {
-        "d": [
-            "light puffy bread made of a puff batter and traditionally baked in the pan with roast beef"
-        ]
-    },
-    "yam": {
-        "d": [
-            "edible tuberous root of various yam plants of the genus Dioscorea grown in the tropics world-wide for food",
-            "sweet potato with deep orange flesh that remains moist when baked",
-            "any of a number of tropical vines of the genus Dioscorea many having edible tuberous roots",
-            "edible tuber of any of several yams"
         ]
     },
     "yogurt": {
@@ -767,11 +481,6 @@
         "d": [
             "a British volunteer cavalry force organized in 1761 for home defense later incorporated into the Territorial Army",
             "class of small freeholders who cultivated their own land"
-        ]
-    },
-    "yacht club": {
-        "d": [
-            "club that promotes and supports yachting and boating"
         ]
     },
     "yakuza": {
@@ -798,31 +507,9 @@
             "an academy for the advanced study of Jewish texts (primarily the Talmud)"
         ]
     },
-    "yard line": {
-        "d": [
-            "in American football, the marker used to reference the progress in a play"
-        ]
-    },
     "yeti": {
         "d": [
             "a large hairy humanoid creature said to live in the Himalayas"
-        ]
-    },
-    "yid": {
-        "d": [
-            "a fan of the Tottenham Hotspur Football Club",
-            "offensive term for a Jew"
-        ]
-    },
-    "young man": {
-        "d": [
-            "a man who is the lover of a girl or young woman",
-            "a teenager or a young adult male"
-        ]
-    },
-    "yob": {
-        "d": [
-            "a cruel and brutal fellow"
         ]
     },
     "yobo": {
@@ -840,26 +527,10 @@
             "a young person"
         ]
     },
-    "yard bird": {
-        "d": [
-            "a person serving a sentence in a jail or prison",
-            "a military recruit who is assigned menial tasks"
-        ]
-    },
     "yardbird": {
         "d": [
             "a person serving a sentence in a jail or prison",
             "a military recruit who is assigned menial tasks"
-        ]
-    },
-    "yes-man": {
-        "d": [
-            "a person of unquestioning obedience"
-        ]
-    },
-    "yes man": {
-        "d": [
-            "a person of unquestioning obedience"
         ]
     },
     "yearner": {
@@ -877,19 +548,9 @@
             "a person who yields or surrenders"
         ]
     },
-    "young buck": {
-        "d": [
-            "a teenager or a young adult male"
-        ]
-    },
     "younker": {
         "d": [
             "a young person, especially a young man or boy"
-        ]
-    },
-    "young Turk": {
-        "d": [
-            "a young radical who agitates for reform"
         ]
     },
     "yuppie": {
@@ -961,11 +622,6 @@
             "a person who is not very intelligent or interested in culture"
         ]
     },
-    "yellow cypress": {
-        "d": [
-            "tall evergreen of the Pacific coast of North America often cultivated for ornament"
-        ]
-    },
     "yellowwood": {
         "d": [
             "any of various trees having yellowish wood or yielding a yellow extract",
@@ -977,30 +633,9 @@
             "West Indian evergreen with medium to long leaves"
         ]
     },
-    "yew": {
-        "d": [
-            "any of numerous evergreen trees or shrubs having red cup-shaped berries and flattened needlelike leaves"
-        ]
-    },
-    "yellow poplar": {
-        "d": [
-            "tall North American deciduous timber tree having large tulip-shaped greenish yellow flowers and conelike fruit",
-            "light easily worked wood of a tulip tree"
-        ]
-    },
-    "yellow root": {
-        "d": [
-            "a perennial herb found in the northeastern United States, identifiable by a thick, knotted yellow rootstock and large rounded leaves"
-        ]
-    },
     "yautia": {
         "d": [
             "tropical American aroid having edible tubers that are cooked and eaten like yams or potatoes"
-        ]
-    },
-    "yellow chamomile": {
-        "d": [
-            "Eurasian perennial herb with hairy divided leaves and yellow flowers"
         ]
     },
     "yarrow": {
@@ -1008,59 +643,14 @@
             "ubiquitous strong-scented mat-forming Eurasian herb of wasteland, hedgerow or pasture having narrow serrate leaves and small usually white florets"
         ]
     },
-    "yellow lady-slipper": {
-        "d": [
-            "maroon to purple-brown orchid with yellow lip"
-        ]
-    },
-    "yellow loosestrife": {
-        "d": [
-            "frequently considered a weed"
-        ]
-    },
     "yardgrass": {
         "d": [
             "coarse annual grass having fingerlike spikes of flowers"
         ]
     },
-    "yellow bristlegrass": {
-        "d": [
-            "common weedy and bristly grass found in nearly all temperate areas"
-        ]
-    },
-    "yellow iris": {
-        "d": [
-            "common yellow-flowered iris of Europe and North Africa, naturalized in United States and often cultivated"
-        ]
-    },
-    "yellow globe lily": {
-        "d": [
-            "globe lily having open branched clusters of clear yellow egg-shaped flowers"
-        ]
-    },
-    "yellow clintonia": {
-        "d": [
-            "common woodland herb of temperate North America having yellow nodding flowers and small round blue fruits"
-        ]
-    },
     "yucca": {
         "d": [
             "any of several evergreen plants of the genus Yucca, typically characterized by tall, stout stems and a terminal cluster of white flowers"
-        ]
-    },
-    "yellow jasmine": {
-        "d": [
-            "poisonous woody evergreen vine of southeastern United States having fragrant yellow funnel-shaped flowers"
-        ]
-    },
-    "yellow cleavers": {
-        "d": [
-            "common yellow-flowered perennial bedstraw"
-        ]
-    },
-    "yellow foxglove": {
-        "d": [
-            "European yellow-flowered foxglove"
         ]
     },
     "yeast": {
@@ -1100,21 +690,6 @@
             "an infectious tropical disease resembling syphilis in its early stages"
         ]
     },
-    "yellow fever": {
-        "d": [
-            "caused by a flavivirus transmitted by a mosquito"
-        ]
-    },
-    "yellow-blue dichromacy": {
-        "d": [
-            "confusion of yellow and blue"
-        ]
-    },
-    "yellow-blindness": {
-        "d": [
-            "a form of dichromacy characterized by lowered sensitivity to yellow light"
-        ]
-    },
     "yatobyo": {
         "d": [
             "a highly infectious disease of rodents, especially rabbits and squirrels, and sometimes transmitted to humans by ticks or flies or by handling infected animals"
@@ -1130,11 +705,6 @@
             "in cosmology, the original matter that, according to the big bang theory, existed before the formation of the chemical elements"
         ]
     },
-    "yellow peril": {
-        "d": [
-            "the threat to Western civilization said to arise from the power of Asiatic peoples"
-        ]
-    },
     "ytterbium": {
         "d": [
             "a soft silvery metallic element"
@@ -1143,16 +713,6 @@
     "yttrium": {
         "d": [
             "a silvery metallic element that is common in rare-earth minerals"
-        ]
-    },
-    "yellow metal": {
-        "d": [
-            "an alpha-beta brass that is about 60% copper and 40% iron"
-        ]
-    },
-    "yellow ocher": {
-        "d": [
-            "pigment consisting of a limonite mixed with clay and silica"
         ]
     },
     "yesteryear": {
@@ -1170,16 +730,6 @@
             "an impure mixture of uranium oxides obtained during the processing of uranium ore"
         ]
     },
-    "year dot": {
-        "d": [
-            "as long ago as anyone can remember"
-        ]
-    },
-    "yarn-dye": {
-        "d": [
-            "to dye fabric before it is spun"
-        ]
-    },
     "yammer": {
         "d": [
             "to complain whiningly",
@@ -1190,16 +740,6 @@
         "d": [
             "to complain whiningly",
             "to make a raucous noise"
-        ]
-    },
-    "yack away": {
-        "d": [
-            "to talk incessantly and tiresomely"
-        ]
-    },
-    "yap away": {
-        "d": [
-            "to talk incessantly and tiresomely"
         ]
     },
     "yaup": {
@@ -1221,16 +761,6 @@
             "to desire strongly or persistently"
         ]
     },
-    "yield up": {
-        "d": [
-            "to surrender, as a result of pressure or force"
-        ]
-    },
-    "yo": {
-        "d": [
-            "a greeting like 'hi'"
-        ]
-    },
     "yolo": {
         "d": [
             "shortened form of \"you only live once\""
@@ -1239,11 +769,6 @@
     "Yottasecond": {
         "d": [
             "a period of time equal to one septillion seconds, or 10^24"
-        ]
-    },
-    "y'all": {
-        "d": [
-            "second person plural pronoun, contraction of \"you all\""
         ]
     },
     "yall": {
