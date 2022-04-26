@@ -24,12 +24,14 @@ fs.readdir(dataDirectory, (err, files) => {
                     // skip words with full stops
                     // skip words with apostrophes
                     // skip words that dont contain definitions/meanings
+                    // skip words that contain capital letters
                     if (
                         key.length > 3 &&
                         !key.includes(' ') &&
                         !key.includes('-') &&
                         !key.includes('.') &&
                         !key.includes('\'') &&
+                        !/[A-Z]/.test(key) &&
                         content[key].meanings
                     ) {
                         accumulator[key] = { d: content[key].meanings.map(meaning => meaning.def) }
