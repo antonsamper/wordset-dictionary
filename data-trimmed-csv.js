@@ -62,14 +62,14 @@ fs.readdir(dataDirectory, (err, files) => {
     }
 
     // write trimmed all data back to a json file - all.json
-    fs.writeFile(`${trimmedDataArrayDirectory}all.json`, JSON.stringify(allWords, null, 4), function (err) {
+    fs.writeFile(`${trimmedDataArrayDirectory}all.json`, JSON.stringify(allWords.sort(), null, 4), function (err) {
         if (err) {
             return console.log(err);
         }
     });
 
     // write trimmed all data back to a csv file - all.csv
-    fs.writeFile(`${trimmedDataArrayDirectory}all.csv`, allWords.join(','), function (err) {
+    fs.writeFile(`${trimmedDataArrayDirectory}all.csv`, allWords.sort().join('\n'), function (err) {
         if (err) {
             return console.log(err);
         }
