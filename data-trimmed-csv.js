@@ -10,8 +10,6 @@ fs.readdir(dataDirectory, (err, files) => {
         throw err;
     }
 
-    const allWords = [];
-
     // loop through all the files and parse content
     for (const file of files) {
         // skip misc.json
