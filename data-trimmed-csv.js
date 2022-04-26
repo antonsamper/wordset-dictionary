@@ -10,6 +10,8 @@ fs.readdir(dataDirectory, (err, files) => {
         throw err;
     }
 
+    const allWords = [];
+
     // loop through all the files and parse content
     for (const file of files) {
         // skip misc.json
@@ -35,6 +37,7 @@ fs.readdir(dataDirectory, (err, files) => {
                     content[key].meanings
                 ) {
                     accumulator.push(key);
+                    allWords.push(key);
                 }
 
                 return accumulator;
@@ -57,4 +60,18 @@ fs.readdir(dataDirectory, (err, files) => {
             });
         }
     }
+
+    // write trimmed all data back to a json file - all.json
+    fs.writeFile(`${trimmedDataArrayDirectory}all.json`, JSON.stringify(allWords, null, 4), function (err) {
+        if (err) {
+            return console.log(err);
+        }
+    });
+
+    // write trimmed all data back to a csv file - all.csv
+    fs.writeFile(`${trimmedDataArrayDirectory}all.csv`, allWords.join(','), function (err) {
+        if (err) {
+            return console.log(err);
+        }
+    });
 });
