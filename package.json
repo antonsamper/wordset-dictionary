@@ -1,0 +1,23 @@
+{
+  "name": "wordset-dictionary",
+  "version": "1.0.0",
+  "description": "Wordset Dictionary ==================",
+  "main": "data-trimmed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonsamper/wordset-dictionary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonsamper/wordset-dictionary/issues"
+  },
+  "homepage": "https://github.com/antonsamper/wordset-dictionary#readme",
+  "dependencies": {
+    "profane-words": "^1.4.0"
+  }
+}

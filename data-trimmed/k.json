@@ -1,3105 +1,506 @@
-{
-    "kindly": {
-        "d": [
-            "in a kind manner or out of kindness",
-            "pleasant and agreeable",
-            "showing or motivated by sympathy and understanding and generosity"
-        ]
-    },
-    "kinda": {
-        "d": [
-            "to some great or small extent"
-        ]
-    },
-    "kinesthetically": {
-        "d": [
-            "in a kinesthetic manner"
-        ]
-    },
-    "kinaesthetically": {
-        "d": [
-            "in a kinesthetic manner"
-        ]
-    },
-    "knowingly": {
-        "d": [
-            "with full knowledge and deliberation"
-        ]
-    },
-    "knavishly": {
-        "d": [
-            "in a dishonest or unscrupulous manner"
-        ]
-    },
-    "keenly": {
-        "d": [
-            "in a keen and discriminating manner"
-        ]
-    },
-    "killingly": {
-        "d": [
-            "in a very humorous manner"
-        ]
-    },
-    "katabatic": {
-        "d": [
-            "concerning wind, caused by local downward motion of cold air"
-        ]
-    },
-    "katabolic": {
-        "d": [
-            "characterized by destructive metabolism",
-            "relating to or characterized by catabolism"
-        ]
-    },
-    "knavish": {
-        "d": [
-            "dishonest or unscrupulous"
-        ]
-    },
-    "knotted": {
-        "d": [
-            "tied with a knot",
-            "used of old persons or old trees"
-        ]
-    },
-    "knotty": {
-        "d": [
-            "tangled in knots or snarls",
-            "making great mental demands",
-            "highly complex or intricate and occasionally devious",
-            "used of old persons or old trees"
-        ]
-    },
-    "kept": {
-        "d": [
-            "not violated or disregarded, especially of promises or contracts "
-        ]
-    },
-    "kaleidoscopic": {
-        "d": [
-            "continually shifting or rapidly changing"
-        ]
-    },
-    "kaleidoscopical": {
-        "d": [
-            "continually shifting or rapidly changing"
-        ]
-    },
-    "khaki": {
-        "d": [
-            "of a yellowish brown color",
-            "a sturdy twilled cloth of a yellowish brown color used especially for military uniforms"
-        ]
-    },
-    "kosher": {
-        "d": [
-            "conforming to Jewish dietary laws",
-            "proper or legitimate",
-            "food that fulfills the requirements of Jewish dietary law"
-        ]
-    },
-    "knockdown": {
-        "d": [
-            "furniture that is easily assembled and dismantled",
-            "a blow that knocks the opponent off his feet"
-        ]
-    },
-    "kayoed": {
-        "d": [
-            "knocked unconscious by a heavy blow"
-        ]
-    },
-    "kinky": {
-        "d": [
-            "informal terms",
-            "regarding hair, in small tight curls",
-            "(used of sexual behavior) showing or appealing to bizarre or deviant tastes"
-        ]
-    },
-    "knightly": {
-        "d": [
-            "being attentive to women like an ideal knight",
-            "characteristic of the time of chivalry and knighthood in the Middle Ages"
-        ]
-    },
-    "knockabout": {
-        "d": [
-            "suitable for rough use",
-            "full of rough and exuberant animal spirits",
-            "a sloop with a simplified rig and no bowsprit"
-        ]
-    },
-    "kaput": {
-        "d": [
-            "destroyed or killed"
-        ]
-    },
-    "knifelike": {
-        "d": [
-            "having a sharp or distinct edge",
-            "cutting or able to cut as if with a knife",
-            "painful as if caused by a sharp instrument",
-            "having or demonstrating ability to recognize or draw fine distinctions"
-        ]
-    },
-    "kinetic": {
-        "d": [
-            "supplying motive force",
-            "characterized by motion",
-            "relating to the motion of material bodies and the forces associated therewith"
-        ]
-    },
-    "keen": {
-        "d": [
-            "having a sharp cutting edge or point",
-            "painful as if caused by a sharp instrument",
-            "very good",
-            "intense or sharp",
-            "having or demonstrating ability to recognize or draw fine distinctions",
-            "a funeral lament sung with loud wailing",
-            "express grief verbally"
-        ]
-    },
-    "killable": {
-        "d": [
-            "fit to kill, especially for food"
-        ]
-    },
-    "knowing": {
-        "d": [
-            "highly educated",
-            "evidencing the possession of inside information",
-            "alert and fully informed",
-            "characterized by conscious design or purpose",
-            "a clear and certain mental apprehension"
-        ]
-    },
-    "knowledgeable": {
-        "d": [
-            "thoroughly acquainted through study or experience"
-        ]
-    },
-    "kitschy": {
-        "d": [
-            "effusively or insincerely emotional",
-            "tacky, cheap in quality, made of kitsch"
-        ]
-    },
-    "kabbalistic": {
-        "d": [
-            "having a secret or hidden meaning"
-        ]
-    },
-    "kyphotic": {
-        "d": [
-            "characteristic of or suffering from kyphosis, an abnormality of the vertebral column"
-        ]
-    },
-    "kind": {
-        "d": [
-            "tolerant and forgiving under provocation",
-            "agreeable, conducive to comfort",
-            "having or showing a tender and considerate and helpful nature",
-            "a category of things distinguished by some common characteristic or quality"
-        ]
-    },
-    "killing": {
-        "d": [
-            "very funny",
-            "the act of terminating a life",
-            "an event that causes someone to die",
-            "a very large profit"
-        ]
-    },
-    "keyed": {
-        "d": [
-            "fitted with or secured by a key",
-            "set to a key or tone"
-        ]
-    },
-    "keyless": {
-        "d": [
-            "lacking or not requiring a key"
-        ]
-    },
-    "kindhearted": {
-        "d": [
-            "having or proceeding from an innately kind disposition"
-        ]
-    },
-    "knowable": {
-        "d": [
-            "capable of being known"
-        ]
-    },
-    "known": {
-        "d": [
-            "apprehended with certainty"
-        ]
-    },
-    "kingly": {
-        "d": [
-            "having the rank of or resembling or befitting a king"
-        ]
-    },
-    "kinglike": {
-        "d": [
-            "having the rank of or resembling or befitting a king"
-        ]
-    },
-    "kindred": {
-        "d": [
-            "related by blood or marriage",
-            "similar in quality or character",
-            "group of people related by blood or marriage"
-        ]
-    },
-    "kafkaesque": {
-        "d": [
-            "characterized by surreal distortion and a sense of impending danger, like the works of Franz Kafka"
-        ]
-    },
-    "kooky": {
-        "d": [
-            "eccentric or unusual"
-        ]
-    },
-    "kookie": {
-        "d": [
-            "eccentric or unusual"
-        ]
-    },
-    "kittenish": {
-        "d": [
-            "playful like a lively kitten"
-        ]
-    },
-    "knobby": {
-        "d": [
-            "having knobs"
-        ]
-    },
-    "knobbly": {
-        "d": [
-            "having knobs"
-        ]
-    },
-    "knobbed": {
-        "d": [
-            "bumpy or lumpy",
-            "having small and isolated hills",
-            "having a knob"
-        ]
-    },
-    "knockout": {
-        "d": [
-            "very strong or vigorous",
-            "a blow that renders the opponent unconscious",
-            "a very attractive or seductive looking woman"
-        ]
-    },
-    "kempt": {
-        "d": [
-            "maintained to be neat and tidy"
-        ]
-    },
-    "knackered": {
-        "d": [
-            "very tired"
-        ]
-    },
-    "knitted": {
-        "d": [
-            "made by intertwining threads in a series of connected loops rather than by weaving"
-        ]
-    },
-    "Koranic": {
-        "d": [
-            "of or related to the sacred texts of Islam"
-        ]
-    },
-    "kinesthetic": {
-        "d": [
-            "of or relating to kinesthesis"
-        ]
-    },
-    "kinaesthetic": {
-        "d": [
-            "of or relating to kinesthesis"
-        ]
-    },
-    "Kokka": {
-        "d": [
-            "of or pertaining to the branch of Shinto recognized as the state religion of Japan"
-        ]
-    },
-    "Korean": {
-        "d": [
-            "of or relating to or characteristic of Korea or its people or language",
-            "the Korean language",
-            "a person from the Korea or of Korean descent"
-        ]
-    },
-    "Kampuchean": {
-        "d": [
-            "of or relating to or characteristic of Cambodia or its people or language",
-            "an individual from Cambodia"
-        ]
-    },
-    "Kyrgyzstani": {
-        "d": [
-            "of or relating to or characteristic of Kyrgyzstan or its people or culture"
-        ]
-    },
-    "katharobic": {
-        "d": [
-            "of living being in an oxygenated environment lacking organic matter"
-        ]
-    },
-    "Kantian": {
-        "d": [
-            "of or relating to Immanuel Kant or his philosophy"
-        ]
-    },
-    "Keynesian": {
-        "d": [
-            "of or relating to John Maynard Keynes or to his economic theories"
-        ]
-    },
-    "Kiplingesque": {
-        "d": [
-            "in the manner of Rudyard Kipling"
-        ]
-    },
-    "karyokinetic": {
-        "d": [
-            "of or relating to the division of the nucleus of a cell during mitosis or meiosis"
-        ]
-    },
-    "Kashmiri": {
-        "d": [
-            "of or relating to or characteristic of Kashmir or its people or culture"
-        ]
-    },
-    "Kazakhstani": {
-        "d": [
-            "of or pertaining to Kazakhstan or to the Kazakhs or their culture"
-        ]
-    },
-    "Kenyan": {
-        "d": [
-            "of or relating to or characteristic of Kenya or its people",
-            "a person from Kenya or of Kenyan descent"
-        ]
-    },
-    "Kurdish": {
-        "d": [
-            "of or relating to Kurdistan, the Kurds, or their language and culture"
-        ]
-    },
-    "Kuwaiti": {
-        "d": [
-            "of or relating to the kingdom of Kuwait, its capital, or its people"
-        ]
-    },
-    "Kechuan": {
-        "d": [
-            "of or relating to the Quechua people or their language"
-        ]
-    },
-    "Katari": {
-        "d": [
-            "of or concerning Qatar or its inhabitants"
-        ]
-    },
-    "Kafkaesque": {
-        "d": [
-            "relating to or in the manner of Franz Kafka or his writings"
-        ]
-    },
-    "keeled": {
-        "d": [
-            "having a ridge or shaped like a ridge or suggesting the keel of a ship"
-        ]
-    },
-    "kindness": {
-        "d": [
-            "a kind act",
-            "tendency to be kind and forgiving",
-            "the quality of being warmhearted and considerate and humane and sympathetic"
-        ]
-    },
-    "knowledge": {
-        "d": [
-            "the psychological result of perception, learning, and reasoning"
-        ]
-    },
-    "knuckleball": {
-        "d": [
-            "a baseball pitch thrown with little speed or spin"
-        ]
-    },
-    "knuckler": {
-        "d": [
-            "a baseball pitch thrown with little speed or spin"
-        ]
-    },
-    "knock": {
-        "d": [
-            "the act of hitting vigorously",
-            "negative criticism",
-            "a bad experience",
-            "the sound of knocking (as on a door or in an engine or bearing)",
-            "a vigorous blow",
-            "find fault with",
-            "deliver a sharp blow or push :'He knocked the glass clear across the room'",
-            "knock against with force or violence",
-            "rap with the knuckles",
-            "sound like a car engine that is firing too early",
-            "make light, repeated taps on a surface"
-        ]
-    },
-    "kick": {
-        "d": [
-            "the act of delivering a blow with the foot",
-            "a rhythmic thrusting movement of the legs as in swimming or calisthenics",
-            "the sudden stimulation provided by strong drink, or certain drugs",
-            "informal terms for objecting",
-            "the backward jerk of a gun when it is fired",
-            "the swift release of a store of affective force",
-            "express complaints, discontent, displeasure, or unhappiness",
-            "make a goal",
-            "stop consuming",
-            "strike with the foot",
-            "spring back, as from a forceful thrust",
-            "drive or propel with the foot",
-            "thrash about or strike out with the feet",
-            "kick a leg up"
-        ]
-    },
-    "kicking": {
-        "d": [
-            "the act of delivering a blow with the foot",
-            "a rhythmic thrusting movement of the legs as in swimming or calisthenics"
-        ]
-    },
-    "kayo": {
-        "d": [
-            "a blow that renders the opponent unconscious",
-            "to knock unconscious or senseless"
-        ]
-    },
-    "kiss": {
-        "d": [
-            "a light glancing touch",
-            "the act of caressing with the lips, or an instance thereof",
-            "any of several bite-sized candies",
-            "a cookie made of egg whites and sugar",
-            "touch with the lips or press the lips against someone's mouth or other body part as an expression of love, greeting, and so on",
-            "touch lightly or gently"
-        ]
-    },
-    "kill": {
-        "d": [
-            "the destruction of an enemy plane or ship or tank or missile",
-            "the act of terminating a life",
-            "end or extinguish by forceful means",
-            "destroy a vitally essential quality of or in",
-            "cause to cease operating",
-            "tire out completely",
-            "mark for deletion, rub off, or erase",
-            "drink down entirely",
-            "cause to die",
-            "cause the death of, without intention",
-            "deprive of life",
-            "hit with great force",
-            "hit with so much force as to make a return impossible, in racket games",
-            "overwhelm with hilarity, pleasure, or admiration",
-            "be the source of great pain for",
-            "thwart the passage of",
-            "be fatal"
-        ]
-    },
-    "kickoff": {
-        "d": [
-            "(football) a kick from the center of the field to start a football game or to resume it after a score",
-            "a start given to contestants",
-            "the time at which something is supposed to begin"
-        ]
-    },
-    "katharsis": {
-        "d": [
-            "in psychoanalysis, the purging of emotional tensions",
-            "purging the body by the use of a cathartic to stimulate evacuation of the bowels"
-        ]
-    },
-    "keystroke": {
-        "d": [
-            "a single tap of a key on a keyboard"
-        ]
-    },
-    "kneel": {
-        "d": [
-            "supporting yourself on your knees",
-            "to rest one's weight on one's knees"
-        ]
-    },
-    "kneeling": {
-        "d": [
-            "supporting yourself on your knees"
-        ]
-    },
-    "kindling": {
-        "d": [
-            "the act of setting something on fire",
-            "material for starting a fire"
-        ]
-    },
-    "kittee": {
-        "d": [
-            "a form of torture where fingers are bound between two pieces of bamboo or other wood and squeezed, purportedly used in parts of India around 1830"
-        ]
-    },
-    "knucklebones": {
-        "d": [
-            "a game in which jackstones are thrown and picked up in various groups between bounces of a small rubber ball"
-        ]
-    },
-    "klondike": {
-        "d": [
-            "a form of solitaire that begins with seven piles of cards with the top cards facing up"
-        ]
-    },
-    "keno": {
-        "d": [
-            "a game in which numbered balls are drawn at random and players cover the corresponding numbers on their cards"
-        ]
-    },
-    "khanate": {
-        "d": [
-            "a Turko-Mongol word used to describe a political entity ruled by a Khan or Khagan. Equivalent to tribal chiefdom, principality, kingdom or even empire",
-            "the realm of a khan"
-        ]
-    },
-    "keratoscopy": {
-        "d": [
-            "examination of the cornea with a keratoscope to detect irregularities in its anterior surface"
-        ]
-    },
-    "keratoplasty": {
-        "d": [
-            "a surgical procedure in which part or all of a damaged or diseased cornea is replaced by healthy corneal tissue from a donor"
-        ]
-    },
-    "keratotomy": {
-        "d": [
-            "a surgical incision into the cornea"
-        ]
-    },
-    "knavery": {
-        "d": [
-            "lack of honesty",
-            "a knave's misbehavior"
-        ]
-    },
-    "kidnapping": {
-        "d": [
-            "the unlawful act of capturing and carrying away a person against their will and holding them in false imprisonment"
-        ]
-    },
-    "keeping": {
-        "d": [
-            "the act of retaining something",
-            "the responsibility of a guardian or keeper",
-            "conformity or harmony"
-        ]
-    },
-    "karate": {
-        "d": [
-            "a traditional Japanese system of unarmed combat"
-        ]
-    },
-    "kinesis": {
-        "d": [
-            "a movement that is a response to a stimulus but is not oriented with respect to the source of stimulation"
-        ]
-    },
-    "kissing": {
-        "d": [
-            "affectionate touching with the lips"
-        ]
-    },
-    "knitting": {
-        "d": [
-            "creating knitted wear",
-            "needlework created by interlacing yarn in a series of connected loops using straight eyeless needles or by machine"
-        ]
-    },
-    "kerb": {
-        "d": [
-            "the act of restraining power or action or limiting excess",
-            "an edge between a sidewalk and a roadway consisting of a line of curbstones (usually forming part of a gutter)",
-            "a horse's bit with an attached chain or strap to check the horse",
-            "to place restrictions on",
-            "to put down by force or authority",
-            "to keep to the curb",
-            "to lessen the intensity of"
-        ]
-    },
-    "kabbalism": {
-        "d": [
-            "adherence to some extreme traditional theological concept or interpretation"
-        ]
-    },
-    "karaoke": {
-        "d": [
-            "singing popular songs accompanied by a recording of an orchestra, usually in bars or nightclubs"
-        ]
-    },
-    "kelp": {
-        "d": [
-            "large brown seaweeds having fluted leathery fronds"
-        ]
-    },
-    "killifish": {
-        "d": [
-            "a small mostly marine warm-water carp-like schooling fishes"
-        ]
-    },
-    "kiwi": {
-        "d": [
-            "nocturnal flightless bird of New Zealand having a long neck and stout legs",
-            "fuzzy brown egg-shaped fruit with slightly tart green flesh",
-            "climbing vine native to China"
-        ]
-    },
-    "kinglet": {
-        "d": [
-            "small birds resembling warblers but having some of the habits of titmice"
-        ]
-    },
-    "kingbird": {
-        "d": [
-            "a large American flycatcher"
-        ]
-    },
-    "kestrel": {
-        "d": [
-            "small Old World falcon that hovers in the air against a wind",
-            "small North American falcon"
-        ]
-    },
-    "kite": {
-        "d": [
-            "any of several small graceful hawks of the family Accipitridae having long pointed wings and feeding on insects and small animals",
-            "a plaything consisting of a light frame covered with tissue paper",
-            "a bank check drawn on insufficient funds at another bank in order to take advantage of the float",
-            "a bank check that has been fraudulently altered to increase its face value",
-            "to fly a kite",
-            "to soar or fly like a kite",
-            "to get credit or money by using a bad check",
-            "to increase the amount of a check fraudulently"
-        ]
-    },
-    "kingsnake": {
-        "d": [
-            "any of numerous nonvenomous North American constrictors"
-        ]
-    },
-    "krait": {
-        "d": [
-            "a brightly colored venomous but nonaggressive snake of southeastern Asia and Malay peninsula"
-        ]
-    },
-    "kingfisher": {
-        "d": [
-            "a nonpasserine large-headed bird with a short tail and long sharp bill"
-        ]
-    },
-    "kangaroo": {
-        "d": [
-            "any of several herbivorous leaping marsupials of Australia and New Guinea having large powerful hind legs and a long thick tail"
-        ]
-    },
-    "koala": {
-        "d": [
-            "a sluggish tailless Australian arboreal marsupial with grey furry ears and coat"
-        ]
-    },
-    "krill": {
-        "d": [
-            "shrimp-like planktonic crustaceans"
-        ]
-    },
-    "kildeer": {
-        "d": [
-            "an American plover of inland waters and fields having a distinctive cry"
-        ]
-    },
-    "killdeer": {
-        "d": [
-            "an American plover of inland waters and fields having a distinctive cry"
-        ]
-    },
-    "knot": {
-        "d": [
-            "a sandpiper that breeds in the Arctic and winters in the southern hemisphere",
-            "any of various fastenings formed by looping and tying a rope or cord upon itself or to another rope or to another object",
-            "soft lump or unevenness in a yarn",
-            "a tight cluster of people or things",
-            "a unit of length used in navigation",
-            "something twisted and tight and swollen",
-            "a hard cross-grained round piece of wood in a board where a branch emerged",
-            "tie or fasten into a knot",
-            "tangle or complicate",
-            "make into knots"
-        ]
-    },
-    "kaki": {
-        "d": [
-            "a blackish stilt of New Zealand sometimes considered a color phase of the white-headed stilt",
-            "a small deciduous Asiatic tree bearing large red or orange edible astringent fruit"
-        ]
-    },
-    "kittiwake": {
-        "d": [
-            "a small pearl-grey gull of northern regions"
-        ]
-    },
-    "killer": {
-        "d": [
-            "predatory black-and-white toothed whale with large dorsal fin",
-            "a difficulty that is hard to deal with",
-            "someone who causes the death of a person or animal",
-            "the causal agent resulting in death"
-        ]
-    },
-    "keeshond": {
-        "d": [
-            "a spitz-like dog, originating in Holland, having a shaggy greyish coat and tightly curled tail"
-        ]
-    },
-    "kuvasz": {
-        "d": [
-            "a long-established Hungarian breed of tall light-footed but sturdy white dog"
-        ]
-    },
-    "kelpie": {
-        "d": [
-            "an Australian sheepdog with pointed ears",
-            "(Scottish folklore) water spirit in the form of a horse that likes to drown its riders"
-        ]
-    },
-    "komondor": {
-        "d": [
-            "a Hungarian breed of large powerful shaggy-coated white dog"
-        ]
-    },
-    "kitty": {
-        "d": [
-            "informal terms referring to a domestic cat",
-            "young domestic cat",
-            "the cumulative amount involved in a game",
-            "the combined stakes of the betters"
-        ]
-    },
-    "kitten": {
-        "d": [
-            "a young domestic cat",
-            "to have kittens"
-        ]
-    },
-    "katydid": {
-        "d": [
-            "large green long-horned grasshopper of North America"
-        ]
-    },
-    "kiang": {
-        "d": [
-            "a wild ass of Tibet and Mongolia"
-        ]
-    },
-    "kine": {
-        "d": [
-            "domestic cattle"
-        ]
-    },
-    "kudu": {
-        "d": [
-            "either of two spiral-horned antelopes of the African bush"
-        ]
-    },
-    "koodoo": {
-        "d": [
-            "either of two spiral-horned antelopes of the African bush"
-        ]
-    },
-    "koudou": {
-        "d": [
-            "either of two spiral-horned antelopes of the African bush"
-        ]
-    },
-    "karakul": {
-        "d": [
-            "a hardy coarse-haired sheep of central Asia"
-        ]
-    },
-    "kanchil": {
-        "d": [
-            "a small chevrotain widely distributed across Southeast Asia"
-        ]
-    },
-    "knee": {
-        "d": [
-            "joint between the femur and tibia in a quadruped",
-            "the part of a trouser leg that provides the cloth covering for the knee",
-            "hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella"
-        ]
-    },
-    "kinkajou": {
-        "d": [
-            "an arboreal fruit-eating mammal of tropical America with a long prehensile tail"
-        ]
-    },
-    "kingfish": {
-        "d": [
-            "large game fish of Australia and New Zealand",
-            "any of several food and game fishes of the drum family indigenous to warm Atlantic waters of the North American coast",
-            "small silvery marine food fish found off California",
-            "large edible mackerel of temperate United States coastal Atlantic waters",
-            "the lean flesh of any of several fish caught off the Atlantic coast of the United States"
-        ]
-    },
-    "knapsack": {
-        "d": [
-            "a bag carried by a strap on your back or shoulder"
-        ]
-    },
-    "knickers": {
-        "d": [
-            "underpants worn by women",
-            "trousers ending above the knee"
-        ]
-    },
-    "kiosk": {
-        "d": [
-            "a small area set off by walls for special use",
-            "a small store that sells convenience products"
-        ]
-    },
-    "knickknack": {
-        "d": [
-            "a small inexpensive mass-produced article used for ornamentation"
-        ]
-    },
-    "knickknackery": {
-        "d": [
-            "a collection of miscellaneous curios"
-        ]
-    },
-    "knucks": {
-        "d": [
-            "a small metal weapon that fits over one's knuckles"
-        ]
-    },
-    "knuckles": {
-        "d": [
-            "a small metal weapon that fits over one's knuckles"
-        ]
-    },
-    "knickerbockers": {
-        "d": [
-            "trousers ending above the knee"
-        ]
-    },
-    "kaftan": {
-        "d": [
-            "a cotton or silk cloak with full sleeves and sash reaching down to the ankles"
-        ]
-    },
-    "kalpac": {
-        "d": [
-            "a high-crowned black cap, usually made of felt or sheepskin, worn by men in Turkey, Iran and the Caucasus"
-        ]
-    },
-    "karabiner": {
-        "d": [
-            "an oblong metal ring with a spring clip, often used in climbing, sailing, caving, and other activities that require ropes"
-        ]
-    },
-    "khan": {
-        "d": [
-            "an inn in some eastern countries with a large courtyard that provides accommodation for caravans",
-            "a title given to rulers or other important people in Asian countries"
-        ]
-    },
-    "keypad": {
-        "d": [
-            "a keyboard that is a data input device for computers"
-        ]
-    },
-    "kerbstone": {
-        "d": [
-            "a paving stone forming part of a curb"
-        ]
-    },
-    "kingpin": {
-        "d": [
-            "the front bowling pin in the triangular arrangement of ten pins",
-            "bolt that provides a steering joint in a motor vehicle",
-            "the most important person in a group or undertaking"
-        ]
-    },
-    "kalian": {
-        "d": [
-            "an oriental tobacco pipe with a long flexible tube connected to a container where the smoke is cooled by passing through water"
-        ]
-    },
-    "keep": {
-        "d": [
-            "a cell in a jail or prison",
-            "the main tower within the walls of a medieval castle or fortress",
-            "the financial means whereby one lives",
-            "prevent (food) from rotting",
-            "stick to correctly or closely",
-            "maintain by writing regular records",
-            "supply with necessities and support",
-            "hold and prevent from leaving",
-            "retain possession of",
-            "look after",
-            "maintain for use and service",
-            "have as a supply",
-            "store or keep customarily",
-            "retain rights to",
-            "allow to remain in a place or position or maintain a property or feature",
-            "keep under control",
-            "stop (someone or something) from doing something or being in a certain state",
-            "behave as expected during of holidays or rites",
-            "conform one's action or practice to",
-            "to supply with room and board",
-            "to raise or look after",
-            "keep in a certain state, position, or activity",
-            "continue a certain state, condition, or activity",
-            "maintain in safety from injury, harm, or danger",
-            "fail to spoil or rot"
-        ]
-    },
-    "keyring": {
-        "d": [
-            "a circular ring of metal designed to hold keys"
-        ]
-    },
-    "keystone": {
-        "d": [
-            "the central building block at the top of an arch or vault",
-            "a central cohesive source of support and stability"
-        ]
-    },
-    "khadi": {
-        "d": [
-            "a coarse homespun cotton cloth made in India"
-        ]
-    },
-    "khaddar": {
-        "d": [
-            "a coarse homespun cotton cloth made in India"
-        ]
-    },
-    "khakis": {
-        "d": [
-            "a military uniform made of khaki fabric",
-            "cotton plants that are khaki in color"
-        ]
-    },
-    "khimar": {
-        "d": [
-            "a headscarf worn by observant Muslim women that hangs down to just above the waist"
-        ]
-    },
-    "khukuri": {
-        "d": [
-            "a curved steel Nepalese knife with a razor-sharp edge used in combat by the Gurkhas"
-        ]
-    },
-    "kukri": {
-        "d": [
-            "a curved steel Nepalese knife with a razor-sharp edge used in combat by the Gurkhas"
-        ]
-    },
-    "kibble": {
-        "d": [
-            "an iron bucket used for hoisting in wells or mining",
-            "coarsely ground grain or meal, often pelletized, as for animal food",
-            "to grind coarsely"
-        ]
-    },
-    "kachina": {
-        "d": [
-            "a carved doll wearing the costume of a particular Pueblo spirit",
-            "a deified spirit of the Pueblo people",
-            "a masked dancer during a Pueblo religious ceremony who is thought to embody some particular spirit"
-        ]
-    },
-    "kicksorter": {
-        "d": [
-            "scientific instrument consisting of an electronic circuit that permits only voltage pulses of predetermined height to pass"
-        ]
-    },
-    "kaffiyeh": {
-        "d": [
-            "an Arab headdress consisting of a square piece of cloth folded into a triangle and fastened over the crown by an agal"
-        ]
-    },
-    "kickstand": {
-        "d": [
-            "a swiveling metal rod attached to a bicycle or motorcycle or other two-wheeled vehicle"
-        ]
-    },
-    "kalansuwa": {
-        "d": [
-            "a cap that is wrapped around by a turban and worn by Muslim religious elders"
-        ]
-    },
-    "Kalashnikov": {
-        "d": [
-            "a type of rifle that originated in Russia"
-        ]
-    },
-    "kaleidoscope": {
-        "d": [
-            "an optical toy in a tube",
-            "a complex pattern of constantly changing colors and shapes"
-        ]
-    },
-    "kameez": {
-        "d": [
-            "a long tunic worn by many people from the Indian subcontinent, usually with a salwar or churidars"
-        ]
-    },
-    "kiln": {
-        "d": [
-            "a furnace for firing or burning or drying such things as porcelain or bricks"
-        ]
-    },
-    "kamikaze": {
-        "d": [
-            "a fighter pilot trained to perform suicide missions by crashing into targets, usually referring to Japanese pilots in World War II"
-        ]
-    },
-    "kilt": {
-        "d": [
-            "a knee-length pleated tartan skirt worn by men as part of the traditional dress in the Highlands of northern Scotland"
-        ]
-    },
-    "kimono": {
-        "d": [
-            "a traditional, Japanese loose robe"
-        ]
-    },
-    "kinescope": {
-        "d": [
-            "a cathode-ray tube in a television receiver"
-        ]
-    },
-    "kanzu": {
-        "d": [
-            "a long Swahili garment, usually white, with long sleeves"
-        ]
-    },
-    "Kinetoscope": {
-        "d": [
-            "a device invented by Edison that gave an impression of movement as an endless loop of film moved continuously over a light source with a rapid shutter"
-        ]
-    },
-    "king": {
-        "d": [
-            "(chess) the weakest but the most important piece",
-            "one of the four playing cards in a deck bearing the picture of a king",
-            "a checker that has been moved to the opponent's first row where it is promoted to a piece that is free to move either forward or backward",
-            "a very wealthy or powerful businessman",
-            "a male sovereign",
-            "a competitor who holds a preeminent position",
-            "preeminence in a particular category or group or field"
-        ]
-    },
-    "khat": {
-        "d": [
-            "the leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea"
-        ]
-    },
-    "kingbolt": {
-        "d": [
-            "a bolt that provides a steering joint in a motor vehicle"
-        ]
-    },
-    "katharometer": {
-        "d": [
-            "measures thermal conductivity"
-        ]
-    },
-    "kayak": {
-        "d": [
-            "a small canoe consisting of a light frame made watertight with animal skins",
-            "to travel in a small canoe"
-        ]
-    },
-    "kirk": {
-        "d": [
-            "a Scottish church"
-        ]
-    },
-    "kirpan": {
-        "d": [
-            "a ceremonial four-inch curved dagger that Sikh men and women are obliged to wear at all times"
-        ]
-    },
-    "kazoo": {
-        "d": [
-            "a toy wind instrument that has a membrane that makes a sound when you hum into the mouthpiece"
-        ]
-    },
-    "kirtle": {
-        "d": [
-            "a long dress worn by women",
-            "a garment resembling a tunic that was worn by men in the Middle Ages"
-        ]
-    },
-    "keel": {
-        "d": [
-            "one of the main longitudinal beams or plates of the hull of a vessel",
-            "the median ridge on the breastbone of birds that fly",
-            "a projection or ridge that suggests a keel",
-            "to walk as if unable to control one's movements"
-        ]
-    },
-    "keelboat": {
-        "d": [
-            "river boat with a shallow draught and a keel but no sails"
-        ]
-    },
-    "keelson": {
-        "d": [
-            "a longitudinal beam connected to the keel of ship to strengthen it"
-        ]
-    },
-    "kitbag": {
-        "d": [
-            "a knapsack, usually for a soldier"
-        ]
-    },
-    "kitchen": {
-        "d": [
-            "a room equipped for preparing meals"
-        ]
-    },
-    "keepsake": {
-        "d": [
-            "something of sentimental value"
-        ]
-    },
-    "kitchenette": {
-        "d": [
-            "a small kitchen"
-        ]
-    },
-    "kennel": {
-        "d": [
-            "outbuilding that serves as a shelter for a dog",
-            "put up in a kennel"
-        ]
-    },
-    "kitchenware": {
-        "d": [
-            "hardware utensils for use in a kitchen"
-        ]
-    },
-    "kepi": {
-        "d": [
-            "a cap with a flat circular top and a visor"
-        ]
-    },
-    "keratoscope": {
-        "d": [
-            "a medical instrument to examine the cornea in order to detect irregularities in its anterior surface"
-        ]
-    },
-    "kerchief": {
-        "d": [
-            "a square scarf that is folded into a triangle and worn over the head or about the neck"
-        ]
-    },
-    "kern": {
-        "d": [
-            "the part of a metal typeface that projects beyond its body",
-            "to remove a portion of space between adjacent letters",
-            "to furnish with a kern"
-        ]
-    },
-    "ketamine": {
-        "d": [
-            "a general anesthetic and tranquilizer (not a barbiturate) that is administered intravenously or intramuscularly"
-        ]
-    },
-    "ketch": {
-        "d": [
-            "a sailing vessel with two masts"
-        ]
-    },
-    "kettle": {
-        "d": [
-            "a metal pot for stewing or boiling",
-            "a large hemispherical brass or copper percussion instrument with a drumhead that can be tuned by adjusting the tension on it",
-            "(geology) a hollow (typically filled by a lake) that results from the melting of a mass of ice trapped in glacial deposits",
-            "the quantity a kettle will hold"
-        ]
-    },
-    "kettledrum": {
-        "d": [
-            "a large hemispherical brass or copper percussion instrument with a drumhead that can be tuned by adjusting the tension on it"
-        ]
-    },
-    "keyboard": {
-        "d": [
-            "a holder consisting of an arrangement of hooks on which keys or locks can be hung",
-            "a device consisting of a set of keys on a piano, organ, typewriter, typesetting machine, computer or the like"
-        ]
-    },
-    "knave": {
-        "d": [
-            "one of four face cards in a deck bearing a picture of a young prince",
-            "a deceitful and unreliable scoundrel"
-        ]
-    },
-    "keyhole": {
-        "d": [
-            "the hole where a key is inserted"
-        ]
-    },
-    "knobble": {
-        "d": [
-            "a small knob"
-        ]
-    },
-    "knobkerrie": {
-        "d": [
-            "a short wooden club with a heavy knob on one end from Southern or Eastern Africa; similar to a rungu; modernly used a protest symbol for African rights"
-        ]
-    },
-    "knobkerry": {
-        "d": [
-            "a short wooden club with a heavy knob on one end from Southern or Eastern Africa; similar to a rungu; modernly used a protest symbol for African rights"
-        ]
-    },
-    "knobkierie": {
-        "d": [
-            "a short wooden club with a heavy knob on one end from Southern or Eastern Africa; similar to a rungu; modernly used a protest symbol for African rights"
-        ]
-    },
-    "knopkierie": {
-        "d": [
-            "a short wooden club with a heavy knob on one end from Southern or Eastern Africa; similar to a rungu; modernly used a protest symbol for African rights"
-        ]
-    },
-    "knocker": {
-        "d": [
-            "a device (usually metal and ornamental) attached by a hinge to a door",
-            "either of two soft fleshy milk-secreting glandular organs on the chest of a woman",
-            "one who disparages or belittles the worth of something",
-            "a person who knocks (as seeking to gain admittance)",
-            "(Yiddish) a big shot who knows it and acts that way"
-        ]
-    },
-    "knockoff": {
-        "d": [
-            "an unauthorized copy or imitation"
-        ]
-    },
-    "knout": {
-        "d": [
-            "a whip with a lash of leather thongs twisted with wire"
-        ]
-    },
-    "kohl": {
-        "d": [
-            "a cosmetic preparation used by women in Egypt and Arabia to darken the edges of their eyelids"
-        ]
-    },
-    "koto": {
-        "d": [
-            "a Japanese stringed instrument that resembles a zither"
-        ]
-    },
-    "kraal": {
-        "d": [
-            "a pen for livestock in southern Africa",
-            "a village of huts for native Africans in southern Africa"
-        ]
-    },
-    "kremlin": {
-        "d": [
-            "citadel of a Russian town"
-        ]
-    },
-    "kris": {
-        "d": [
-            "a Malayan dagger with a wavy blade"
-        ]
-    },
-    "krummhorn": {
-        "d": [
-            "a Renaissance woodwind with a double reed and a curving tube (crooked horn)"
-        ]
-    },
-    "kurta": {
-        "d": [
-            "a loose collarless shirt worn by many people on the Indian subcontinent, usually with a salwar, churidars, or pyjama"
-        ]
-    },
-    "kylie": {
-        "d": [
-            "an Australian boomerang"
-        ]
-    },
-    "kiley": {
-        "d": [
-            "an Australian boomerang"
-        ]
-    },
-    "kylix": {
-        "d": [
-            "a shallow drinking cup with two handles"
-        ]
-    },
-    "kymograph": {
-        "d": [
-            "scientific instrument consisting of a rotating drum holding paper on which a stylus traces a continuous record (as of breathing or blood pressure)"
-        ]
-    },
-    "kitsch": {
-        "d": [
-            "excessively garish or sentimental art"
-        ]
-    },
-    "klaxon": {
-        "d": [
-            "a kind of loud horn formerly used on motor vehicles"
-        ]
-    },
-    "klystron": {
-        "d": [
-            "an electron tube used to generate or amplify electromagnetic radiation in the microwave region by velocity modulation"
-        ]
-    },
-    "kneeler": {
-        "d": [
-            "a board, sometimes cushioned, for someone to kneel on",
-            "a person in a kneeling position"
-        ]
-    },
-    "knife": {
-        "d": [
-            "an edged tool used as a cutting instrument or weapon",
-            "to use a knife on"
-        ]
-    },
-    "knight": {
-        "d": [
-            "a chessman shaped to resemble the head of a horse",
-            "originally a person of noble birth trained to arms and chivalry",
-            "raise (someone) to knighthood"
-        ]
-    },
-    "knit": {
-        "d": [
-            "needlework created by interlacing yarn in a series of connected loops using straight eyeless needles or by machine",
-            "a basic knitting stitch",
-            "a fabric made by knitting",
-            "to gather something into small wrinkles or folds",
-            "make (textiles) by knitting",
-            "tie or link together"
-        ]
-    },
-    "knitwork": {
-        "d": [
-            "needlework created by interlacing yarn in a series of connected loops using straight eyeless needles or by machine"
-        ]
-    },
-    "knitwear": {
-        "d": [
-            "knitted clothing"
-        ]
-    },
-    "knob": {
-        "d": [
-            "a round handle",
-            "a circular rounded projection or protuberance",
-            "an ornament in the shape of a ball on the hilt of a sword or dagger",
-            "any thickened enlargement"
-        ]
-    },
-    "kippah": {
-        "d": [
-            "a skullcap worn by Jews, especially at prayer"
-        ]
-    },
-    "kippa": {
-        "d": [
-            "a skullcap worn by Jews, especially at prayer"
-        ]
-    },
-    "kipoh": {
-        "d": [
-            "a skullcap worn by Jews, especially at prayer"
-        ]
-    },
-    "kipa": {
-        "d": [
-            "a skullcap worn by Jews, especially at prayer"
-        ]
-    },
-    "koppel": {
-        "d": [
-            "a skullcap worn by Jews, especially at prayer"
-        ]
-    },
-    "keenness": {
-        "d": [
-            "thinness of edge or fineness of point",
-            "a quick and penetrating intelligence",
-            "a positive feeling of wanting to push ahead with something"
-        ]
-    },
-    "knottiness": {
-        "d": [
-            "puzzling complexity"
-        ]
-    },
-    "kindliness": {
-        "d": [
-            "friendliness evidence by a kindly and helpful disposition"
-        ]
-    },
-    "knowledgeability": {
-        "d": [
-            "wisdom as evidenced by the possession of knowledge"
-        ]
-    },
-    "knowledgeableness": {
-        "d": [
-            "wisdom as evidenced by the possession of knowledge"
-        ]
-    },
-    "kneecap": {
-        "d": [
-            "a small flat triangular bone in front of the knee that protects the knee joint",
-            "to shoot in the kneecap, often done by terrorist groups as a warning"
-        ]
-    },
-    "kneepan": {
-        "d": [
-            "a small flat triangular bone in front of the knee that protects the knee joint"
-        ]
-    },
-    "kidney": {
-        "d": [
-            "a bean-shaped excretory organ that filters urea and other waste from the blood and excretes them"
-        ]
-    },
-    "karyolymph": {
-        "d": [
-            "a clear liquid in the cell nucleus in which the nucleolus and chromatin and other structures are dispersed"
-        ]
-    },
-    "karyoplasm": {
-        "d": [
-            "the protoplasm that constitutes the nucleus of a cell"
-        ]
-    },
-    "karyon": {
-        "d": [
-            "a part of the cell containing DNA and RNA and responsible for growth and reproduction"
-        ]
-    },
-    "kinetochore": {
-        "d": [
-            "a specialized condensed region of each chromosome that appears during mitosis where the chromatids are held together to form an X shape"
-        ]
-    },
-    "karyotype": {
-        "d": [
-            "the appearance of the chromosomal makeup of a somatic cell in an individual or species, including the number and arrangement and size and structure of the chromosomes"
-        ]
-    },
-    "keister": {
-        "d": [
-            "the fleshy part of the human body that you sit on"
-        ]
-    },
-    "knuckle": {
-        "d": [
-            "a joint of a finger when the fist is closed",
-            "to shoot a marble while keeping one's knuckles on the ground",
-            "to press or rub with the knuckles"
-        ]
-    },
-    "knack": {
-        "d": [
-            "a special way of doing something"
-        ]
-    },
-    "kisser": {
-        "d": [
-            "the human face (`kisser' and `smiler' and `mug' are informal terms for `face' and `phiz' is British)",
-            "someone who kisses"
-        ]
-    },
-    "knowingness": {
-        "d": [
-            "shrewdness demonstrated by knowledge",
-            "having knowledge of"
-        ]
-    },
-    "kinesthesis": {
-        "d": [
-            "the ability to feel movements of the limbs and body"
-        ]
-    },
-    "kinaesthesis": {
-        "d": [
-            "the ability to feel movements of the limbs and body"
-        ]
-    },
-    "kinesthesia": {
-        "d": [
-            "the perception of body position and and movement based on input received by sensory organs in the muscles and joints"
-        ]
-    },
-    "kinaesthesia": {
-        "d": [
-            "the perception of body position and and movement based on input received by sensory organs in the muscles and joints"
-        ]
-    },
-    "kinesthetics": {
-        "d": [
-            "the ability to feel movements of the limbs and body"
-        ]
-    },
-    "kinanesthesia": {
-        "d": [
-            "an inability to sense bodily movement"
-        ]
-    },
-    "kinanaesthesia": {
-        "d": [
-            "an inability to sense bodily movement"
-        ]
-    },
-    "kink": {
-        "d": [
-            "a difficulty or flaw in a plan or operation",
-            "an eccentric idea",
-            "a highly specific sexual or erotic interest outside of mainstream expectations",
-            "a sharp bend in a line produced when a line having a loop is pulled tight",
-            "a painful muscle spasm especially in the neck or back (`rick' and `wrick' are British)",
-            "form a curl, curve, or kink",
-            "curl tightly"
-        ]
-    },
-    "know": {
-        "d": [
-            "the fact of being aware of information that is known to few people",
-            "accept (someone) to be what is claimed or accept his power and authority",
-            "be familiar or acquainted with a person or an object",
-            "be cognizant or aware of a fact or a specific piece of information",
-            "be aware of the truth of something",
-            "to understand how to do or perform something",
-            "have fixed in the mind",
-            "have firsthand knowledge of states, situations, emotions, or sensations",
-            "perceive as familiar",
-            "be able to distinguish, recognize as being different",
-            "know the nature or character of",
-            "have sexual intercourse with"
-        ]
-    },
-    "keynote": {
-        "d": [
-            "a fundamental or central idea",
-            "the first note of a diatonic musical scale",
-            "the principal theme in a speech or literary work",
-            "to set the keynote of",
-            "to deliver the keynote address to an audience"
-        ]
-    },
-    "knightliness": {
-        "d": [
-            "the medieval principles governing knighthood and knightly conduct"
-        ]
-    },
-    "kernel": {
-        "d": [
-            "the choicest or most essential or most vital part of some idea or experience",
-            "a single whole grain of a cereal",
-            "the inner and usually edible part of a seed or grain or nut or fruit stone"
-        ]
-    },
-    "kinetics": {
-        "d": [
-            "the branch of mechanics concerned with the forces that cause motions of bodies"
-        ]
-    },
-    "kinematics": {
-        "d": [
-            "the branch of mechanics concerned with motion without reference to force or mass"
-        ]
-    },
-    "kinesiology": {
-        "d": [
-            "the branch of physiology that studies the mechanics and anatomy in relation to human movement"
-        ]
-    },
-    "keyword": {
-        "d": [
-            "a significant word used in indexing or cataloging",
-            "a word that is used as a pattern to decode an encrypted message"
-        ]
-    },
-    "keycard": {
-        "d": [
-            "a plastic card that has a magnetically coded strip that is scanned in order to operate a mechanism"
-        ]
-    },
-    "kudos": {
-        "d": [
-            "an expression of approval and commendation"
-        ]
-    },
-    "kabala": {
-        "d": [
-            "an esoteric or occult matter resembling the mystical Jewish teachings, based on esoteric writings, that is traditionally secret"
-        ]
-    },
-    "kabbala": {
-        "d": [
-            "an esoteric or occult matter resembling the mystical Jewish teachings, based on esoteric writings, that is traditionally secret"
-        ]
-    },
-    "kabbalah": {
-        "d": [
-            "an esoteric or occult matter resembling the mystical Jewish teachings, based on esoteric writings, that is traditionally secret"
-        ]
-    },
-    "kabballah": {
-        "d": [
-            "an esoteric or occult matter resembling the mystical Jewish teachings, based on esoteric writings, that is traditionally secret"
-        ]
-    },
-    "kaballah": {
-        "d": [
-            "an esoteric or occult matter resembling the mystical Jewish teachings, based on esoteric writings, that is traditionally secret"
-        ]
-    },
-    "koan": {
-        "d": [
-            "a paradoxical anecdote or a riddle that has no solution"
-        ]
-    },
-    "kappa": {
-        "d": [
-            "the 10th letter of the Greek alphabet"
-        ]
-    },
-    "kaph": {
-        "d": [
-            "the 11th letter of the Hebrew alphabet"
-        ]
-    },
-    "koine": {
-        "d": [
-            "a common language used by speakers of different languages"
-        ]
-    },
-    "kwela": {
-        "d": [
-            "a kind of danceable music popular among black South Africans"
-        ]
-    },
-    "kenning": {
-        "d": [
-            "a metaphoric name for something that is often common or simple, used especially in Old English and Old Norse poetry"
-        ]
-    },
-    "kvetch": {
-        "d": [
-            "a nagging complaint, from Yiddish",
-            "a constant complainer",
-            "to express complaints, discontent, displeasure, or unhappiness"
-        ]
-    },
-    "kowtow": {
-        "d": [
-            "a former Chinese custom of touching the ground with the forehead as a sign of respect or submission",
-            "to try to gain favor by cringing or flattering"
-        ]
-    },
-    "kotow": {
-        "d": [
-            "a former Chinese custom of touching the ground with the forehead as a sign of respect or submission",
-            "to try to gain favor by cringing or flattering"
-        ]
-    },
-    "kerygma": {
-        "d": [
-            "preaching the gospel of Christ in the manner of the early church"
-        ]
-    },
-    "kerugma": {
-        "d": [
-            "preaching the gospel of Christ in the manner of the early church"
-        ]
-    },
-    "karma": {
-        "d": [
-            "in Hinduism and Buddhism, the consequences of a person's actions that determine their destiny in their next incarnation"
-        ]
-    },
-    "kismet": {
-        "d": [
-            "fate      "
-        ]
-    },
-    "kismat": {
-        "d": [
-            "fate      "
-        ]
-    },
-    "katzenjammer": {
-        "d": [
-            "loud confused noise from many sources",
-            "disagreeable aftereffects from the use of drugs, especially alcohol"
-        ]
-    },
-    "knell": {
-        "d": [
-            "the sound of a bell rung slowly to announce a death or a funeral or the end of something",
-            "to make bells ring, often for the purposes of musical edification",
-            "to ring, as in announcing death"
-        ]
-    },
-    "knocking": {
-        "d": [
-            "the sound of striking a surface noisily to attract attention"
-        ]
-    },
-    "kindheartedness": {
-        "d": [
-            "sympathy arising from a kind heart"
-        ]
-    },
-    "kickshaw": {
-        "d": [
-            "something considered choice to eat"
-        ]
-    },
-    "knish": {
-        "d": [
-            "a baked or fried turnover filled with potato or meat or cheese, from Yiddish"
-        ]
-    },
-    "knackwurst": {
-        "d": [
-            "a short thick highly seasoned sausage"
-        ]
-    },
-    "knockwurst": {
-        "d": [
-            "a short thick highly seasoned sausage"
-        ]
-    },
-    "kale": {
-        "d": [
-            "a hardy cabbage with coarse curly leaves that do not form a head",
-            "money, cash"
-        ]
-    },
-    "kail": {
-        "d": [
-            "a hardy cabbage with coarse curly leaves that do not form a head",
-            "money, cash"
-        ]
-    },
-    "kasha": {
-        "d": [
-            "boiled or baked buckwheat"
-        ]
-    },
-    "kohlrabi": {
-        "d": [
-            "fleshy turnip-shaped edible stem of the kohlrabi plant",
-            "plant cultivated for its enlarged fleshy turnip-shaped edible stem"
-        ]
-    },
-    "kumquat": {
-        "d": [
-            "small oval citrus fruit with thin sweet rind and very acid pulp",
-            "any of several trees or shrubs of the genus Fortunella bearing small orange-colored edible fruits with thick sweet-flavored skin and sour pulp"
-        ]
-    },
-    "ketembilla": {
-        "d": [
-            "maroon-purple gooseberry-like fruit of India having tart-sweet purple pulp used especially for preserves",
-            "a small shrubby spiny tree cultivated for its maroon-purple fruit with sweet purple pulp tasting like gooseberries"
-        ]
-    },
-    "kitembilla": {
-        "d": [
-            "a maroon-purple gooseberry-like fruit of India having tart-sweet purple pulp used especially for preserves",
-            "a small shrubby spiny tree cultivated for its maroon-purple fruit with sweet purple pulp tasting like gooseberries"
-        ]
-    },
-    "kitambilla": {
-        "d": [
-            "a maroon-purple gooseberry-like fruit of India having tart-sweet purple pulp used especially for preserves"
-        ]
-    },
-    "ketchup": {
-        "d": [
-            "thick condiment sauce made from tomatoes"
-        ]
-    },
-    "kipper": {
-        "d": [
-            "salted and smoked herring"
-        ]
-    },
-    "kedgeree": {
-        "d": [
-            "a dish of rice and hard-boiled eggs and cooked flaked fish, often smoked haddock, native to India"
-        ]
-    },
-    "kitcherie": {
-        "d": [
-            "a dish of rice and hard-boiled eggs and cooked flaked fish, often smoked haddock, native to India"
-        ]
-    },
-    "kitchari": {
-        "d": [
-            "a dish of rice and hard-boiled eggs and cooked flaked fish, often smoked haddock, native to India"
-        ]
-    },
-    "kidgeree": {
-        "d": [
-            "a dish of rice and hard-boiled eggs and cooked flaked fish, often smoked haddock, native to India"
-        ]
-    },
-    "kedgaree": {
-        "d": [
-            "a dish of rice and hard-boiled eggs and cooked flaked fish, often smoked haddock, native to India"
-        ]
-    },
-    "kitchiri": {
-        "d": [
-            "a dish of rice and hard-boiled eggs and cooked flaked fish, often smoked haddock, native to India"
-        ]
-    },
-    "khichuri": {
-        "d": [
-            "a dish of rice and hard-boiled eggs and cooked flaked fish, often smoked haddock, native to India"
-        ]
-    },
-    "kvass": {
-        "d": [
-            "a fermented beverage resembling beer but made from rye or barley"
-        ]
-    },
-    "kava": {
-        "d": [
-            "an alcoholic drink made from the aromatic roots of the kava shrub"
-        ]
-    },
-    "kishke": {
-        "d": [
-            "(Judaism) roasted fowl intestines with a seasoned filling of matzo meal and suet"
-        ]
-    },
-    "kabob": {
-        "d": [
-            "cubes of meat marinated and cooked on a skewer usually with vegetables"
-        ]
-    },
-    "kebab": {
-        "d": [
-            "cubes of meat marinated and cooked on a skewer usually with vegetables"
-        ]
-    },
-    "kummel": {
-        "d": [
-            "a liqueur flavored with caraway seed or cumin"
-        ]
-    },
-    "kirsch": {
-        "d": [
-            "a clear, colorless brandy made from the double distillation of fermented of black morello cherry juice"
-        ]
-    },
-    "koumiss": {
-        "d": [
-            "an alcoholic beverage made from fermented mare's milk"
-        ]
-    },
-    "kumis": {
-        "d": [
-            "an alcoholic beverage made from fermented mare's milk"
-        ]
-    },
-    "kludge": {
-        "d": [
-            "a badly assembled collection of parts hastily assembled to serve some particular purpose, often used to refer to computing systems or software that has been badly put together"
-        ]
-    },
-    "kith": {
-        "d": [
-            "your friends and acquaintances"
-        ]
-    },
-    "kinfolk": {
-        "d": [
-            "people treated as if they were family",
-            "people descended from a common ancestor"
-        ]
-    },
-    "kinsfolk": {
-        "d": [
-            "people treated as if they were family",
-            "people descended from a common ancestor"
-        ]
-    },
-    "kingdom": {
-        "d": [
-            "a basic group of natural objects",
-            "the second highest taxonomic group into which organisms are grouped, being beneath domain and above phylum",
-            "a monarchy with a king or queen as head of state",
-            "the domain ruled by a king or queen",
-            "a domain in which something is dominant"
-        ]
-    },
-    "klavern": {
-        "d": [
-            "a local unit of the Ku Klux Klan"
-        ]
-    },
-    "kibbutz": {
-        "d": [
-            "a collective farm or settlement owned by its members in modern Israel"
-        ]
-    },
-    "kolkhoz": {
-        "d": [
-            "a collective farm controlled by the USSR"
-        ]
-    },
-    "koinonia": {
-        "d": [
-            "communion by intimate participation, associated with the Christian church; fellowship"
-        ]
-    },
-    "knighthood": {
-        "d": [
-            "the rank of knight"
-        ]
-    },
-    "kindergarten": {
-        "d": [
-            "a school or class, typically for children age four to six, designed to prepare them for primary school"
-        ]
-    },
-    "kasbah": {
-        "d": [
-            "an older or native quarter of many cities in northern Africa"
-        ]
-    },
-    "kampong": {
-        "d": [
-            "a native village in Malaysia"
-        ]
-    },
-    "kleptomania": {
-        "d": [
-            "an irresistible impulse to steal in the absence of any economic motive"
-        ]
-    },
-    "kaon": {
-        "d": [
-            "an unstable meson produced as the result of a high-energy particle collision"
-        ]
-    },
-    "knoll": {
-        "d": [
-            "a small natural hill"
-        ]
-    },
-    "kopje": {
-        "d": [
-            "a small hill rising up from the African veld"
-        ]
-    },
-    "koppie": {
-        "d": [
-            "a small hill rising up from the African veld"
-        ]
-    },
-    "kelpy": {
-        "d": [
-            "in Scottish folklore, a water spirit in the form of a horse that likes to drown its riders"
-        ]
-    },
-    "kike": {
-        "d": [
-            "term for a Jew"
-        ]
-    },
-    "Kraut": {
-        "d": [
-            "offensive term for a person of German descent"
-        ]
-    },
-    "Krauthead": {
-        "d": [
-            "an offensive term for a person of German descent"
-        ]
-    },
-    "kaliph": {
-        "d": [
-            "the civil and religious leader of a Muslim state considered to be a representative of Allah on earth"
-        ]
-    },
-    "kalif": {
-        "d": [
-            "the civil and religious leader of a Muslim state considered to be a representative of Allah on earth"
-        ]
-    },
-    "khalif": {
-        "d": [
-            "the civil and religious leader of a Muslim state considered to be a representative of Allah on earth"
-        ]
-    },
-    "khalifah": {
-        "d": [
-            "the civil and religious leader of a Muslim state considered to be a representative of Allah on earth"
-        ]
-    },
-    "kabbalist": {
-        "d": [
-            "an expert who is highly skilled in obscure or difficult or esoteric matters"
-        ]
-    },
-    "keeper": {
-        "d": [
-            "something that should be kept",
-            "a person having charge of buildings or grounds or animals",
-            "a person in charge of other people"
-        ]
-    },
-    "knucklehead": {
-        "d": [
-            "a stupid person"
-        ]
-    },
-    "kleptomaniac": {
-        "d": [
-            "someone with an irrational urge to steal in the absence of an economic motive"
-        ]
-    },
-    "klepto": {
-        "d": [
-            "someone with an irrational urge to steal in the absence of an economic motive"
-        ]
-    },
-    "klutz": {
-        "d": [
-            "from Yiddish, a clumsy dolt"
-        ]
-    },
-    "knacker": {
-        "d": [
-            "someone who buys up old horses for slaughter",
-            "someone who buys old buildings or ships and breaks them up to recover the materials in them"
-        ]
-    },
-    "knitter": {
-        "d": [
-            "someone who makes garments or fabrics by intertwining yarn or thread"
-        ]
-    },
-    "knower": {
-        "d": [
-            "a person who knows or apprehends"
-        ]
-    },
-    "kolkhoznik": {
-        "d": [
-            "a member of a kolkhoz"
-        ]
-    },
-    "kook": {
-        "d": [
-            "someone regarded as eccentric or crazy and standing out from a group"
-        ]
-    },
-    "kaffir": {
-        "d": [
-            "an offensive and insulting term for any Black African",
-            "important for human and animal food"
-        ]
-    },
-    "kafir": {
-        "d": [
-            "an insulting term for any Black African"
-        ]
-    },
-    "keyboardist": {
-        "d": [
-            "a musician who plays a keyboard instrument"
-        ]
-    },
-    "kibbutznik": {
-        "d": [
-            "a member of a kibbutz"
-        ]
-    },
-    "kibitzer": {
-        "d": [
-            "from Yiddish, a meddler who offers unwanted advice to others"
-        ]
-    },
-    "kicker": {
-        "d": [
-            "a player who kicks a football"
-        ]
-    },
-    "kiddy": {
-        "d": [
-            "a young child"
-        ]
-    },
-    "kidnapper": {
-        "d": [
-            "someone who unlawfully seizes and detains a victim, usually for ransom"
-        ]
-    },
-    "kidnaper": {
-        "d": [
-            "someone who unlawfully seizes and detains a victim, usually for ransom"
-        ]
-    },
-    "kingmaker": {
-        "d": [
-            "an important person who can bring leaders to power through the exercise of political influence"
-        ]
-    },
-    "kinsperson": {
-        "d": [
-            "a person having kinship with another or others"
-        ]
-    },
-    "kinsman": {
-        "d": [
-            "a male relative"
-        ]
-    },
-    "kinswoman": {
-        "d": [
-            "a female relative"
-        ]
-    },
-    "kindergartner": {
-        "d": [
-            "a child who attends a preschool or kindergarten"
-        ]
-    },
-    "kindergartener": {
-        "d": [
-            "a child who attends a preschool or kindergarten"
-        ]
-    },
-    "killjoy": {
-        "d": [
-            "someone who spoils the pleasure of others"
-        ]
-    },
-    "khamsin": {
-        "d": [
-            "an oppressively hot southerly wind from the Sahara that blows across Egypt in the spring"
-        ]
-    },
-    "kawaka": {
-        "d": [
-            "a New Zealand timber tree resembling the cypress"
-        ]
-    },
-    "kauri": {
-        "d": [
-            "white close-grained wood of a tree of the genus Agathis especially Agathis australis",
-            "tall timber tree of New Zealand having white straight-grained wood",
-            "resin of the kauri trees of New Zealand"
-        ]
-    },
-    "kaury": {
-        "d": [
-            "a tall timber tree of New Zealand having white straight-grained wood"
-        ]
-    },
-    "keteleeria": {
-        "d": [
-            "an Asiatic conifer resembling firs"
-        ]
-    },
-    "kahikatea": {
-        "d": [
-            "a New Zealand evergreen valued for its light easily worked wood"
-        ]
-    },
-    "kingcup": {
-        "d": [
-            "any of various plants of the genus Ranunculus",
-            "swamp plant of Europe and North America having bright yellow flowers resembling buttercups"
-        ]
-    },
-    "krubi": {
-        "d": [
-            "malodorous tropical plant having a spathe that resembles the corolla of a morning glory and attains a diameter of several feet"
-        ]
-    },
-    "kurchi": {
-        "d": [
-            "a tropical Asian tree with hard white wood and bark formerly used as a remedy for dysentery and diarrhea"
-        ]
-    },
-    "kurchee": {
-        "d": [
-            "a tropical Asian tree with hard white wood and bark formerly used as a remedy for dysentery and diarrhea"
-        ]
-    },
-    "knawel": {
-        "d": [
-            "widely distributed low-growing Eurasian herb having narrow leaves and inconspicuous green flowers"
-        ]
-    },
-    "knawe": {
-        "d": [
-            "a widely distributed low-growing Eurasian herb having narrow leaves and inconspicuous green flowers"
-        ]
-    },
-    "kali": {
-        "d": [
-            "a bushy plant of Old World salt marshes and sea beaches having prickly leaves"
-        ]
-    },
-    "kelpwort": {
-        "d": [
-            "a bushy plant of Old World salt marshes and sea beaches having prickly leaves"
-        ]
-    },
-    "knapweed": {
-        "d": [
-            "any of various plants of the genus Centaurea having purple thistlelike flowers"
-        ]
-    },
-    "kurakkan": {
-        "d": [
-            "an East Indian cereal grass whose seed yield a somewhat bitter flour"
-        ]
-    },
-    "kweek": {
-        "d": [
-            "a grass native to Europe now cosmopolitan in warm regions"
-        ]
-    },
-    "kaoliang": {
-        "d": [
-            "the sorghums of China and Manchuria having small white or brown grains -- used for food -- and dry pithy stalks -- used for fodder, fuel, and thatching "
-        ]
-    },
-    "knotgrass": {
-        "d": [
-            "a low-growing weedy grass with spikelets along the leaf stems"
-        ]
-    },
-    "kenaf": {
-        "d": [
-            "a valuable fiber plant of East Indies now widespread in cultivation"
-        ]
-    },
-    "kanaf": {
-        "d": [
-            "a valuable fiber plant of East Indies now widespread in cultivation"
-        ]
-    },
-    "kalumpang": {
-        "d": [
-            "a large tree of Old World tropics having foul-smelling orange-red blossoms followed by red pods enclosing oil-rich seeds sometimes used as food"
-        ]
-    },
-    "kurrajong": {
-        "d": [
-            "widely distributed tree of eastern Australia yielding a tough durable fiber and soft light attractively grained wood"
-        ]
-    },
-    "kola": {
-        "d": [
-            "tree bearing large brown nuts containing e.g. caffeine"
-        ]
-    },
-    "kapok": {
-        "d": [
-            "massive tropical tree with deep ridges on its massive trunk and bearing large pods of seeds covered with silky floss",
-            "a plant fiber from the kapok tree"
-        ]
-    },
-    "konini": {
-        "d": [
-            "erect deciduous shrub or tree to 10 feet with maroon flowers"
-        ]
-    },
-    "kurrat": {
-        "d": [
-            "a coarse Old World perennial having a large bulb and tall stalk of greenish purple-tinged flowers"
-        ]
-    },
-    "kentan": {
-        "d": [
-            "an east Asian perennial having large reddish-orange black-spotted flowers with reflexed petals"
-        ]
-    },
-    "kniphofia": {
-        "d": [
-            "a plant of the genus Kniphofia having long grasslike leaves and tall scapes of red or yellow drooping flowers"
-        ]
-    },
-    "khesari": {
-        "d": [
-            "a European annual grown for forage"
-        ]
-    },
-    "kingwood": {
-        "d": [
-            "Brazilian tree yielding a handsome cabinet wood",
-            "handsome violet-streaked wood of the kingwood tree"
-        ]
-    },
-    "kino": {
-        "d": [
-            "East Indian tree yielding a resin or extract often used medicinally and in e.g. tanning",
-            "a gum obtained from various tropical plants"
-        ]
-    },
-    "kudzu": {
-        "d": [
-            "a fast-growing vine from eastern Asia having tuberous starchy roots and hairy trifoliate leaves and racemes of purple flowers followed by long hairy pods containing many seeds"
-        ]
-    },
-    "kowhai": {
-        "d": [
-            "shrub or small tree of New Zealand and Chile having pendulous racemes of tubular golden-yellow flowers"
-        ]
-    },
-    "kiaat": {
-        "d": [
-            "a deciduous South African tree having large odd-pinnate leaves and profuse fragrant orange-yellow flowers"
-        ]
-    },
-    "kitul": {
-        "d": [
-            "a fishtail palm of India to Malay Peninsula"
-        ]
-    },
-    "kittul": {
-        "d": [
-            "a fishtail palm native to areas from India to the Malay Peninsula"
-        ]
-    },
-    "keurboom": {
-        "d": [
-            "a tree with odd-pinnate leaves and racemes of fragrant pink to purple flowers",
-            "a fast-growing roundheaded tree with fragrant white to deep rose flowers"
-        ]
-    },
-    "kalantas": {
-        "d": [
-            "a Philippine timber tree having hard red fragrant wood"
-        ]
-    },
-    "kohleria": {
-        "d": [
-            "a shrubby herb cultivated for their soft velvety foliage and showy scarlet flowers"
-        ]
-    },
-    "kapuka": {
-        "d": [
-            "a small New Zealand broadleaf evergreen tree often cultivated in warm regions as an ornamental"
-        ]
-    },
-    "kutch": {
-        "d": [
-            "tannin extract derived from any of several mangrove barks of Pacific areas"
-        ]
-    },
-    "katharobe": {
-        "d": [
-            "an organism that lives in an oxygenated medium lacking organic matter"
-        ]
-    },
-    "kickback": {
-        "d": [
-            "a commercial bribe paid by a seller to a purchasing agent in order to induce the agent to enter into the transaction"
-        ]
-    },
-    "katabolism": {
-        "d": [
-            "the breakdown in living organisms of more complex substances into simpler ones together with release of energy"
-        ]
-    },
-    "kenogenesis": {
-        "d": [
-            "introduction during embryonic development of characters or structure not present in the earlier evolutionary history of the strain or species, such as the addition of the placenta in mammalian evolution"
-        ]
-    },
-    "kainogenesis": {
-        "d": [
-            "the introduction during embryonic development of characters or structure not present in the earlier evolutionary history of the strain or species, such as the addition of the placenta in mammalian evolution"
-        ]
-    },
-    "karyokinesis": {
-        "d": [
-            "organic process consisting of the division of the nucleus of a cell during mitosis or meiosis"
-        ]
-    },
-    "karyolysis": {
-        "d": [
-            "the disintegration and dissolution of a cell nucleus when a cell dies"
-        ]
-    },
-    "katamorphism": {
-        "d": [
-            "a metamorphism that occurs at or near the earth's surface"
-        ]
-    },
-    "keratinization": {
-        "d": [
-            "an organic process by which keratin is deposited in cells and the cells become horny, as in nails and hair"
-        ]
-    },
-    "keratinisation": {
-        "d": [
-            "an organic process by which keratin is deposited in cells and the cells become horny, as in nails and hair"
-        ]
-    },
-    "karat": {
-        "d": [
-            "the unit of measurement for the proportion of gold in an alloy"
-        ]
-    },
-    "kiloliter": {
-        "d": [
-            "a metric unit of volume or capacity equal to 1000 liters"
-        ]
-    },
-    "kilolitre": {
-        "d": [
-            "a metric unit of volume or capacity equal to 1000 liters"
-        ]
-    },
-    "kilobyte": {
-        "d": [
-            "a unit of information equal to 1024 bytes, often mistaken as 1000 bytes"
-        ]
-    },
-    "kibibyte": {
-        "d": [
-            "a unit of information equal to 1024 bytes, often mistaken as 1000 bytes"
-        ]
-    },
-    "kilobit": {
-        "d": [
-            "a unit of information equal to 1000 bits"
-        ]
-    },
-    "kbit": {
-        "d": [
-            "a unit of information equal to 1000 bits"
-        ]
-    },
-    "kibibit": {
-        "d": [
-            "a unit of information equal to 1024 bits"
-        ]
-    },
-    "kibit": {
-        "d": [
-            "a unit of information equal to 1024 bits"
-        ]
-    },
-    "kilderkin": {
-        "d": [
-            "a British unit of capacity equal to 18 Imperial gallons"
-        ]
-    },
-    "kilovolt": {
-        "d": [
-            "a unit of potential equal to a thousand volts"
-        ]
-    },
-    "kilowatt": {
-        "d": [
-            "a unit of power equal to 1000 watts"
-        ]
-    },
-    "kiloton": {
-        "d": [
-            "a measure of explosive power, of an atomic weapon,  equal to that of 1000 tons of TNT",
-            "one thousand tons"
-        ]
-    },
-    "kilometer": {
-        "d": [
-            "a metric unit of length equal to one thousand meters"
-        ]
-    },
-    "kilometre": {
-        "d": [
-            "a metric unit of length equal to one thousand meters"
-        ]
-    },
-    "klick": {
-        "d": [
-            "an informal or military term for a kilometer"
-        ]
-    },
-    "kurus": {
-        "d": [
-            "100 kurus equal 1 lira in Turkey"
-        ]
-    },
-    "kobo": {
-        "d": [
-            "a Nigerian unit of currency equal to one hundredth of a naira"
-        ]
-    },
-    "kina": {
-        "d": [
-            "the basic unit of money in Papua New Guinea"
-        ]
-    },
-    "kopek": {
-        "d": [
-            "a Russian unit of currency worth one hundredth of a ruble"
-        ]
-    },
-    "kopeck": {
-        "d": [
-            "a Russian unit of currency worth one hundredth of a ruble"
-        ]
-    },
-    "khoum": {
-        "d": [
-            "a Mauritanian unit of currency equal to one fifth of an ouguiya"
-        ]
-    },
-    "koruna": {
-        "d": [
-            "the basic unit of money in Czech Republic",
-            "the basic unit of money in Slovakia"
-        ]
-    },
-    "krona": {
-        "d": [
-            "the basic unit of money in Iceland",
-            "the basic unit of money in Sweden"
-        ]
-    },
-    "kapeika": {
-        "d": [
-            "a Belarusian unit of currency worth one hundredth of a ruble"
-        ]
-    },
-    "kroon": {
-        "d": [
-            "the basic unit of currency in Estonia"
-        ]
-    },
-    "krone": {
-        "d": [
-            "the basic unit of money in Denmark",
-            "the basic unit of money in Norway"
-        ]
-    },
-    "kwacha": {
-        "d": [
-            "the basic unit of money in Malawi",
-            "the basic unit of money in Zambia"
-        ]
-    },
-    "kwanza": {
-        "d": [
-            "the basic unit of money in Angola"
-        ]
-    },
-    "kyat": {
-        "d": [
-            "the basic unit of money in Myanmar"
-        ]
-    },
-    "kopiyka": {
-        "d": [
-            "a Ukrainian unit of currency equal to one hundred hryvnia"
-        ]
-    },
-    "kilocalorie": {
-        "d": [
-            "a unit of heat equal to the amount of heat required to raise the temperature of one kilogram of water by one degree at one atmosphere pressure"
-        ]
-    },
-    "kilogram": {
-        "d": [
-            "one thousand grams"
-        ]
-    },
-    "kilo": {
-        "d": [
-            "one thousand grams"
-        ]
-    },
-    "kelvin": {
-        "d": [
-            "the basic unit of thermodynamic temperature adopted under the Systeme International d'Unites"
-        ]
-    },
-    "kegful": {
-        "d": [
-            "the quantity contained in a keg"
-        ]
-    },
-    "kettleful": {
-        "d": [
-            "the quantity a kettle will hold"
-        ]
-    },
-    "kinship": {
-        "d": [
-            "a close connection marked by community of interests or similarity in nature or character",
-            "an anthropological term for relatedness or connection by blood or marriage or adoption"
-        ]
-    },
-    "kerfuffle": {
-        "d": [
-            "a disorderly outburst or tumult"
-        ]
-    },
-    "ketoacidosis": {
-        "d": [
-            "acidosis with an accumulation of ketone bodies"
-        ]
-    },
-    "keratectasia": {
-        "d": [
-            "an abnormal bulging of the cornea of the eye"
-        ]
-    },
-    "keratoconus": {
-        "d": [
-            "an abnormal cone-shaped protrusion of the cornea of the eye"
-        ]
-    },
-    "kuru": {
-        "d": [
-            "a progressive disease of the central nervous system marked by increasing lack of coordination and advancing to paralysis and death within a year of the appearance of symptoms"
-        ]
-    },
-    "kerion": {
-        "d": [
-            "ringworm infection of the hair follicles of the scalp and beard that usually results in a swelling that is covered with pustules and oozes fluid"
-        ]
-    },
-    "keratomycosis": {
-        "d": [
-            "a fungal infection of the cornea"
-        ]
-    },
-    "kibe": {
-        "d": [
-            "ulcerated chilblain on the heel"
-        ]
-    },
-    "kwashiorkor": {
-        "d": [
-            "a severe malnutrition in children resulting from a diet excessively high in carbohydrates and low in protein"
-        ]
-    },
-    "kinetosis": {
-        "d": [
-            "the state of being dizzy or nauseated because of the motions that occur while traveling in or on a moving vehicle"
-        ]
-    },
-    "keratoacanthoma": {
-        "d": [
-            "skin tumor that grows rapidly, especially in older people, and resembles a carcinoma but does not spread"
-        ]
-    },
-    "keratoderma": {
-        "d": [
-            "any skin disorder consisting of a growth that appears horny"
-        ]
-    },
-    "keratodermia": {
-        "d": [
-            "any skin disorder consisting of a growth that appears horny"
-        ]
-    },
-    "keratonosis": {
-        "d": [
-            "any abnormal condition of the epidermis"
-        ]
-    },
-    "keratosis": {
-        "d": [
-            "a skin condition marked by an overgrowth of layers of horny skin"
-        ]
-    },
-    "keratonosus": {
-        "d": [
-            "any disease of the cornea"
-        ]
-    },
-    "kalemia": {
-        "d": [
-            "the presence of excess potassium in the circulating blood"
-        ]
-    },
-    "kaliuresis": {
-        "d": [
-            "the presence of excess potassium in the urine"
-        ]
-    },
-    "kaluresis": {
-        "d": [
-            "the presence of excess potassium in the urine"
-        ]
-    },
-    "ketonuria": {
-        "d": [
-            "excessive amounts of ketone bodies in the urine as in diabetes mellitus or starvation"
-        ]
-    },
-    "ketoaciduria": {
-        "d": [
-            "excessive amounts of ketone bodies in the urine as in diabetes mellitus or starvation"
-        ]
-    },
-    "keratocele": {
-        "d": [
-            "a hernia of the cornea"
-        ]
-    },
-    "keratomalacia": {
-        "d": [
-            "softening and drying and ulceration of the cornea resulting from vitamin A deficiency"
-        ]
-    },
-    "ketonemia": {
-        "d": [
-            "an abnormal increase of ketone bodies in the blood as in diabetes mellitus"
-        ]
-    },
-    "ketosis": {
-        "d": [
-            "an abnormal increase of ketone bodies in the blood, as in diabetes mellitus"
-        ]
-    },
-    "keratalgia": {
-        "d": [
-            "pain in the cornea"
-        ]
-    },
-    "kernicterus": {
-        "d": [
-            "an abnormal accumulation of bile pigment in the brain and other nerve tissue"
-        ]
-    },
-    "keloid": {
-        "d": [
-            "raised pinkish scar tissue at the site of an injury"
-        ]
-    },
-    "keratitis": {
-        "d": [
-            "inflammation of the cornea causing watery, painful eyes and blurred vision"
-        ]
-    },
-    "keratoconjunctivitis": {
-        "d": [
-            "inflammation of the cornea and conjunctiva"
-        ]
-    },
-    "keratoiritis": {
-        "d": [
-            "inflammation of the cornea and the iris of the eye"
-        ]
-    },
-    "keratoscleritis": {
-        "d": [
-            "inflammation of the cornea and sclera of the eye"
-        ]
-    },
-    "kingship": {
-        "d": [
-            "the dignity or rank or position of a king"
-        ]
-    },
-    "kyphosis": {
-        "d": [
-            "an abnormal backward curve to the vertebral column"
-        ]
-    },
-    "kilter": {
-        "d": [
-            "a state of order or balance"
-        ]
-    },
-    "kelter": {
-        "d": [
-            "a state of order or balance"
-        ]
-    },
-    "kraurosis": {
-        "d": [
-            "atrophy and shriveling of the skin or mucous membrane"
-        ]
-    },
-    "krypton": {
-        "d": [
-            "a colorless element that is one of the six inert gasses"
-        ]
-    },
-    "kaolin": {
-        "d": [
-            "a fine usually white clay formed by the weathering of aluminous minerals, as feldspar"
-        ]
-    },
-    "kaoline": {
-        "d": [
-            "a fine usually white clay formed by the weathering of aluminous minerals, as feldspar"
-        ]
-    },
-    "kerosene": {
-        "d": [
-            "a flammable hydrocarbon oil used as fuel in lamps and heaters"
-        ]
-    },
-    "kerosine": {
-        "d": [
-            "a flammable hydrocarbon oil used as fuel in lamps and heaters"
-        ]
-    },
-    "kainite": {
-        "d": [
-            "a white mineral consisting of magnesium sulphate and potassium chloride"
-        ]
-    },
-    "kaolinite": {
-        "d": [
-            "a mineral consisting of aluminum silicate"
-        ]
-    },
-    "kernite": {
-        "d": [
-            "a light soft mineral consisting of hydrated sodium borate in crystalline form"
-        ]
-    },
-    "kieserite": {
-        "d": [
-            "a white mineral consisting of hydrous magnesium sulfate often found in salt mines"
-        ]
-    },
-    "kyanite": {
-        "d": [
-            "a grey or greenish-blue mineral consisting of aluminum silicate in crystalline form"
-        ]
-    },
-    "keratin": {
-        "d": [
-            "a fibrous scleroprotein that occurs in the outer layer of the skin and in horny tissues such as hair, feathers, nails, and hooves"
-        ]
-    },
-    "kinin": {
-        "d": [
-            "any of a class of plant hormones that promote cell division and delay the senescence of leaves"
-        ]
-    },
-    "kidskin": {
-        "d": [
-            "soft smooth leather from the hide of a young goat"
-        ]
-    },
-    "kieselguhr": {
-        "d": [
-            "a light soil consisting of siliceous diatom remains and often used as a filtering material"
-        ]
-    },
-    "kraft": {
-        "d": [
-            "strong wrapping paper made from pulp processed with a sulfur solution"
-        ]
-    },
-    "kimberlite": {
-        "d": [
-            "a rare type of peridotite that sometimes contains diamonds"
-        ]
-    },
-    "keratohyalin": {
-        "d": [
-            "hyaline in the large granules of the stratum granulosum"
-        ]
-    },
-    "ketone": {
-        "d": [
-            "any of a class of organic compounds having a carbonyl group linked to a carbon atom in each of two hydrocarbon radicals"
-        ]
-    },
-    "ketose": {
-        "d": [
-            "any monosaccharide sugar that contains a ketone group or its hemiacetal"
-        ]
-    },
-    "kinase": {
-        "d": [
-            "an enzyme that catalyzes the conversion of a proenzyme to an active enzyme"
-        ]
-    },
-    "Kleenex": {
-        "d": [
-            "a soft, absorbent tissue paper, usually consisting of two or more thin layers, used as a disposable handkerchief"
-        ]
-    },
-    "kleenex": {
-        "d": [
-            "a soft, absorbent tissue paper, usually consisting of two or more thin layers, used as a disposable handkerchief"
-        ]
-    },
-    "kunzite": {
-        "d": [
-            "a pinkish lilac crystal form of the mineral spodumene that is used as a gemstone"
-        ]
-    },
-    "knothole": {
-        "d": [
-            "a hole in a wooden board where a knot came out"
-        ]
-    },
-    "kilohertz": {
-        "d": [
-            "one thousand periods per second"
-        ]
-    },
-    "kilocycle": {
-        "d": [
-            "one thousand periods per second"
-        ]
-    },
-    "km/h": {
-        "d": [
-            "the ratio of the distance traveled in kilometers to the time spent traveling in hours"
-        ]
-    },
-    "keratinize": {
-        "d": [
-            "become horny and impregnated with keratin",
-            "convert into keratin"
-        ]
-    },
-    "keratinise": {
-        "d": [
-            "become horny and impregnated with keratin",
-            "convert into keratin"
-        ]
-    },
-    "kibitz": {
-        "d": [
-            "make unwanted and intrusive comments"
-        ]
-    },
-    "kibbitz": {
-        "d": [
-            "to make unwanted and intrusive comments, particularly whilst observing a board or card game, chess being a prime example"
-        ]
-    },
-    "knap": {
-        "d": [
-            "to shape by breaking a small piece from a larger object",
-            "to strike sharply"
-        ]
-    },
-    "knead": {
-        "d": [
-            "to manually manipulate someone's body, usually for medicinal or relaxation purposes",
-            "to make uniform"
-        ]
-    },
-    "kidnap": {
-        "d": [
-            "to abduct and detain someone illegally, often to extract a ransom"
-        ]
-    },
-    "kindle": {
-        "d": [
-            "to call forth an emotion, feeling, or response",
-            "to cause to start burning",
-            "to catch fire"
-        ]
-    },
-    "kibosh": {
-        "d": [
-            "to stop from happening or developing"
-        ]
-    },
-    "kakemono": {
-        "d": [
-            "a Japanese wall-hanging, often made of paper or silk"
-        ]
-    },
-    "knosh": {
-        "d": [
-            "another word for food"
-        ]
-    },
-    "kiddo": {
-        "d": [
-            "a form of address used for children"
-        ]
-    },
-    "keytar": {
-        "d": [
-            "a modern instrument featuring the neck of a guitar and an electronic keyboard; played by supporting with a shoulder strap. The neck has various controls- for instance vibrato, sustain and pitch bend- that affect the quality of the notes played on the keyboard"
-        ]
-    },
-    "kakistocracy": {
-        "d": [
-            "a government which is ruled by the most undesirable or corrupt people in society"
-        ]
-    },
-    "kerning": {
-        "d": [
-            "the amount of space between letters in a font"
-        ]
-    },
-    "kerf": {
-        "d": [
-            "a cut made by a saw",
-            "the width of a saw cut"
-        ]
-    },
-    "kickdown": {
-        "d": [
-            "in a vehicle with an automatic transmission, a device for changing gears by fully depressing the accelerator pedal"
-        ]
-    }
-}
+[
+    "kabala",
+    "kaballah",
+    "kabbala",
+    "kabbalah",
+    "kabbalism",
+    "kabbalist",
+    "kabbalistic",
+    "kabballah",
+    "kabob",
+    "kachina",
+    "kaffiyeh",
+    "kafkaesque",
+    "kaftan",
+    "kahikatea",
+    "kail",
+    "kainite",
+    "kainogenesis",
+    "kakemono",
+    "kaki",
+    "kakistocracy",
+    "kalansuwa",
+    "kalantas",
+    "kale",
+    "kaleidoscope",
+    "kaleidoscopic",
+    "kaleidoscopical",
+    "kalemia",
+    "kali",
+    "kalian",
+    "kalif",
+    "kaliph",
+    "kaliuresis",
+    "kalpac",
+    "kalumpang",
+    "kaluresis",
+    "kameez",
+    "kamikaze",
+    "kampong",
+    "kanaf",
+    "kanchil",
+    "kangaroo",
+    "kanzu",
+    "kaoliang",
+    "kaolin",
+    "kaoline",
+    "kaolinite",
+    "kaon",
+    "kapeika",
+    "kaph",
+    "kapok",
+    "kappa",
+    "kapuka",
+    "kaput",
+    "karabiner",
+    "karakul",
+    "karaoke",
+    "karat",
+    "karate",
+    "karma",
+    "karyokinesis",
+    "karyokinetic",
+    "karyolymph",
+    "karyolysis",
+    "karyon",
+    "karyoplasm",
+    "karyotype",
+    "kasbah",
+    "kasha",
+    "katabatic",
+    "katabolic",
+    "katabolism",
+    "katamorphism",
+    "katharobe",
+    "katharobic",
+    "katharometer",
+    "katharsis",
+    "katydid",
+    "katzenjammer",
+    "kauri",
+    "kaury",
+    "kava",
+    "kawaka",
+    "kayak",
+    "kayo",
+    "kayoed",
+    "kazoo",
+    "kbit",
+    "kebab",
+    "kedgaree",
+    "kedgeree",
+    "keel",
+    "keelboat",
+    "keeled",
+    "keelson",
+    "keen",
+    "keenly",
+    "keenness",
+    "keep",
+    "keeper",
+    "keeping",
+    "keepsake",
+    "keeshond",
+    "kegful",
+    "keister",
+    "keloid",
+    "kelp",
+    "kelpie",
+    "kelpwort",
+    "kelpy",
+    "kelter",
+    "kelvin",
+    "kempt",
+    "kenaf",
+    "kennel",
+    "kenning",
+    "keno",
+    "kenogenesis",
+    "kentan",
+    "kepi",
+    "kept",
+    "keratalgia",
+    "keratectasia",
+    "keratin",
+    "keratinisation",
+    "keratinise",
+    "keratinization",
+    "keratinize",
+    "keratitis",
+    "keratoacanthoma",
+    "keratocele",
+    "keratoconjunctivitis",
+    "keratoconus",
+    "keratoderma",
+    "keratodermia",
+    "keratohyalin",
+    "keratoiritis",
+    "keratomalacia",
+    "keratomycosis",
+    "keratonosis",
+    "keratonosus",
+    "keratoplasty",
+    "keratoscleritis",
+    "keratoscope",
+    "keratoscopy",
+    "keratosis",
+    "keratotomy",
+    "kerb",
+    "kerbstone",
+    "kerchief",
+    "kerf",
+    "kerfuffle",
+    "kerion",
+    "kern",
+    "kernel",
+    "kernicterus",
+    "kerning",
+    "kernite",
+    "kerosene",
+    "kerosine",
+    "kerugma",
+    "kerygma",
+    "kestrel",
+    "ketamine",
+    "ketch",
+    "ketchup",
+    "keteleeria",
+    "ketembilla",
+    "ketoacidosis",
+    "ketoaciduria",
+    "ketone",
+    "ketonemia",
+    "ketonuria",
+    "ketose",
+    "ketosis",
+    "kettle",
+    "kettledrum",
+    "kettleful",
+    "keurboom",
+    "keyboard",
+    "keyboardist",
+    "keycard",
+    "keyhole",
+    "keyless",
+    "keynote",
+    "keypad",
+    "keyring",
+    "keystone",
+    "keytar",
+    "keyword",
+    "khaddar",
+    "khadi",
+    "khaki",
+    "khakis",
+    "khalif",
+    "khalifah",
+    "khamsin",
+    "khan",
+    "khanate",
+    "khat",
+    "khesari",
+    "khichuri",
+    "khimar",
+    "khoum",
+    "khukuri",
+    "kiaat",
+    "kiang",
+    "kibbitz",
+    "kibble",
+    "kibbutz",
+    "kibbutznik",
+    "kibe",
+    "kibibit",
+    "kibibyte",
+    "kibit",
+    "kibitz",
+    "kibitzer",
+    "kibosh",
+    "kick",
+    "kickback",
+    "kicker",
+    "kickoff",
+    "kickshaw",
+    "kicksorter",
+    "kickstand",
+    "kiddo",
+    "kiddy",
+    "kidgeree",
+    "kidnap",
+    "kidnaper",
+    "kidnapper",
+    "kidnapping",
+    "kidney",
+    "kidskin",
+    "kieselguhr",
+    "kieserite",
+    "kildeer",
+    "kilderkin",
+    "kiley",
+    "kill",
+    "killable",
+    "killdeer",
+    "killifish",
+    "killing",
+    "killingly",
+    "killjoy",
+    "kiln",
+    "kilo",
+    "kilobit",
+    "kilobyte",
+    "kilocalorie",
+    "kilocycle",
+    "kilogram",
+    "kilohertz",
+    "kiloliter",
+    "kilolitre",
+    "kilometer",
+    "kilometre",
+    "kiloton",
+    "kilovolt",
+    "kilowatt",
+    "kilt",
+    "kilter",
+    "kimberlite",
+    "kimono",
+    "kina",
+    "kinaesthesia",
+    "kinaesthesis",
+    "kinaesthetic",
+    "kinaesthetically",
+    "kinanaesthesia",
+    "kinanesthesia",
+    "kinase",
+    "kind",
+    "kinda",
+    "kindergarten",
+    "kindergartener",
+    "kindergartner",
+    "kindhearted",
+    "kindheartedness",
+    "kindle",
+    "kindliness",
+    "kindling",
+    "kindly",
+    "kindness",
+    "kindred",
+    "kine",
+    "kinematics",
+    "kinescope",
+    "kinesiology",
+    "kinesis",
+    "kinesthesia",
+    "kinesthesis",
+    "kinesthetic",
+    "kinesthetically",
+    "kinesthetics",
+    "kinetic",
+    "kinetics",
+    "kinetosis",
+    "kinfolk",
+    "king",
+    "kingbird",
+    "kingbolt",
+    "kingcup",
+    "kingdom",
+    "kingfish",
+    "kingfisher",
+    "kinglet",
+    "kingly",
+    "kingmaker",
+    "kingpin",
+    "kingship",
+    "kingsnake",
+    "kingwood",
+    "kinin",
+    "kino",
+    "kinsfolk",
+    "kinship",
+    "kinsman",
+    "kinsperson",
+    "kinswoman",
+    "kiosk",
+    "kipa",
+    "kipoh",
+    "kippa",
+    "kippah",
+    "kipper",
+    "kirk",
+    "kirpan",
+    "kirsch",
+    "kirtle",
+    "kishke",
+    "kismat",
+    "kismet",
+    "kiss",
+    "kisser",
+    "kissing",
+    "kitambilla",
+    "kitbag",
+    "kitchari",
+    "kitchen",
+    "kitchenette",
+    "kitchenware",
+    "kitcherie",
+    "kitchiri",
+    "kite",
+    "kitembilla",
+    "kith",
+    "kitsch",
+    "kitschy",
+    "kittee",
+    "kitten",
+    "kittenish",
+    "kittiwake",
+    "kittul",
+    "kitty",
+    "kitul",
+    "kiwi",
+    "klavern",
+    "klaxon",
+    "kleenex",
+    "klepto",
+    "kleptomania",
+    "kleptomaniac",
+    "klick",
+    "kludge",
+    "klutz",
+    "klystron",
+    "km/h",
+    "knack",
+    "knacker",
+    "knackered",
+    "knackwurst",
+    "knap",
+    "knapsack",
+    "knave",
+    "knavery",
+    "knavish",
+    "knavishly",
+    "knawe",
+    "knawel",
+    "knead",
+    "knee",
+    "kneecap",
+    "kneel",
+    "kneeler",
+    "kneeling",
+    "kneepan",
+    "knell",
+    "knickerbockers",
+    "knickers",
+    "knickknack",
+    "knickknackery",
+    "knife",
+    "knight",
+    "knighthood",
+    "knightliness",
+    "knightly",
+    "kniphofia",
+    "knish",
+    "knit",
+    "knitted",
+    "knitter",
+    "knitting",
+    "knitwear",
+    "knitwork",
+    "knobbed",
+    "knobble",
+    "knobbly",
+    "knobby",
+    "knobkerrie",
+    "knobkerry",
+    "knobkierie",
+    "knock",
+    "knockabout",
+    "knocker",
+    "knocking",
+    "knockoff",
+    "knockout",
+    "knockwurst",
+    "knoll",
+    "knopkierie",
+    "knosh",
+    "knot",
+    "knothole",
+    "knotted",
+    "knottiness",
+    "knotty",
+    "knout",
+    "know",
+    "knowable",
+    "knower",
+    "knowing",
+    "knowingly",
+    "knowingness",
+    "knowledge",
+    "knowledgeability",
+    "knowledgeable",
+    "knowledgeableness",
+    "knuckle",
+    "knuckleball",
+    "knucklebones",
+    "knucklehead",
+    "knuckler",
+    "knuckles",
+    "knucks",
+    "koala",
+    "koan",
+    "kobo",
+    "kohl",
+    "kohleria",
+    "kohlrabi",
+    "koine",
+    "koinonia",
+    "kola",
+    "kolkhoz",
+    "kolkhoznik",
+    "komondor",
+    "konini",
+    "koodoo",
+    "kook",
+    "kookie",
+    "kopek",
+    "kopiyka",
+    "kopje",
+    "koppel",
+    "koppie",
+    "koruna",
+    "kosher",
+    "koto",
+    "kotow",
+    "koudou",
+    "koumiss",
+    "kowhai",
+    "kowtow",
+    "kraal",
+    "kraft",
+    "krait",
+    "kraurosis",
+    "kremlin",
+    "krill",
+    "kris",
+    "krona",
+    "krone",
+    "kroon",
+    "krubi",
+    "krummhorn",
+    "krypton",
+    "kudos",
+    "kudu",
+    "kudzu",
+    "kunzite",
+    "kurakkan",
+    "kurchee",
+    "kurchi",
+    "kurrajong",
+    "kurrat",
+    "kurta",
+    "kuru",
+    "kurus",
+    "kutch",
+    "kuvasz",
+    "kvetch",
+    "kweek",
+    "kwela"
+]

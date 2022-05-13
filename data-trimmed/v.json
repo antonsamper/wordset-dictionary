@@ -1,5875 +1,951 @@
-{
-    "vastly": {
-        "d": [
-            "to an exceedingly great extent or degree"
-        ]
-    },
-    "very": {
-        "d": [
-            "used as intensifiers",
-            "precisely so",
-            "precisely as stated",
-            "being the exact same one"
-        ]
-    },
-    "vocationally": {
-        "d": [
-            "affecting the pursuit of a vocation or occupation"
-        ]
-    },
-    "variously": {
-        "d": [
-            "in diverse ways"
-        ]
-    },
-    "virtually": {
-        "d": [
-            "slightly short of or not quite accomplished",
-            "in essence or effect, but not in fact"
-        ]
-    },
-    "vitally": {
-        "d": [
-            "to a vital degree"
-        ]
-    },
-    "ventrally": {
-        "d": [
-            "in a ventral location or direction"
-        ]
-    },
-    "volumetrically": {
-        "d": [
-            "with respect to volume"
-        ]
-    },
-    "verbally": {
-        "d": [
-            "by means of language",
-            "using another part of speech as a verb"
-        ]
-    },
-    "vocally": {
-        "d": [
-            "in a vocal manner"
-        ]
-    },
-    "volcanically": {
-        "d": [
-            "by or like volcanoes"
-        ]
-    },
-    "visually": {
-        "d": [
-            "with respect to vision"
-        ]
-    },
-    "viscerally": {
-        "d": [
-            "in the internal organs",
-            "in an unreasoning visceral manner"
-        ]
-    },
-    "vociferously": {
-        "d": [
-            "in a vociferous manner"
-        ]
-    },
-    "vigorously": {
-        "d": [
-            "with vigor"
-        ]
-    },
-    "videlicet": {
-        "d": [
-            "that is to say"
-        ]
-    },
-    "vainly": {
-        "d": [
-            "to no avail"
-        ]
-    },
-    "visibly": {
-        "d": [
-            "so as to be visible",
-            "in a visible manner"
-        ]
-    },
-    "victoriously": {
-        "d": [
-            "in a victorious manner"
-        ]
-    },
-    "viciously": {
-        "d": [
-            "in a vicious manner"
-        ]
-    },
-    "vauntingly": {
-        "d": [
-            "in a boastful manner"
-        ]
-    },
-    "voluntarily": {
-        "d": [
-            "out of your own free will"
-        ]
-    },
-    "vaguely": {
-        "d": [
-            "in a vague way"
-        ]
-    },
-    "violently": {
-        "d": [
-            "in a violent manner"
-        ]
-    },
-    "vividly": {
-        "d": [
-            "in a vivid manner"
-        ]
-    },
-    "verbatim": {
-        "d": [
-            "using exactly the same words",
-            "in precisely the same words used by a writer or speaker"
-        ]
-    },
-    "vitriolically": {
-        "d": [
-            "in a caustic, vitriolic manner"
-        ]
-    },
-    "virtuously": {
-        "d": [
-            "in a chaste, moral, and virtuous manner"
-        ]
-    },
-    "volubly": {
-        "d": [
-            "in a chatty manner"
-        ]
-    },
-    "volitionally": {
-        "d": [
-            "in a willing manner"
-        ]
-    },
-    "venally": {
-        "d": [
-            "in a corrupt and deceitful manner"
-        ]
-    },
-    "vertically": {
-        "d": [
-            "in a vertical direction"
-        ]
-    },
-    "venomously": {
-        "d": [
-            "in a very malevolent manner"
-        ]
-    },
-    "voluptuously": {
-        "d": [
-            "in an indulgent manner",
-            "in a shapely manner"
-        ]
-    },
-    "vengefully": {
-        "d": [
-            "in a vindictive, revengeful manner"
-        ]
-    },
-    "vindictively": {
-        "d": [
-            "in a vengeful or vindictive manner"
-        ]
-    },
-    "vulgarly": {
-        "d": [
-            "in a smutty manner"
-        ]
-    },
-    "viscidly": {
-        "d": [
-            "in a sticky manner"
-        ]
-    },
-    "vacantly": {
-        "d": [
-            "in a vacant manner"
-        ]
-    },
-    "vacuously": {
-        "d": [
-            "in a vacuous manner"
-        ]
-    },
-    "valiantly": {
-        "d": [
-            "with valor"
-        ]
-    },
-    "valorously": {
-        "d": [
-            "with valor"
-        ]
-    },
-    "validly": {
-        "d": [
-            "with validity"
-        ]
-    },
-    "vapidly": {
-        "d": [
-            "in a vapid manner"
-        ]
-    },
-    "variably": {
-        "d": [
-            "with variation"
-        ]
-    },
-    "vehemently": {
-        "d": [
-            "in a vehement manner"
-        ]
-    },
-    "vicariously": {
-        "d": [
-            "indirectly, as, by, or through a substitute"
-        ]
-    },
-    "vigilantly": {
-        "d": [
-            "in a watchful manner"
-        ]
-    },
-    "vilely": {
-        "d": [
-            "in a morally reprehensible manner"
-        ]
-    },
-    "virulently": {
-        "d": [
-            "in a virulent manner"
-        ]
-    },
-    "vivace": {
-        "d": [
-            "concerning music tempo, lively"
-        ]
-    },
-    "vivaciously": {
-        "d": [
-            "with vivacity"
-        ]
-    },
-    "voraciously": {
-        "d": [
-            "in an eagerly voracious manner"
-        ]
-    },
-    "voyeuristically": {
-        "d": [
-            "like a voyeur"
-        ]
-    },
-    "vulnerably": {
-        "d": [
-            "in a vulnerable manner"
-        ]
-    },
-    "vanishingly": {
-        "d": [
-            "so as to disappear or approach zero"
-        ]
-    },
-    "verbosely": {
-        "d": [
-            "in a verbose manner"
-        ]
-    },
-    "verily": {
-        "d": [
-            "in truth, or truthfully"
-        ]
-    },
-    "vexatiously": {
-        "d": [
-            "in an annoying or frustrating manner"
-        ]
-    },
-    "voracious": {
-        "d": [
-            "devouring or craving food in great quantities",
-            "excessively greedy and grasping"
-        ]
-    },
-    "ventral": {
-        "d": [
-            "nearest to or facing toward the axis of an organ or organism",
-            "toward or on or near the belly or front of a primate or lower surface of a lower animal"
-        ]
-    },
-    "verdant": {
-        "d": [
-            "characterized by the abundance of green foliage"
-        ]
-    },
-    "veracious": {
-        "d": [
-            "precisely accurate",
-            "habitually speaking the truth"
-        ]
-    },
-    "voluminous": {
-        "d": [
-            "large in number or quantity (especially of discourse)",
-            "large in volume or bulk",
-            "marked by repeated turns and bends"
-        ]
-    },
-    "virulent": {
-        "d": [
-            "infectious",
-            "harsh or corrosive in tone",
-            "extremely poisonous or injurious"
-        ]
-    },
-    "viscid": {
-        "d": [
-            "having the sticky properties of an adhesive"
-        ]
-    },
-    "viscous": {
-        "d": [
-            "having the sticky properties of an adhesive",
-            "having a relatively high resistance to flow"
-        ]
-    },
-    "venturesome": {
-        "d": [
-            "disposed to venture or take risks"
-        ]
-    },
-    "venturous": {
-        "d": [
-            "disposed to venture or take risks"
-        ]
-    },
-    "vulturine": {
-        "d": [
-            "living by preying on other animals, especially by catching living prey",
-            "relating to, or resembling, a vulture"
-        ]
-    },
-    "vulturous": {
-        "d": [
-            "living by preying on other animals especially by catching living prey"
-        ]
-    },
-    "vigilant": {
-        "d": [
-            "carefully observant or attentive"
-        ]
-    },
-    "viable": {
-        "d": [
-            "capable of life or normal growth and development",
-            "capable of being done with means at hand and circumstances as they are"
-        ]
-    },
-    "vital": {
-        "d": [
-            "manifesting or characteristic of life",
-            "full of spirit",
-            "performing an essential function in the living body",
-            "urgently needed"
-        ]
-    },
-    "vexatious": {
-        "d": [
-            "causing irritation or annoyance"
-        ]
-    },
-    "vexing": {
-        "d": [
-            "causing irritation or annoyance",
-            "extremely annoying or displeasing"
-        ]
-    },
-    "voiceless": {
-        "d": [
-            "being without sound through injury or illness and thus incapable of all but whispered speech",
-            "uttered without voice",
-            "deprived of the rights of citizenship especially the right to vote",
-            "produced without vibration of the vocal cords"
-        ]
-    },
-    "vagile": {
-        "d": [
-            "having freedom to move about"
-        ]
-    },
-    "venomous": {
-        "d": [
-            "marked by deep ill will",
-            "extremely poisonous or injurious"
-        ]
-    },
-    "vicious": {
-        "d": [
-            "marked by deep ill will",
-            "(of persons or their actions) able or disposed to inflict pain or suffering",
-            "bringing or deserving severe rebuke or censure",
-            "having the nature of vice"
-        ]
-    },
-    "venomed": {
-        "d": [
-            "full of malice or hate",
-            "containing venom"
-        ]
-    },
-    "vixenish": {
-        "d": [
-            "shrewish and malicious"
-        ]
-    },
-    "vindictive": {
-        "d": [
-            "showing malicious ill will and a desire to hurt",
-            "disposed to seek revenge or intended for revenge"
-        ]
-    },
-    "visaged": {
-        "d": [
-            "having a face or visage as specified"
-        ]
-    },
-    "violent": {
-        "d": [
-            "characterized by violence or bloodshed",
-            "marked by extreme intensity of emotions or convictions",
-            "(of colors or sounds) intensely vivid or loud",
-            "effected by force or injury rather than natural causes",
-            "acting with or marked by or resulting from great force or energy or emotional intensity"
-        ]
-    },
-    "vaulting": {
-        "d": [
-            "revealing excessive self-confidence",
-            "a light leap by a horse in which both hind legs leave the ground before the forelegs come down",
-            "in architecture, a vaulted structure",
-            "the act of leaping over something"
-        ]
-    },
-    "valiant": {
-        "d": [
-            "having or showing valor"
-        ]
-    },
-    "valorous": {
-        "d": [
-            "having or showing valor"
-        ]
-    },
-    "volatile": {
-        "d": [
-            "tending to vary often or widely",
-            "marked by erratic changeableness in affections or attachments",
-            "liable to lead to sudden change or violence",
-            "evaporating readily at normal temperatures and pressures",
-            "a volatile substance"
-        ]
-    },
-    "vestal": {
-        "d": [
-            "in a state of sexual virginity",
-            "of or relating to Vesta, the Roman goddess of the home",
-            "a chaste woman"
-        ]
-    },
-    "virgin": {
-        "d": [
-            "in a state of sexual virginity; see discussion of noun meaning",
-            "being used or worked for the first time",
-            "a person who has never had sexual intercourse; what defines sexual intercourse in this context varies widely in interpretation from person to person, and situation to situation; various factors include gender of participants, level of consent of participants, physical configuration, having reached orgasm or not, and other elements that might lead one to believe one is a virgin or not",
-            "being unaffected by human intervention; natural",
-            "being unaffected by human intervention; natural"
-        ]
-    },
-    "varied": {
-        "d": [
-            "broken away from sameness or identity or duplication",
-            "widely different",
-            "characterized by variety"
-        ]
-    },
-    "virginal": {
-        "d": [
-            "in a state of sexual virginity",
-            "untouched or undefiled",
-            "characteristic of a virgin or virginity",
-            "a legless rectangular harpsichord"
-        ]
-    },
-    "virtuous": {
-        "d": [
-            "in a state of sexual virginity",
-            "morally excellent"
-        ]
-    },
-    "violet": {
-        "d": [
-            "of a color intermediate between red and blue",
-            "a variable color that lies beyond blue in the spectrum",
-            "any of numerous low-growing violas with small flowers"
-        ]
-    },
-    "vinaceous": {
-        "d": [
-            "of the color of wine",
-            "of or relating to wine"
-        ]
-    },
-    "varicolored": {
-        "d": [
-            "having sections or patches colored differently and usually brightly",
-            "having a variety of colors"
-        ]
-    },
-    "varicoloured": {
-        "d": [
-            "having sections or patches colored differently and usually brightly",
-            "having a variety of colors"
-        ]
-    },
-    "vivid": {
-        "d": [
-            "having the highest saturation of color",
-            "having striking color",
-            "having the clarity and freshness of immediate experience",
-            "evoking lifelike images within the mind"
-        ]
-    },
-    "vibrant": {
-        "d": [
-            "of colors that are bright and striking",
-            "of sounds that are strong and resonating",
-            "vigorous and animated"
-        ]
-    },
-    "vague": {
-        "d": [
-            "not clearly understood or expressed",
-            "not precisely limited, determined, or distinguished",
-            "lacking clarity or distinctness"
-        ]
-    },
-    "vestmented": {
-        "d": [
-            "dressed in ceremonial garments, especially clerical vestment"
-        ]
-    },
-    "vaporous": {
-        "d": [
-            "filled with vapor",
-            "resembling or characteristic of vapor",
-            "so thin as to transmit light"
-        ]
-    },
-    "vapourous": {
-        "d": [
-            "filled with vapor",
-            "resembling or characteristic of vapor",
-            "so thin as to transmit light"
-        ]
-    },
-    "vocal": {
-        "d": [
-            "given to expressing oneself freely or insistently",
-            "full of the sound of voices",
-            "having or using the power to produce speech or sound",
-            "relating to or designed for or using the singing voice",
-            "music intended to be performed by one or more singers, usually with instrumental accompaniment"
-        ]
-    },
-    "verbal": {
-        "d": [
-            "communicated in the form of words",
-            "prolix",
-            "relating to or having facility in the use of words",
-            "expressed in spoken words",
-            "of or relating to or formed from a verb",
-            "of or relating to or formed from words in general"
-        ]
-    },
-    "vacuous": {
-        "d": [
-            "void of expression",
-            "devoid of matter",
-            "devoid of significance or point",
-            "devoid of intelligence"
-        ]
-    },
-    "verbose": {
-        "d": [
-            "using or containing too many words"
-        ]
-    },
-    "vested": {
-        "d": [
-            "fixed and absolute, without contingency"
-        ]
-    },
-    "vanquishable": {
-        "d": [
-            "susceptible to being defeated"
-        ]
-    },
-    "vincible": {
-        "d": [
-            "susceptible to being defeated"
-        ]
-    },
-    "votive": {
-        "d": [
-            "dedicated in fulfillment of a vow"
-        ]
-    },
-    "violated": {
-        "d": [
-            "treated irreverently or sacrilegiously"
-        ]
-    },
-    "vitriolic": {
-        "d": [
-            "of a substance, an especially strong acid",
-            "harsh or corrosive in tone"
-        ]
-    },
-    "vitiated": {
-        "d": [
-            "ruined in character or quality"
-        ]
-    },
-    "venal": {
-        "d": [
-            "capable of being corrupted"
-        ]
-    },
-    "vituperative": {
-        "d": [
-            "marked by harshly abusive criticism"
-        ]
-    },
-    "verticillate": {
-        "d": [
-            "forming one or more whorls (especially a whorl of leaves around a stem)"
-        ]
-    },
-    "verticillated": {
-        "d": [
-            "forming one or more whorls, especially a whorl of leaves around a stem"
-        ]
-    },
-    "victorious": {
-        "d": [
-            "experiencing triumph",
-            "having won"
-        ]
-    },
-    "vulgar": {
-        "d": [
-            "conspicuously and tastelessly indecent",
-            "being or characteristic of or appropriate to everyday language",
-            "of or associated with the great masses of people",
-            "lacking refinement or cultivation or taste"
-        ]
-    },
-    "vexed": {
-        "d": [
-            "causing difficulty in finding an answer or solution",
-            "troubled persistently especially with petty annoyances"
-        ]
-    },
-    "vestigial": {
-        "d": [
-            "not fully developed in mature animals",
-            "relating to previous functionality or form"
-        ]
-    },
-    "veiled": {
-        "d": [
-            "muted or unclear",
-            "having, or as if having, a veil or concealing cover"
-        ]
-    },
-    "viscoelastic": {
-        "d": [
-            "having viscous as well as elastic properties"
-        ]
-    },
-    "verifiable": {
-        "d": [
-            "capable of being tested, verified or falsified, by experiment or observation"
-        ]
-    },
-    "vigorous": {
-        "d": [
-            "characterized by forceful and energetic action or activity",
-            "strong and active physically or mentally"
-        ]
-    },
-    "voteless": {
-        "d": [
-            "deprived of the rights of citizenship especially the right to vote"
-        ]
-    },
-    "virtual": {
-        "d": [
-            "existing in essence or effect though not in actual fact",
-            "being actually such in almost every respect"
-        ]
-    },
-    "vindicatory": {
-        "d": [
-            "providing justification",
-            "given or inflicted in requital according to merits or deserts",
-            "of or relating to or having the nature of retribution"
-        ]
-    },
-    "vicarious": {
-        "d": [
-            "suffered or done by one person as a substitute for another",
-            "occurring in an abnormal part of the body instead of the usual site involved in that function",
-            "experienced at secondhand"
-        ]
-    },
-    "vanished": {
-        "d": [
-            "having passed out of existence"
-        ]
-    },
-    "valid": {
-        "d": [
-            "still legally acceptable",
-            "well grounded in logic or truth or having legal force"
-        ]
-    },
-    "versed": {
-        "d": [
-            "thoroughly acquainted through study or experience"
-        ]
-    },
-    "voguish": {
-        "d": [
-            "in accord with the latest fad",
-            "elegant and stylish"
-        ]
-    },
-    "vaned": {
-        "d": [
-            "of an arrow, equipped with feathers"
-        ]
-    },
-    "vengeful": {
-        "d": [
-            "disposed to seek revenge or intended for revenge"
-        ]
-    },
-    "variable": {
-        "d": [
-            "(used of a device) designed so that a property (as e.g. light) can be varied",
-            "liable to or capable of change",
-            "marked by diversity or difference",
-            "a quantity that can assume any of a set of values",
-            "a symbol (like x or y) that is used in mathematical or logical expressions to represent a variable quantity",
-            "something that is likely to vary",
-            "a star that varies noticeably in brightness"
-        ]
-    },
-    "vernacular": {
-        "d": [
-            "being or characteristic of or appropriate to everyday language",
-            "the everyday speech of the people (as distinguished from literary language)",
-            "a characteristic language of a particular group (as among thieves)"
-        ]
-    },
-    "veritable": {
-        "d": [
-            "used as an intensifier",
-            "not counterfeit or copied"
-        ]
-    },
-    "visored": {
-        "d": [
-            "having or provided with a visor or a visor of a particular kind"
-        ]
-    },
-    "volumed": {
-        "d": [
-            "furnished with volumes",
-            "formed or rising in rounded masses",
-            "consisting of or having a given number or kind of volumes"
-        ]
-    },
-    "vacant": {
-        "d": [
-            "without an occupant or incumbent",
-            "void of thought or knowledge"
-        ]
-    },
-    "void": {
-        "d": [
-            "containing nothing",
-            "lacking any legal or binding force",
-            "an empty area or space",
-            "the state of nonexistence",
-            "excrete or discharge from the body",
-            "take away the legal force of or render ineffective",
-            "clear (a room, house, place) of occupants or empty or clear (a place or receptacle) of something",
-            "declare invalid"
-        ]
-    },
-    "vinegary": {
-        "d": [
-            "having a sour disposition",
-            "tasting or smelling like vinegar"
-        ]
-    },
-    "vinegarish": {
-        "d": [
-            "having a sour disposition",
-            "tasting or smelling like vinegar"
-        ]
-    },
-    "vile": {
-        "d": [
-            "morally reprehensible",
-            "causing or able to cause nausea"
-        ]
-    },
-    "vitreous": {
-        "d": [
-            "of ceramics, having the surface made shiny and nonporous by fusing a vitreous solution to it",
-            "relating to or resembling or derived from or containing glass",
-            "of, relating to, or constituting the vitreous humor of the eye"
-        ]
-    },
-    "vitrified": {
-        "d": [
-            "having the surface made shiny and nonporous by fusing a vitreous solution to it"
-        ]
-    },
-    "velvet": {
-        "d": [
-            "resembling velvet in having a smooth soft surface",
-            "smooth and soft to sight or hearing or touch or taste",
-            "a silky densely piled fabric with a plain back"
-        ]
-    },
-    "velvety": {
-        "d": [
-            "resembling velvet in having a smooth soft surface",
-            "smooth and soft to sight, hearing, touch or taste"
-        ]
-    },
-    "velar": {
-        "d": [
-            "produced with the back of the tongue touching or near the soft palate (as `k' in `cat' and `g' in `gun' and `ng' in `sing')",
-            "of or relating to the velum",
-            "a consonant produced with the back of the tongue touching or near the soft palate"
-        ]
-    },
-    "varicose": {
-        "d": [
-            "abnormally swollen or knotty"
-        ]
-    },
-    "vertical": {
-        "d": [
-            "of or relating to different levels in a hierarchy (as levels of social class or income group)",
-            "at right angles to the plane of the horizon or a base line",
-            "upright in position or posture",
-            "relating to or involving all stages of a business from production to distribution",
-            "a vertical structural member as a post or stake",
-            "something that is oriented vertically"
-        ]
-    },
-    "venerable": {
-        "d": [
-            "profoundly honored",
-            "impressive by reason of age"
-        ]
-    },
-    "vernal": {
-        "d": [
-            "of or characteristic of or occurring in spring",
-            "suggestive of youth"
-        ]
-    },
-    "valedictory": {
-        "d": [
-            "of a speech expressing leave-taking",
-            "a farewell oration, especially one delivered during graduation exercises by an outstanding member of a graduating class"
-        ]
-    },
-    "voluptuary": {
-        "d": [
-            "displaying luxury and furnishing gratification to the senses",
-            "a person addicted to luxury and pleasures of the senses"
-        ]
-    },
-    "voluptuous": {
-        "d": [
-            "displaying luxury and furnishing gratification to the senses",
-            "having strong sexual appeal",
-            "having a large bosom and pleasing curves"
-        ]
-    },
-    "vindicated": {
-        "d": [
-            "freed from any question of guilt"
-        ]
-    },
-    "ventricose": {
-        "d": [
-            "having a swelling on one side"
-        ]
-    },
-    "ventricous": {
-        "d": [
-            "having a swelling on one side"
-        ]
-    },
-    "volcanic": {
-        "d": [
-            "of or relating to igneous rock produced by eruption and solidified on or near the earth's surface",
-            "explosively unstable",
-            "relating to or produced by or consisting of volcanoes"
-        ]
-    },
-    "vitalizing": {
-        "d": [
-            "giving or having the power to give life and spirit"
-        ]
-    },
-    "vast": {
-        "d": [
-            "unusually great in size, amount, degree, extent, or scope"
-        ]
-    },
-    "visceral": {
-        "d": [
-            "marked by intense personal feelings or emotions causing one to literally feel it in the viscera; gut wrenching",
-            "relating to or affecting the viscera; guts",
-            "relating to crude elements or emotions; earthy"
-        ]
-    },
-    "verisimilar": {
-        "d": [
-            "appearing to be true or real"
-        ]
-    },
-    "viselike": {
-        "d": [
-            "clamped as in a vise"
-        ]
-    },
-    "virile": {
-        "d": [
-            "characteristic of a man",
-            "(of a male) capable of copulation",
-            "characterized by energy and vigor"
-        ]
-    },
-    "vehement": {
-        "d": [
-            "marked by extreme intensity of emotions or convictions",
-            "characterized by great force or energy"
-        ]
-    },
-    "versatile": {
-        "d": [
-            "able to move freely in all directions",
-            "competent in many areas and able to turn with ease from one thing to another",
-            "changeable or inconstant",
-            "having great diversity or variety"
-        ]
-    },
-    "vibratory": {
-        "d": [
-            "moving very rapidly to and fro or up and down"
-        ]
-    },
-    "violative": {
-        "d": [
-            "violating or tending to violate or offend against"
-        ]
-    },
-    "vesicatory": {
-        "d": [
-            "causing blisters",
-            "a chemical agent that causes blistering (especially mustard gas)"
-        ]
-    },
-    "vesicant": {
-        "d": [
-            "causing blisters",
-            "a chemical agent that causes blistering, especially mustard gas"
-        ]
-    },
-    "verminous": {
-        "d": [
-            "of the nature of vermin"
-        ]
-    },
-    "varnished": {
-        "d": [
-            "having a coating of stain or varnish"
-        ]
-    },
-    "visible": {
-        "d": [
-            "present and easily available",
-            "obvious to the eye",
-            "capable of being seen"
-        ]
-    },
-    "venial": {
-        "d": [
-            "easily excused or forgiven",
-            "warranting only temporal punishment"
-        ]
-    },
-    "voidable": {
-        "d": [
-            "capable of being rescinded or voided"
-        ]
-    },
-    "verboten": {
-        "d": [
-            "excluded from use or mention"
-        ]
-    },
-    "vermicular": {
-        "d": [
-            "decorated with wormlike tracery or markings"
-        ]
-    },
-    "vermiculate": {
-        "d": [
-            "decorated with wormlike tracery or markings",
-            "eaten by worms, or looking like it",
-            "to decorate with wavy or winding lines"
-        ]
-    },
-    "vermiculated": {
-        "d": [
-            "decorated with wormlike tracery or markings"
-        ]
-    },
-    "veined": {
-        "d": [
-            "having or showing markings that resemble veins"
-        ]
-    },
-    "venose": {
-        "d": [
-            "having or showing markings that resemble veins"
-        ]
-    },
-    "vanilla": {
-        "d": [
-            "plain and without any extras or adornments",
-            "flavored with vanilla extract",
-            "a distinctive fragrant flavor characteristic of vanilla beans",
-            "a flavoring prepared from vanilla beans macerated in alcohol (or imitating vanilla beans)",
-            "any of numerous climbing plants of the genus Vanilla having fleshy leaves and clusters of large waxy highly fragrant white or green or topaz flowers"
-        ]
-    },
-    "viewless": {
-        "d": [
-            "not having or expressing opinions or views"
-        ]
-    },
-    "vain": {
-        "d": [
-            "unproductive of success",
-            "characteristic of false pride"
-        ]
-    },
-    "Victorian": {
-        "d": [
-            "exaggeratedly proper",
-            "typical of the moral standards or conduct of the age of Queen Victoria",
-            "of or relating to Queen Victoria of Great Britain or to the age in which she ruled"
-        ]
-    },
-    "victorian": {
-        "d": [
-            "exaggeratedly proper",
-            "typical of the moral standards or conduct of the age of Queen Victoria",
-            "of or relating to Queen Victoria of Great Britain or to the age in which she ruled"
-        ]
-    },
-    "vatic": {
-        "d": [
-            "resembling or characteristic of a prophet or prophecy"
-        ]
-    },
-    "vatical": {
-        "d": [
-            "resembling or characteristic of a prophet or prophecy"
-        ]
-    },
-    "vociferous": {
-        "d": [
-            "conspicuously and offensively loud"
-        ]
-    },
-    "vainglorious": {
-        "d": [
-            "imperious self-importance"
-        ]
-    },
-    "valued": {
-        "d": [
-            "having value of a specified kind",
-            "held in great esteem for admirable qualities especially of an intrinsic nature"
-        ]
-    },
-    "vicenary": {
-        "d": [
-            "of, relating to, or based on 20"
-        ]
-    },
-    "verified": {
-        "d": [
-            "proved to be true"
-        ]
-    },
-    "visualized": {
-        "d": [
-            "seen in the mind as a mental image"
-        ]
-    },
-    "visualised": {
-        "d": [
-            "seen in the mind as a mental image"
-        ]
-    },
-    "vulcanized": {
-        "d": [
-            "something, usually rubber, that has been treated by a chemical or physical process to improve its properties of hardness, strength, odor, and elasticity"
-        ]
-    },
-    "vulcanised": {
-        "d": [
-            "something, usually rubber, that has been treated by a chemical or physical process to improve its properties of hardness, strength, odor, and elasticity"
-        ]
-    },
-    "veridical": {
-        "d": [
-            "coinciding with reality"
-        ]
-    },
-    "vacillating": {
-        "d": [
-            "uncertain in purpose or action"
-        ]
-    },
-    "venerating": {
-        "d": [
-            "feeling or manifesting veneration"
-        ]
-    },
-    "vacillant": {
-        "d": [
-            "uncertain in purpose or action"
-        ]
-    },
-    "vaulted": {
-        "d": [
-            "having a hemispherical vault or dome"
-        ]
-    },
-    "vendable": {
-        "d": [
-            "fit to be offered for sale"
-        ]
-    },
-    "vendible": {
-        "d": [
-            "fit to be offered for sale"
-        ]
-    },
-    "various": {
-        "d": [
-            "of many different kinds purposefully arranged but lacking any uniformity",
-            "distinctly dissimilar or unlike",
-            "having great diversity or variety",
-            "considered individually"
-        ]
-    },
-    "variant": {
-        "d": [
-            "differing from a norm or standard",
-            "exhibiting variation and change",
-            "something a little different from others of the same type",
-            "a variable quantity that is random",
-            "an event that departs from expectations",
-            "(biology) a group of organisms within a species that differ in trivial ways from similar groups"
-        ]
-    },
-    "vegetal": {
-        "d": [
-            "(of reproduction) characterized by asexual processes",
-            "composed of vegetation or plants"
-        ]
-    },
-    "vegetative": {
-        "d": [
-            "characterized by an asexual reproductive processes in plants",
-            "relating to involuntary bodily functions",
-            "composed of vegetation or plants",
-            "of or relating to an activity that is passive and monotonous",
-            "lacking any cognitive function, including any awareness of oneself or the outside world"
-        ]
-    },
-    "vagabond": {
-        "d": [
-            "continually changing especially as from one abode or occupation to another",
-            "wandering aimlessly without ties to a place or community",
-            "anything that resembles a vagabond in having no fixed place",
-            "a wanderer who has no established residence or visible means of support",
-            "move about aimlessly or without any destination, often in search of food or employment"
-        ]
-    },
-    "vagrant": {
-        "d": [
-            "continually changing, especially as from one abode or occupation to another",
-            "a wanderer who has no established residence or visible means of support"
-        ]
-    },
-    "vermiform": {
-        "d": [
-            "resembling a worm"
-        ]
-    },
-    "viii": {
-        "d": [
-            "the Roman numeral for eight"
-        ]
-    },
-    "verrucose": {
-        "d": [
-            "(of skin) covered with warts or projections that resemble warts"
-        ]
-    },
-    "volatilised": {
-        "d": [
-            "converted into a gas or vapor"
-        ]
-    },
-    "volatilized": {
-        "d": [
-            "converted into a gas or vapor"
-        ]
-    },
-    "vivacious": {
-        "d": [
-            "vigorous and animated"
-        ]
-    },
-    "vaporific": {
-        "d": [
-            "resembling or characteristic of vapor",
-            "used of substances, capable of being volatilized"
-        ]
-    },
-    "vapourific": {
-        "d": [
-            "resembling or characteristic of vapor",
-            "used of substances, capable of being volatilized"
-        ]
-    },
-    "vaporish": {
-        "d": [
-            "resembling or characteristic of vapor"
-        ]
-    },
-    "vapourish": {
-        "d": [
-            "resembling or characteristic of vapor"
-        ]
-    },
-    "verbalized": {
-        "d": [
-            "communicated in words"
-        ]
-    },
-    "verbalised": {
-        "d": [
-            "communicated in words"
-        ]
-    },
-    "vasiform": {
-        "d": [
-            "constituting a tube"
-        ]
-    },
-    "voiced": {
-        "d": [
-            "produced with vibration of the vocal cords",
-            "said or expressed out loud"
-        ]
-    },
-    "vocalic": {
-        "d": [
-            "being, containing or characterized by vowels"
-        ]
-    },
-    "vowellike": {
-        "d": [
-            "having characteristics of a vowel sound"
-        ]
-    },
-    "vapid": {
-        "d": [
-            "lacking significance or liveliness or spirit or zest",
-            "lacking taste, flavor or tang"
-        ]
-    },
-    "vaporized": {
-        "d": [
-            "converted into a gas or vapor by chemical or mechanical process",
-            "completely destroyed"
-        ]
-    },
-    "vapourised": {
-        "d": [
-            "converted into a gas or vapor by chemical or mechanical process",
-            "completely destroyed"
-        ]
-    },
-    "volute": {
-        "d": [
-            "in the shape of a coil",
-            "a structure consisting of something wound in a continuous series of loops",
-            "an ornament consisting of a curve on a plane that winds around a center with an increasing distance from the center"
-        ]
-    },
-    "voluted": {
-        "d": [
-            "in the shape of a coil"
-        ]
-    },
-    "vulnerable": {
-        "d": [
-            "capable of being wounded or hurt",
-            "susceptible to criticism or persuasion or temptation",
-            "susceptible to attack"
-        ]
-    },
-    "vaccinated": {
-        "d": [
-            "having been rendered unsusceptible to a disease"
-        ]
-    },
-    "validating": {
-        "d": [
-            "serving to support or corroborate"
-        ]
-    },
-    "validatory": {
-        "d": [
-            "serving to support or corroborate"
-        ]
-    },
-    "verificatory": {
-        "d": [
-            "serving to support or corroborate"
-        ]
-    },
-    "verifying": {
-        "d": [
-            "serving to support or corroborate"
-        ]
-    },
-    "voluble": {
-        "d": [
-            "marked by a ready flow of speech"
-        ]
-    },
-    "variegated": {
-        "d": [
-            "having a variety of colors"
-        ]
-    },
-    "variform": {
-        "d": [
-            "varying in form or shape"
-        ]
-    },
-    "varying": {
-        "d": [
-            "marked by diversity or difference"
-        ]
-    },
-    "ventilated": {
-        "d": [
-            "exposed to air"
-        ]
-    },
-    "vented": {
-        "d": [
-            "supplied with a vent or vents for intake of air or discharge of gases or moisture"
-        ]
-    },
-    "victimized": {
-        "d": [
-            "being made a victim, i.e. being treated unjustly or cruelly"
-        ]
-    },
-    "visionary": {
-        "d": [
-            "not practical or realizable",
-            "a person with unusual powers of foresight",
-            "a person given to fanciful speculations and enthusiasms with little regard for what is actually possible"
-        ]
-    },
-    "validated": {
-        "d": [
-            "declared or made legally valid"
-        ]
-    },
-    "valuable": {
-        "d": [
-            "having great material or monetary value, especially for use or exchange",
-            "having worth,  merit, or value",
-            "something of value"
-        ]
-    },
-    "valueless": {
-        "d": [
-            "of no value"
-        ]
-    },
-    "vertiginous": {
-        "d": [
-            "having or causing a whirling sensation"
-        ]
-    },
-    "vertebrate": {
-        "d": [
-            "having a backbone or spinal column",
-            "animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull or cranium"
-        ]
-    },
-    "violable": {
-        "d": [
-            "capable of being violated"
-        ]
-    },
-    "villainous": {
-        "d": [
-            "extremely wicked"
-        ]
-    },
-    "visual": {
-        "d": [
-            "visible",
-            "relating to or using sight"
-        ]
-    },
-    "viewable": {
-        "d": [
-            "capable of being viewed"
-        ]
-    },
-    "viviparous": {
-        "d": [
-            "producing living young (not eggs)"
-        ]
-    },
-    "vaporizable": {
-        "d": [
-            "capable of being volatilized"
-        ]
-    },
-    "vapourisable": {
-        "d": [
-            "capable of being volatilized"
-        ]
-    },
-    "volatilizable": {
-        "d": [
-            "capable of being dispersed into a vapour"
-        ]
-    },
-    "volatilisable": {
-        "d": [
-            "capable of being dispersed into a vapour"
-        ]
-    },
-    "voluntary": {
-        "d": [
-            "of your own free will or design",
-            "controlled by individual volition",
-            "composition (often improvised) for a solo instrument (especially solo organ) and not a regular part of a religious service or musical performance",
-            "(military) a person who freely enlists for service"
-        ]
-    },
-    "volitional": {
-        "d": [
-            "with deliberate intention"
-        ]
-    },
-    "volant": {
-        "d": [
-            "with wings extended in a flying position"
-        ]
-    },
-    "vegetational": {
-        "d": [
-            "composed of vegetation or plants"
-        ]
-    },
-    "venous": {
-        "d": [
-            "of or contained in or performing the function of the veins"
-        ]
-    },
-    "volar": {
-        "d": [
-            "relating to the palm of the hand or the sole of the foot"
-        ]
-    },
-    "vacuolate": {
-        "d": [
-            "formed into or containing one or more vacuoles or small membrane-bound cavities within a cell"
-        ]
-    },
-    "vacuolated": {
-        "d": [
-            "formed into or containing one or more vacuoles or small membrane-bound cavities within a cell"
-        ]
-    },
-    "vagal": {
-        "d": [
-            "of or relating to the vagus nerve"
-        ]
-    },
-    "valent": {
-        "d": [
-            "having valence"
-        ]
-    },
-    "valetudinarian": {
-        "d": [
-            "of or relating to or characteristic of a person who is a valetudinarian",
-            "weak or sickly person especially one morbidly concerned with his or her health"
-        ]
-    },
-    "valetudinary": {
-        "d": [
-            "showing too much fear or concern about your health or wellbeing"
-        ]
-    },
-    "valved": {
-        "d": [
-            "having valves"
-        ]
-    },
-    "variolar": {
-        "d": [
-            "relating to small pox"
-        ]
-    },
-    "variolic": {
-        "d": [
-            "relating to small pox"
-        ]
-    },
-    "variolous": {
-        "d": [
-            "relating to small pox"
-        ]
-    },
-    "Vedic": {
-        "d": [
-            "of or relating to the Vedas or to the ancient Sanskrit in which they were written"
-        ]
-    },
-    "ventilatory": {
-        "d": [
-            "provided with ventilation or involving pulmonary ventilation"
-        ]
-    },
-    "ventricular": {
-        "d": [
-            "of or relating to a ventricle, of the heart or brain"
-        ]
-    },
-    "viatical": {
-        "d": [
-            "pertaining to the purchase of insurance policies from terminally ill policy holders"
-        ]
-    },
-    "vibrational": {
-        "d": [
-            "of or relating to or characterized by vibration"
-        ]
-    },
-    "vicarial": {
-        "d": [
-            "of or relating to or characteristic of a vicar"
-        ]
-    },
-    "vicennial": {
-        "d": [
-            "occurring once every twenty years"
-        ]
-    },
-    "vigesimal": {
-        "d": [
-            "relating to or based on the number twenty"
-        ]
-    },
-    "voltaic": {
-        "d": [
-            "pertaining to or producing electric current by chemical action"
-        ]
-    },
-    "vulpine": {
-        "d": [
-            "resembling or characteristic of a fox"
-        ]
-    },
-    "vulpecular": {
-        "d": [
-            "resembling or characteristic of a fox"
-        ]
-    },
-    "vulvar": {
-        "d": [
-            "of or relating to the vulva"
-        ]
-    },
-    "vulval": {
-        "d": [
-            "of or relating to the vulva"
-        ]
-    },
-    "vocational": {
-        "d": [
-            "of or relating to a vocation or occupation"
-        ]
-    },
-    "vegetive": {
-        "d": [
-            "of or relating to an activity that is passive and monotonous"
-        ]
-    },
-    "vinous": {
-        "d": [
-            "of or relating to wine"
-        ]
-    },
-    "viral": {
-        "d": [
-            "relating to or caused by a virus"
-        ]
-    },
-    "vicinal": {
-        "d": [
-            "belonging to or limited to a vicinity"
-        ]
-    },
-    "venereal": {
-        "d": [
-            "of or relating to the external sex organs"
-        ]
-    },
-    "vascular": {
-        "d": [
-            "of or relating to or having vessels that conduct and circulate fluids"
-        ]
-    },
-    "virological": {
-        "d": [
-            "of or relating to the science of virology"
-        ]
-    },
-    "veinal": {
-        "d": [
-            "relating to the veins of plants"
-        ]
-    },
-    "Venezuelan": {
-        "d": [
-            "of or relating to or characteristic of Venezuela or its people"
-        ]
-    },
-    "Viennese": {
-        "d": [
-            "of or relating to or characteristic of Vienna or its inhabitants"
-        ]
-    },
-    "volumetric": {
-        "d": [
-            "of or relating to measurement by volume"
-        ]
-    },
-    "volumetrical": {
-        "d": [
-            "of or relating to measurement by volume"
-        ]
-    },
-    "Venetian": {
-        "d": [
-            "of or relating to or characteristic of Venice or its people"
-        ]
-    },
-    "vesicular": {
-        "d": [
-            "of or relating to or involving vesicles"
-        ]
-    },
-    "vestibular": {
-        "d": [
-            "relating to the sense of equilibrium"
-        ]
-    },
-    "vertebral": {
-        "d": [
-            "of or relating to or constituting vertebrae"
-        ]
-    },
-    "Voltarean": {
-        "d": [
-            "in the manner of Voltaire"
-        ]
-    },
-    "Voltarian": {
-        "d": [
-            "in the manner of Voltaire"
-        ]
-    },
-    "vasomotor": {
-        "d": [
-            "relating to the nerves and muscles that cause the blood vessels to constrict or dilate"
-        ]
-    },
-    "vesical": {
-        "d": [
-            "of or relating to a bladder, especially the urinary bladder"
-        ]
-    },
-    "viscometric": {
-        "d": [
-            "of or relating to the measurement of viscosity"
-        ]
-    },
-    "viscosimetric": {
-        "d": [
-            "of or relating to the measurement of viscosity"
-        ]
-    },
-    "viricidal": {
-        "d": [
-            "tending to destroy viruses"
-        ]
-    },
-    "virucidal": {
-        "d": [
-            "tending to destroy viruses"
-        ]
-    },
-    "vitiliginous": {
-        "d": [
-            "of or relating to or having vitiligo"
-        ]
-    },
-    "varicelliform": {
-        "d": [
-            "resembling the rash of chickenpox"
-        ]
-    },
-    "vaginal": {
-        "d": [
-            "of or relating to the vagina"
-        ]
-    },
-    "valvular": {
-        "d": [
-            "relating to or operating by means of valves"
-        ]
-    },
-    "vehicular": {
-        "d": [
-            "of, relating to, or intended for motor vehicles"
-        ]
-    },
-    "vestiary": {
-        "d": [
-            "relating to clothing, especially vestments"
-        ]
-    },
-    "vestmental": {
-        "d": [
-            "of or relating to or resembling a vestment"
-        ]
-    },
-    "veterinary": {
-        "d": [
-            "of or relating to veterinarians or veterinary medicine",
-            "a doctor who practices veterinary medicine"
-        ]
-    },
-    "vibrionic": {
-        "d": [
-            "caused by bacteria of the genus Vibrio"
-        ]
-    },
-    "viceregal": {
-        "d": [
-            "of or relating to a viceroy"
-        ]
-    },
-    "Vietnamese": {
-        "d": [
-            "of or relating to or characteristic of Vietnam or its people or its language",
-            "collectively, the people of Vietnam",
-            "the Vietnamese language"
-        ]
-    },
-    "vocative": {
-        "d": [
-            "relating to a case used in some languages",
-            "the case (in some inflected languages) used when the referent of the noun is being addressed"
-        ]
-    },
-    "voyeuristic": {
-        "d": [
-            "of or relating to voyeurs or voyeurism"
-        ]
-    },
-    "voyeuristical": {
-        "d": [
-            "of or relating to voyeurs or voyeurism"
-        ]
-    },
-    "valediction": {
-        "d": [
-            "the act of saying farewell",
-            "a farewell oration (especially one delivered during graduation exercises by an outstanding member of a graduating class)"
-        ]
-    },
-    "vanishing": {
-        "d": [
-            "a sudden or mysterious disappearance",
-            "a small or decreasing amount"
-        ]
-    },
-    "viatication": {
-        "d": [
-            "purchasing insurance policies for cash from terminally ill policy holders"
-        ]
-    },
-    "viaticus": {
-        "d": [
-            "purchasing insurance policies for cash from terminally ill policy holders"
-        ]
-    },
-    "vendue": {
-        "d": [
-            "the public sale of something to the highest bidder"
-        ]
-    },
-    "vomit": {
-        "d": [
-            "the reflex act of ejecting the contents of the stomach through the mouth",
-            "a medicine that induces nausea and vomiting",
-            "the matter ejected in vomiting",
-            "eject the contents of the stomach through the mouth"
-        ]
-    },
-    "vomiting": {
-        "d": [
-            "the reflex act of ejecting the contents of the stomach through the mouth"
-        ]
-    },
-    "vault": {
-        "d": [
-            "the act of jumping over an obstacle",
-            "an arched brick or stone ceiling or roof",
-            "a burial chamber (usually underground)",
-            "a strongroom or compartment (often made of steel) for safekeeping of valuables",
-            "bound vigorously",
-            "to jump across or leap over an obstacle"
-        ]
-    },
-    "validation": {
-        "d": [
-            "the act of validating",
-            "the cognitive process of establishing a valid proof"
-        ]
-    },
-    "voting": {
-        "d": [
-            "a choice that is made by counting the number of people in favor of each alternative"
-        ]
-    },
-    "voice": {
-        "d": [
-            "a means or agency by which something is expressed or communicated",
-            "the distinctive quality or pitch or condition of a person's speech",
-            "the ability to speak",
-            "the melody carried by a particular voice or instrument in polyphonic music",
-            "expressing in coherent verbal form",
-            "the sound made by the vibration of vocal folds modified by the resonance of the vocal tract",
-            "something suggestive of speech in being a medium of expression",
-            "a sound suggestive of a vocal utterance",
-            "an advocate who represents someone else's policy or purpose",
-            "metonymy for a singer",
-            "(linguistics) the grammatical relation (active or passive) of the grammatical subject of a verb to the action that the verb denotes",
-            "allow something to be expressed",
-            "utter with vibrating vocal chords"
-        ]
-    },
-    "vote": {
-        "d": [
-            "be guided by in voting",
-            "the opinion of a group as determined by voting",
-            "a choice that is made by counting the number of people in favor of each alternative",
-            "a legal right guaranteed by the 15th amendment to the US Constitution",
-            "the total number of voters who participated",
-            "a body of voters who have the same interests",
-            "express one's preference for a candidate or for a measure or resolution",
-            "bring into existence or make available by vote",
-            "express a choice or opinion",
-            "express one's choice or preference by vote"
-        ]
-    },
-    "volition": {
-        "d": [
-            "the capability of conscious choice and decision and intention",
-            "the act of making a choice"
-        ]
-    },
-    "variation": {
-        "d": [
-            "an activity that varies from a norm or standard",
-            "the act of changing or altering something slightly but noticeably from the norm or standard",
-            "(ballet) a solo dance or dance figure",
-            "an artifact that deviates from a norm or standard",
-            "something a little different from others of the same type",
-            "a repetition of a musical theme in which it is modified or embellished",
-            "an instance of change",
-            "(biology) an organism that has characteristics resulting from chromosomal alteration",
-            "(astronomy) any perturbation of the mean motion or orbit of a planet or satellite (especially a perturbation of the earth's moon)",
-            "the process of varying or being varied",
-            "the angle (at a particular location) between magnetic north and true north"
-        ]
-    },
-    "variance": {
-        "d": [
-            "an activity that varies from a norm or standard",
-            "an official dispensation to act contrary to a rule or regulation (typically a building regulation)",
-            "the quality of being subject to variation",
-            "a difference between conflicting facts or claims or opinions",
-            "the second moment around the mean",
-            "discord that splits a group",
-            "an event that departs from expectations"
-        ]
-    },
-    "variegation": {
-        "d": [
-            "the act of introducing variety, especially in investments or in the variety of goods and services offered",
-            "variability in coloration"
-        ]
-    },
-    "veto": {
-        "d": [
-            "a vote that blocks a decision",
-            "the power or right to prohibit or reject a proposed or intended act (especially the power of a chief executive to reject a bill passed by the legislature)",
-            "command against",
-            "vote against"
-        ]
-    },
-    "vitiation": {
-        "d": [
-            "nullification by the destruction of the legal force"
-        ]
-    },
-    "vaporization": {
-        "d": [
-            "annihilation by vaporizing something",
-            "the process of becoming a vapor"
-        ]
-    },
-    "vaporisation": {
-        "d": [
-            "annihilation by vaporizing something",
-            "the process of becoming a vapor"
-        ]
-    },
-    "ventilation": {
-        "d": [
-            "the act of supplying fresh air and getting rid of foul air",
-            "the bodily process of inhalation and exhalation",
-            "a mechanical system in a building that provides fresh air",
-            "free and open discussion of (or debate on) some question of public interest"
-        ]
-    },
-    "vulgarization": {
-        "d": [
-            "the act of making something attractive to the general public",
-            "the act of rendering something coarse and unrefined"
-        ]
-    },
-    "vulgarisation": {
-        "d": [
-            "the act of making something attractive to the general public",
-            "the act of rendering something coarse and unrefined"
-        ]
-    },
-    "vagabondage": {
-        "d": [
-            "travelling about without any clear destination"
-        ]
-    },
-    "voyage": {
-        "d": [
-            "a journey to some distant place",
-            "an act of traveling by water",
-            "travel on water propelled by wind or by other means"
-        ]
-    },
-    "vacillation": {
-        "d": [
-            "changing location by moving back and forth",
-            "indecision in speech or action"
-        ]
-    },
-    "vibration": {
-        "d": [
-            "the act of vibrating",
-            "a distinctive emotional aura experienced instinctively",
-            "in physics, a regular periodic variation in value about a mean",
-            "a shaky motion"
-        ]
-    },
-    "vaginismus": {
-        "d": [
-            "muscular contraction that causes the vagina to close"
-        ]
-    },
-    "vasodilation": {
-        "d": [
-            "dilation of blood vessels, especially the arteries"
-        ]
-    },
-    "voidance": {
-        "d": [
-            "the act of removing the contents of something"
-        ]
-    },
-    "vexation": {
-        "d": [
-            "the act of troubling or annoying someone",
-            "something or someone that causes anxiety",
-            "anger produced by some annoying irritation",
-            "the psychological state of being irritated or annoyed"
-        ]
-    },
-    "victimization": {
-        "d": [
-            "an act that exploits or victimizes someone, treats them unfairly",
-            "adversity resulting from being made a victim"
-        ]
-    },
-    "victimisation": {
-        "d": [
-            "an act that exploits or victimizes someone, treats them unfairly",
-            "adversity resulting from being made a victim"
-        ]
-    },
-    "volleyball": {
-        "d": [
-            "a game in which two teams hit an inflated ball over a high net using their hands",
-            "an inflated ball used in playing volleyball"
-        ]
-    },
-    "valse": {
-        "d": [
-            "a ballroom dance in triple time with a strong accent on the first beat"
-        ]
-    },
-    "vocalizing": {
-        "d": [
-            "the act of singing vocal music"
-        ]
-    },
-    "volley": {
-        "d": [
-            "a tennis return made by hitting the ball before it bounces",
-            "rapid simultaneous discharge of firearms",
-            "to utter rapidly",
-            "to make a volley",
-            "to discharge in, or as if in, a volley",
-            "to hit before it touches the ground",
-            "to be dispersed in a volley"
-        ]
-    },
-    "viceroyship": {
-        "d": [
-            "the position of viceroy"
-        ]
-    },
-    "viziership": {
-        "d": [
-            "the position of vizier"
-        ]
-    },
-    "vocation": {
-        "d": [
-            "the particular occupation for which you are trained",
-            "a body of people doing the same kind of work"
-        ]
-    },
-    "visitation": {
-        "d": [
-            "an official visit for inspection or supervision",
-            "any disaster or catastrophe",
-            "an annoying or frustrating or catastrophic event"
-        ]
-    },
-    "vasectomy": {
-        "d": [
-            "a surgical procedure that removes all or part of the vas deferens, usually as a means of sterilization"
-        ]
-    },
-    "vasotomy": {
-        "d": [
-            "surgical incision into or division of the vas deferens"
-        ]
-    },
-    "vasosection": {
-        "d": [
-            "a surgical incision into or division of the vas deferens"
-        ]
-    },
-    "vasovasostomy": {
-        "d": [
-            "a surgical procedure that attempts to restore the function of the vas deferens after a vasectomy"
-        ]
-    },
-    "vulvectomy": {
-        "d": [
-            "the surgical removal of part or all of the vulva"
-        ]
-    },
-    "vivisection": {
-        "d": [
-            "the act of operating on living animals, especially in scientific research"
-        ]
-    },
-    "valvotomy": {
-        "d": [
-            "incision into a stenosed cardiac valve to relieve the obstruction"
-        ]
-    },
-    "valvulotomy": {
-        "d": [
-            "incision into a stenosed cardiac valve to relieve the obstruction"
-        ]
-    },
-    "venesection": {
-        "d": [
-            "surgical incision into a vein"
-        ]
-    },
-    "vitrectomy": {
-        "d": [
-            "a surgical procedure that removes the vitreous humor and replace it with saline solution"
-        ]
-    },
-    "voyeurism": {
-        "d": [
-            "a perversion in which a person receives sexual gratification from seeing the genitalia of others or witnessing others' sexual behavior"
-        ]
-    },
-    "violation": {
-        "d": [
-            "entry to another's property without right or permission",
-            "a disrespectful act",
-            "a crime less serious than a felony",
-            "an act that disregards an agreement or a right",
-            "the crime of forcing a woman to submit to sexual intercourse against her will"
-        ]
-    },
-    "villainy": {
-        "d": [
-            "a criminal or vicious act",
-            "the quality of evil by virtue of villainous behavior"
-        ]
-    },
-    "vice": {
-        "d": [
-            "a specific form of evildoing",
-            "moral weakness"
-        ]
-    },
-    "venture": {
-        "d": [
-            "any venturesome undertaking especially one with an uncertain outcome",
-            "a commercial undertaking that risks a loss but promises a profit",
-            "an investment that is very risky but could yield great profits",
-            "put forward, of a guess, in spite of possible refutation",
-            "proceed somewhere despite the risk of possible dangers",
-            "put at risk"
-        ]
-    },
-    "vaccination": {
-        "d": [
-            "the act of taking a vaccine as a precaution against contracting a disease"
-        ]
-    },
-    "vaccinating": {
-        "d": [
-            "the act of protecting against disease by introducing a vaccine into the body to induce immunity"
-        ]
-    },
-    "variolation": {
-        "d": [
-            "the obsolete process of inoculating a susceptible person with material taken from a vesicle of a person who has smallpox"
-        ]
-    },
-    "variolization": {
-        "d": [
-            "the obsolete process of inoculating a susceptible person with material taken from a vesicle of a person who has smallpox"
-        ]
-    },
-    "vigil": {
-        "d": [
-            "a purposeful surveillance to guard or observe",
-            "the rite of staying awake for devotional purposes, especially on the eve of a religious festival",
-            "a period of sleeplessness"
-        ]
-    },
-    "view": {
-        "d": [
-            "the act of looking or seeing or observing",
-            "graphic art consisting of the graphic or photographic representation of a visual percept",
-            "outward appearance",
-            "the range of interest or activity that can be anticipated",
-            "the visual percept of a region",
-            "a personal belief or judgment that is not founded on proof or certainty",
-            "purpose",
-            "a way of regarding situations or topics etc.",
-            "a message expressing a belief about something",
-            "the range of the eye",
-            "to deem to be",
-            "look at carefully",
-            "see or watch"
-        ]
-    },
-    "venography": {
-        "d": [
-            "roentgenographic examination of veins"
-        ]
-    },
-    "veneering": {
-        "d": [
-            "the act of applying veneer",
-            "coating consisting of a thin layer of superior wood glued to a base of inferior wood"
-        ]
-    },
-    "venipuncture": {
-        "d": [
-            "the puncture of a vein through the skin in order to withdraw blood for analysis, to start an intravenous drip or to inject medication or a radiopaque dye"
-        ]
-    },
-    "violence": {
-        "d": [
-            "an act of aggression, as one against a person who resists",
-            "the property of being wild or turbulent",
-            "a turbulent state resulting in injuries and destruction etc."
-        ]
-    },
-    "voicing": {
-        "d": [
-            "the act of adjusting an organ pipe or wind instrument so that it conforms to the standards of tone and pitch and color"
-        ]
-    },
-    "verbolatry": {
-        "d": [
-            "the worship of words"
-        ]
-    },
-    "viewing": {
-        "d": [
-            "a vigil held over a corpse the night before burial",
-            "the display of a motion picture"
-        ]
-    },
-    "visit": {
-        "d": [
-            "a temporary stay (e.g., as a guest)",
-            "the act of going to see some person in a professional capacity",
-            "the act of visiting in an official capacity (as for an inspection)",
-            "the act of going to see some person or place or thing for a short time",
-            "a meeting arranged by the visitor to see someone such as a doctor or lawyer for treatment or advice",
-            "assail or inflict",
-            "impose something unpleasant",
-            "talk socially without exchanging too much information",
-            "go to certain places as for sightseeing",
-            "come to see in an official or professional capacity",
-            "pay a brief visit",
-            "go to see a place, as for entertainment",
-            "stay with as a guest"
-        ]
-    },
-    "visiting": {
-        "d": [
-            "the activity of making visits"
-        ]
-    },
-    "vivification": {
-        "d": [
-            "the activity of giving vitality and vigour to something",
-            "the quality of being active, spirited, alive and vigorous"
-        ]
-    },
-    "vesper": {
-        "d": [
-            "a late afternoon or evening worship service"
-        ]
-    },
-    "veneration": {
-        "d": [
-            "religious zeal",
-            "a feeling of profound respect for someone or something"
-        ]
-    },
-    "vegetation": {
-        "d": [
-            "inactivity that is passive and monotonous, comparable to the inactivity of plant life",
-            "an abnormal growth or excrescence, especially a warty excrescence on the valves of the heart",
-            "all the plant life in a particular region or period",
-            "the process of growth in plants"
-        ]
-    },
-    "vacationing": {
-        "d": [
-            "the act of taking a vacation"
-        ]
-    },
-    "vending": {
-        "d": [
-            "the act of selling goods for a living"
-        ]
-    },
-    "vendition": {
-        "d": [
-            "the act of selling goods for a living"
-        ]
-    },
-    "viscometry": {
-        "d": [
-            "the measurement of viscosity"
-        ]
-    },
-    "viscosimetry": {
-        "d": [
-            "the measurement of viscosity"
-        ]
-    },
-    "viticulture": {
-        "d": [
-            "the cultivation of grapes and grape vines"
-        ]
-    },
-    "viniculture": {
-        "d": [
-            "the cultivation of grapes and grape vines"
-        ]
-    },
-    "vigilantism": {
-        "d": [
-            "the actions of a vigilante, for example fighting crime without being part of a government ordained group"
-        ]
-    },
-    "vasoconstriction": {
-        "d": [
-            "a decrease in the diameter of blood vessels"
-        ]
-    },
-    "verdict": {
-        "d": [
-            "(law) the findings of a jury on issues of fact submitted to it for decision"
-        ]
-    },
-    "vandalism": {
-        "d": [
-            "willful wanton and malicious destruction of the property of others"
-        ]
-    },
-    "vindication": {
-        "d": [
-            "the act of vindicating or defending against criticism or censure etc",
-            "the justification for some act or belief"
-        ]
-    },
-    "venting": {
-        "d": [
-            "getting rid of pent up emotions, particularly anger, through sharing with others"
-        ]
-    },
-    "vacation": {
-        "d": [
-            "the act of making something legally void",
-            "leisure time away from work devoted to rest or pleasure",
-            "spend or take a vacation"
-        ]
-    },
-    "vengeance": {
-        "d": [
-            "the act of harming someone in retaliation for something harmful that they have done"
-        ]
-    },
-    "vendetta": {
-        "d": [
-            "a feud in which members of the opposing parties murder each other"
-        ]
-    },
-    "veering": {
-        "d": [
-            "the act of turning aside suddenly"
-        ]
-    },
-    "vent": {
-        "d": [
-            "activity that frees or expresses creative energy or emotion",
-            "external opening of urinary or genital system of a lower vertebrate",
-            "a hole for the escape of gas or air",
-            "a slit in a garment (as in the back seam of a jacket)",
-            "a fissure in the earth's crust (or in the surface of some other planet) through which molten lava and gases erupt",
-            "expose to cool or cold air so as to cool or freshen",
-            "give expression or utterance to"
-        ]
-    },
-    "vampirism": {
-        "d": [
-            "the actions or practices of a vampire",
-            "belief in the existence of vampires"
-        ]
-    },
-    "version": {
-        "d": [
-            "manual turning of a fetus in the uterus to aid delivery",
-            "something a little different from others of the same type",
-            "a mental representation of the meaning or significance of something",
-            "an artistic work that has been recast in a new form",
-            "a written communication in a second language having the same meaning as the written communication in a first language",
-            "an interpretation of a matter from a particular viewpoint"
-        ]
-    },
-    "vermin": {
-        "d": [
-            "any of various small animals or insects that are pests",
-            "an irritating or obnoxious person"
-        ]
-    },
-    "varmint": {
-        "d": [
-            "any usually predatory wild animal considered undesirable"
-        ]
-    },
-    "varment": {
-        "d": [
-            "any usually predatory wild animal considered undesirable"
-        ]
-    },
-    "vibrio": {
-        "d": [
-            "curved rodlike motile bacterium, first discovered as part of the cholera outbreak but several other pathological species exist"
-        ]
-    },
-    "vibrion": {
-        "d": [
-            "curved rodlike motile bacterium, first discovered as part of the cholera outbreak but several other pathological species exist"
-        ]
-    },
-    "virus": {
-        "d": [
-            "(virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts",
-            "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer",
-            "a harmful or corrupting agency"
-        ]
-    },
-    "virion": {
-        "d": [
-            "a complete viral particle"
-        ]
-    },
-    "vesiculovirus": {
-        "d": [
-            "an animal virus that causes vesicular stomatitis"
-        ]
-    },
-    "viroid": {
-        "d": [
-            "the smallest of viruses"
-        ]
-    },
-    "virusoid": {
-        "d": [
-            "the smallest of viruses"
-        ]
-    },
-    "vector": {
-        "d": [
-            "(genetics) a virus or other agent that is used to deliver DNA to a cell",
-            "a variable quantity that can be resolved into components",
-            "any agent (person or animal or microorganism) that carries and transmits a disease",
-            "a straight line segment whose length is magnitude and whose orientation in space is direction"
-        ]
-    },
-    "vorticella": {
-        "d": [
-            "any of various protozoa having a transparent goblet-shaped body with a retractile stalk"
-        ]
-    },
-    "vitellus": {
-        "d": [
-            "nutritive material of an ovum stored for the nutrition of an embryo, especially the yellow mass of a bird or reptile egg"
-        ]
-    },
-    "veery": {
-        "d": [
-            "a tawny brown North American thrush noted for its song"
-        ]
-    },
-    "verdin": {
-        "d": [
-            "very small yellow-headed titmouse of western North America"
-        ]
-    },
-    "vireo": {
-        "d": [
-            "any of various small insectivorous American birds chiefly olive-grey in color"
-        ]
-    },
-    "vulture": {
-        "d": [
-            "any of various large diurnal birds of prey having naked heads and weak claws and feeding chiefly on carrion",
-            "someone who attacks in search of booty"
-        ]
-    },
-    "varan": {
-        "d": [
-            "any of various large tropical carnivorous lizards of Africa and Asia and Australia"
-        ]
-    },
-    "velociraptor": {
-        "d": [
-            "small active carnivore that probably fed on protoceratops"
-        ]
-    },
-    "viper": {
-        "d": [
-            "a venomous snake from the family Viperidae",
-            "a person who is considered dangerous"
-        ]
-    },
-    "vinegarroon": {
-        "d": [
-            "a large whip-scorpion of Mexico and southern United States that emits a vinegary odor when alarmed"
-        ]
-    },
-    "vane": {
-        "d": [
-            "the flattened weblike part of a feather consisting of a series of barbs on either side of the shaft",
-            "flat surface that rotates and pushes against air or water",
-            "a fin attached to the tail of an arrow, bomb or missile in order to stabilize or guide it",
-            "mechanical device attached to an elevated structure"
-        ]
-    },
-    "valve": {
-        "d": [
-            "one of the paired hinged shells of certain molluscs and of brachiopods",
-            "the entire one-piece shell of a snail and certain other molluscs",
-            "a control consisting of a mechanical device for controlling the flow of a fluid",
-            "a device in a brass wind instrument for varying the length of the air column to alter the pitch of a tone",
-            "a structure in a hollow organ, like the heart, with a flap to insure one-way flow of fluid through it"
-        ]
-    },
-    "villus": {
-        "d": [
-            "a minute hairlike projection on mucous membrane"
-        ]
-    },
-    "vibrissa": {
-        "d": [
-            "a long stiff hair growing from the snout or brow of most mammals as e.g. a cat"
-        ]
-    },
-    "ventriculus": {
-        "d": [
-            "a thick-walled, muscular pouch below the crop in many birds and reptiles for grinding food"
-        ]
-    },
-    "vaquita": {
-        "d": [
-            "a short porpoise that lives in the Gulf of California"
-        ]
-    },
-    "vizsla": {
-        "d": [
-            "a Hungarian hunting dog resembling the Weimaraner but having a rich deep red coat"
-        ]
-    },
-    "vixen": {
-        "d": [
-            "a female fox",
-            "a malicious woman with a fierce temper"
-        ]
-    },
-    "vespertilionid": {
-        "d": [
-            "a variety of carnivorous bat"
-        ]
-    },
-    "viverrine": {
-        "d": [
-            "small cat-like predatory mammals of warmer parts of the Old World"
-        ]
-    },
-    "vedalia": {
-        "d": [
-            "a ladybug native to Australia and introduced elsewhere to control pests"
-        ]
-    },
-    "vespid": {
-        "d": [
-            "mostly social nest-building wasps"
-        ]
-    },
-    "viceroy": {
-        "d": [
-            "showy American butterfly resembling the monarch but smaller",
-            "governor of a country or province who rules as the representative of his or her king or sovereign"
-        ]
-    },
-    "vetchworm": {
-        "d": [
-            "the larva of a noctuid moth"
-        ]
-    },
-    "vole": {
-        "d": [
-            "any of various small mouselike rodents of the family Cricetidae, especially of genus Microtus, having a stout short-tailed body and inconspicuous ears and inhabiting fields or meadows"
-        ]
-    },
-    "viscacha": {
-        "d": [
-            "gregarious burrowing rodent larger than the chinchillas"
-        ]
-    },
-    "vicuna": {
-        "d": [
-            "a small wild cud-chewing Andean animal similar to the guanaco but smaller",
-            "a soft wool fabric made from the fleece of the vicuna",
-            "the wool of the vicuna"
-        ]
-    },
-    "vervet": {
-        "d": [
-            "South African monkey with black face and hands"
-        ]
-    },
-    "vein": {
-        "d": [
-            "one of the horny ribs that stiffen and support the wing of an insect",
-            "a blood vessel that carries blood from the capillaries toward the heart",
-            "a distinctive style or manner",
-            "a layer of ore between layers of rock",
-            "any of the vascular bundles or ribs that form the branching framework of conducting and supporting tissues in a leaf or other plant organ",
-            "make a veinlike pattern"
-        ]
-    },
-    "vestibule": {
-        "d": [
-            "a large entrance or reception room or area",
-            "any of various bodily cavities leading to another cavity, as of the ear or vagina"
-        ]
-    },
-    "volary": {
-        "d": [
-            "a building where birds are kept"
-        ]
-    },
-    "veronal": {
-        "d": [
-            "a barbiturate used as a hypnotic"
-        ]
-    },
-    "visor": {
-        "d": [
-            "a brim that projects to the front to shade the eyes",
-            "a piece of armor plate with eye slits fixed or hinged to a medieval helmet to protect the face"
-        ]
-    },
-    "vizor": {
-        "d": [
-            "a brim that projects to the front to shade the eyes",
-            "a piece of armor plate with eye slits fixed or hinged to a medieval helmet to protect the face"
-        ]
-    },
-    "volume": {
-        "d": [
-            "physical objects consisting of a number of pages bound together",
-            "the magnitude of sound, usually in a specified direction",
-            "the property of something that is great in magnitude",
-            "a publication that is one of a set of several similar publications",
-            "the amount of 3-dimensional space occupied by an object",
-            "a relative amount"
-        ]
-    },
-    "ventilator": {
-        "d": [
-            "a device that facilitates breathing in cases of respiratory failure",
-            "a device such as a fan that introduces fresh air or expels foul air"
-        ]
-    },
-    "ventail": {
-        "d": [
-            "a medieval hood of mail suspended from a basinet to protect the head and neck"
-        ]
-    },
-    "vitrine": {
-        "d": [
-            "a glass container used to store and display items in a shop or museum or home"
-        ]
-    },
-    "violoncello": {
-        "d": [
-            "a large stringed instrument"
-        ]
-    },
-    "vesture": {
-        "d": [
-            "a covering designed to be worn on a person's body",
-            "something that covers or cloaks like a garment",
-            "to provide or cover with a cloak"
-        ]
-    },
-    "voider": {
-        "d": [
-            "a hamper that holds dirty clothes to be washed or wet clothes to be dried",
-            "a piece of chain mail covering a place unprotected by armor plate",
-            "a person who defecates",
-            "an official who can invalidate or nullify"
-        ]
-    },
-    "valance": {
-        "d": [
-            "a decorative framework to conceal curtain fixtures at the top of a window casing"
-        ]
-    },
-    "vanity": {
-        "d": [
-            "low table with mirror or mirrors where one sits while dressing or applying makeup",
-            "the trait of being unduly vain and conceited",
-            "the quality of being valueless or futile",
-            "feelings of excessive pride"
-        ]
-    },
-    "veneer": {
-        "d": [
-            "an ornamental coating to an object consisting of a thin layer of superior wood glued to a base of inferior wood",
-            "to cover with veneer"
-        ]
-    },
-    "vomitive": {
-        "d": [
-            "a medicine that induces nausea and vomiting"
-        ]
-    },
-    "viewfinder": {
-        "d": [
-            "an optical device that helps a user to find the target of interest"
-        ]
-    },
-    "veiling": {
-        "d": [
-            "a net of transparent fabric with a loose open weave"
-        ]
-    },
-    "veil": {
-        "d": [
-            "a garment that covers the head and face",
-            "a vestment worn by a priest at High Mass in the Roman Catholic Church",
-            "the inner membrane of embryos in higher vertebrates (especially when covering the head at birth)",
-            "a membranous covering attached to the immature fruiting body of certain mushrooms",
-            "make undecipherable or imperceptible by obscuring or concealing",
-            "to obscure, or conceal with or as if with a veil"
-        ]
-    },
-    "voodoo": {
-        "d": [
-            "a charm superstitiously believed to embody magical powers",
-            "a religious cult found chiefly in Caribbean countries, especially Haiti",
-            "followers of a religion that involves witchcraft and animistic deities",
-            "to bewitch by or as if by a voodoo"
-        ]
-    },
-    "vodoun": {
-        "d": [
-            "a charm superstitiously believed to embody magical powers",
-            "a religious cult found chiefly in Caribbean countries, especially Haiti",
-            "followers of a religion that involves witchcraft and animistic deities",
-            "to bewitch by or as if by a voodoo"
-        ]
-    },
-    "vicarage": {
-        "d": [
-            "an official residence provided by a church for its parson or vicar or rector"
-        ]
-    },
-    "vial": {
-        "d": [
-            "a small bottle that contains a drug, especially a sealed sterile container for injection by needle"
-        ]
-    },
-    "verso": {
-        "d": [
-            "the side of a coin or medal that does not bear the principal design",
-            "a left-hand page"
-        ]
-    },
-    "vest": {
-        "d": [
-            "a collarless men's undergarment for the upper part of the body",
-            "a man's sleeveless garment worn underneath a coat",
-            "clothe formally",
-            "clothe oneself in ecclesiastical garments",
-            "become legally vested",
-            "place authority, property, or rights in the control of a person or group of persons",
-            "provide with power and authority"
-        ]
-    },
-    "velocipede": {
-        "d": [
-            "a vehicle with three wheels that is moved by foot pedals",
-            "any of several early bicycles with pedals on the front wheel"
-        ]
-    },
-    "vaccinum": {
-        "d": [
-            "an immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies"
-        ]
-    },
-    "vacuum": {
-        "d": [
-            "an electrical home appliance that cleans by suction",
-            "a region that is devoid of matter",
-            "an empty area or space",
-            "the absence of matter",
-            "clean with a vacuum cleaner"
-        ]
-    },
-    "valise": {
-        "d": [
-            "a small overnight bag for short trips"
-        ]
-    },
-    "vambrace": {
-        "d": [
-            "cannon of plate armor protecting the forearm"
-        ]
-    },
-    "vamp": {
-        "d": [
-            "piece of leather forming the front part of the upper of a shoe",
-            "an improvised musical accompaniment",
-            "a seductive woman who uses her sex appeal to exploit men",
-            "provide (a shoe) with a new vamp",
-            "act seductively with (someone)",
-            "piece (something old) with a new part",
-            "make up"
-        ]
-    },
-    "vaporizer": {
-        "d": [
-            "a device that puts out a substance in the form of a vapor (especially for medicinal inhalation)"
-        ]
-    },
-    "vaporiser": {
-        "d": [
-            "a device that puts out a substance in the form of a vapor, especially for medicinal inhalation"
-        ]
-    },
-    "variometer": {
-        "d": [
-            "a measuring instrument for measuring variations in a magnetic field"
-        ]
-    },
-    "varnish": {
-        "d": [
-            "a coating that provides a hard, lustrous, transparent finish to a surface",
-            "to cover with varnish"
-        ]
-    },
-    "vase": {
-        "d": [
-            "an open jar of glass or porcelain used as an ornament or to hold flowers"
-        ]
-    },
-    "Vaseline": {
-        "d": [
-            "a trademarked brand of petroleum jelly"
-        ]
-    },
-    "vaseline": {
-        "d": [
-            "a trademarked brand of petroleum jelly"
-        ]
-    },
-    "vasoconstrictor": {
-        "d": [
-            "any agent that causes narrowing of a blood vessel"
-        ]
-    },
-    "vasoconstrictive": {
-        "d": [
-            "any agent that causes a narrowing of an opening of a blood vessel: cold or stress or nicotine or epinephrine or norepinephrine or angiotensin or vasopressin or certain drugs"
-        ]
-    },
-    "vasodilator": {
-        "d": [
-            "a drug that causes dilation of blood vessels"
-        ]
-    },
-    "vasodilative": {
-        "d": [
-            "a drug that causes dilation of blood vessels"
-        ]
-    },
-    "vasopressor": {
-        "d": [
-            "any agent that produces vasoconstriction and a rise in blood pressure, usually understood as increased arterial pressure"
-        ]
-    },
-    "vehicle": {
-        "d": [
-            "a conveyance that transports people or objects",
-            "a medium for the expression or achievement of something",
-            "any inanimate object, such as a towel, money, or clothing that can transmit infectious agents from one person to another",
-            "any substance that facilitates the use of a drug or pigment or other material that is mixed with it"
-        ]
-    },
-    "velodrome": {
-        "d": [
-            "a banked oval track for bicycle or motorcycle racing"
-        ]
-    },
-    "velour": {
-        "d": [
-            "heavy fabric that resembles velvet"
-        ]
-    },
-    "velours": {
-        "d": [
-            "a heavy fabric that resembles velvet"
-        ]
-    },
-    "velveteen": {
-        "d": [
-            "a usually cotton fabric with a short pile imitating velvet"
-        ]
-    },
-    "venogram": {
-        "d": [
-            "an X ray of a vein injected with a radiopaque contrast medium"
-        ]
-    },
-    "venthole": {
-        "d": [
-            "a hole for the escape of gas or air"
-        ]
-    },
-    "venturi": {
-        "d": [
-            "a tube with a constriction"
-        ]
-    },
-    "vaccine": {
-        "d": [
-            "immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies"
-        ]
-    },
-    "viscometer": {
-        "d": [
-            "a measuring instrument for measuring viscosity"
-        ]
-    },
-    "verge": {
-        "d": [
-            "a grass border along a road",
-            "the limit beyond which something happens or changes",
-            "a ceremonial or emblematic staff",
-            "a region marking a boundary",
-            "border on"
-        ]
-    },
-    "viscosimeter": {
-        "d": [
-            "a measuring instrument for measuring viscosity"
-        ]
-    },
-    "viscose": {
-        "d": [
-            "a rayon fabric made from viscose (cellulose xanthate) fibers",
-            "a cellulose ester obtained by treating cellulose with caustic soda"
-        ]
-    },
-    "vermicide": {
-        "d": [
-            "an agent that kills worms, especially those in the intestines"
-        ]
-    },
-    "vermiculation": {
-        "d": [
-            "a decoration consisting of wormlike carvings",
-            "the process of wavelike muscle contractions of the alimentary tract that moves food along"
-        ]
-    },
-    "vise": {
-        "d": [
-            "a holding device attached to a workbench"
-        ]
-    },
-    "vermifuge": {
-        "d": [
-            "a medication capable of causing the evacuation of parasitic intestinal worms"
-        ]
-    },
-    "vernier": {
-        "d": [
-            "a small measuring device with a movable scale that slides along a main scale, used for precision length measurements in science and engineering"
-        ]
-    },
-    "vivarium": {
-        "d": [
-            "an indoor enclosure for keeping and raising living animals and plants and observing them under natural conditions"
-        ]
-    },
-    "voile": {
-        "d": [
-            "a light semitransparent fabric"
-        ]
-    },
-    "vessel": {
-        "d": [
-            "a craft designed for water transportation",
-            "an object used as a container (especially for liquids)",
-            "a tube in which a body fluid circulates"
-        ]
-    },
-    "voltmeter": {
-        "d": [
-            "a meter that measures the potential difference between two points"
-        ]
-    },
-    "volumeter": {
-        "d": [
-            "a meter to measure the volume of gases, liquids, or solids, either directly or by displacement"
-        ]
-    },
-    "vomitory": {
-        "d": [
-            "an entrance to an amphitheater or stadium"
-        ]
-    },
-    "vestiture": {
-        "d": [
-            "clothing   "
-        ]
-    },
-    "vestment": {
-        "d": [
-            "a gown worn by the clergy, especially for ceremonial purposes"
-        ]
-    },
-    "vestry": {
-        "d": [
-            "a room in a church where sacred vessels and vestments are kept or meetings are held",
-            "in the Protestant Episcopal Church: a committee elected by the congregation to work with the churchwardens in managing the temporal affairs of the church"
-        ]
-    },
-    "vouge": {
-        "d": [
-            "a kind of pike used by foot soldiers in the 14th century"
-        ]
-    },
-    "voussoir": {
-        "d": [
-            "a wedge-shaped stone building block used in constructing an arch or vault"
-        ]
-    },
-    "viaduct": {
-        "d": [
-            "a bridge consisting of a series of arches supported by piers used to carry a road or railroad over a valley"
-        ]
-    },
-    "vibraphone": {
-        "d": [
-            "a percussion instrument similar to a xylophone but having metal bars and rotating disks in the resonators that produce a vibrato sound"
-        ]
-    },
-    "vibraharp": {
-        "d": [
-            "a percussion instrument similar to a xylophone but having metal bars and rotating disks in the resonators that produce a vibrato sound"
-        ]
-    },
-    "vibes": {
-        "d": [
-            "a percussion instrument similar to a xylophone but having metal bars and rotating disks in the resonators that produce a vibrato sound"
-        ]
-    },
-    "vibrator": {
-        "d": [
-            "any mechanical device that produces vibratory motion",
-            "a device used for sexual gratification and stimulation that produces vibratory motion"
-        ]
-    },
-    "videocassette": {
-        "d": [
-            "a cassette for videotape"
-        ]
-    },
-    "videodisk": {
-        "d": [
-            "a digital recording, as of a movie, on an optical disk that can be played on a computer or a television set"
-        ]
-    },
-    "videodisc": {
-        "d": [
-            "a digital recording, as of a movie, on an optical disk that can be played on a computer or a television set"
-        ]
-    },
-    "video": {
-        "d": [
-            "a recording of both the visual and audible components, especially one containing a recording of a movie or television program",
-            "broadcasting visual images of stationary or moving objects",
-            "the visible part of a television transmission",
-            "the appearance of text and graphics on a video display"
-        ]
-    },
-    "videotape": {
-        "d": [
-            "a relatively wide magnetic tape for use in recording visual images and associated sound",
-            "a video recording made on magnetic tape",
-            "record on videotape"
-        ]
-    },
-    "viewer": {
-        "d": [
-            "an optical device for viewing photographic transparencies",
-            "an observer"
-        ]
-    },
-    "viewgraph": {
-        "d": [
-            "a transparency for use with an overhead projector"
-        ]
-    },
-    "vignette": {
-        "d": [
-            "a small illustrative sketch, as sometimes placed at the beginning of chapters in books",
-            "a photograph whose edges shade off gradually",
-            "a brief literary description"
-        ]
-    },
-    "villa": {
-        "d": [
-            "a pretentious and luxurious country residence with extensive grounds",
-            "a country house in ancient Rome consisting of residential quarters and farm buildings around a courtyard",
-            "a detached or semidetached suburban house"
-        ]
-    },
-    "vineyard": {
-        "d": [
-            "a farm of grapevines where wine grapes are produced"
-        ]
-    },
-    "vinery": {
-        "d": [
-            "a farm of grapevines where wine grapes are produced"
-        ]
-    },
-    "viol": {
-        "d": [
-            "any of a family of bowed stringed instruments that preceded the violin family"
-        ]
-    },
-    "viola": {
-        "d": [
-            "a bowed stringed instrument slightly larger than a violin, tuned a fifth lower",
-            "any of the numerous plants of the genus Viola"
-        ]
-    },
-    "violin": {
-        "d": [
-            "bowed stringed instrument that is the highest member of the violin family"
-        ]
-    },
-    "veranda": {
-        "d": [
-            "a porch along the outside of a building, sometimes partly enclosed"
-        ]
-    },
-    "verandah": {
-        "d": [
-            "a porch along the outside of a building, sometimes partly enclosed"
-        ]
-    },
-    "virtu": {
-        "d": [
-            "objet d'art collectively (especially fine antiques)",
-            "artistic quality",
-            "love of or taste for fine objects of art"
-        ]
-    },
-    "verdigris": {
-        "d": [
-            "a green patina that forms on copper or brass or bronze that has been exposed to the air or water for long periods of time",
-            "a blue or green powder used as a paint pigment",
-            "color verdigris"
-        ]
-    },
-    "volatility": {
-        "d": [
-            "being easily excited",
-            "the trait of being unpredictably irresolute",
-            "the property of changing readily from a solid or liquid to a vapor"
-        ]
-    },
-    "vigor": {
-        "d": [
-            "an imaginative lively style, especially a style of writing",
-            "active strength of body or mind",
-            "forceful exertion"
-        ]
-    },
-    "vigour": {
-        "d": [
-            "an imaginative lively style, especially a style of writing",
-            "active strength of body or mind",
-            "forceful exertion"
-        ]
-    },
-    "vitality": {
-        "d": [
-            "an energetic style",
-            "the property of being able to survive and grow",
-            "(biology) a hypothetical force (not physical or chemical) once thought by Henri Bergson to cause the evolution and development of organisms",
-            "a healthy capacity for vigorous activity"
-        ]
-    },
-    "verve": {
-        "d": [
-            "an energetic style"
-        ]
-    },
-    "vivacity": {
-        "d": [
-            "characterized by high spirits and animation"
-        ]
-    },
-    "volubility": {
-        "d": [
-            "the quality of being facile in speech and writing"
-        ]
-    },
-    "vigilance": {
-        "d": [
-            "vigilant attentiveness",
-            "the process of paying close and continuous attention"
-        ]
-    },
-    "virulence": {
-        "d": [
-            "extreme hostility",
-            "extreme harmfulness, as the capacity of a microorganism to cause disease"
-        ]
-    },
-    "virulency": {
-        "d": [
-            "extreme hostility",
-            "extreme harmfulness, as the capacity of a microorganism to cause disease"
-        ]
-    },
-    "virility": {
-        "d": [
-            "the trait of being manly",
-            "the masculine property of being capable of copulation and procreation"
-        ]
-    },
-    "voluptuousness": {
-        "d": [
-            "the quality of having a well-rounded body",
-            "the property of being lush and abundant and a pleasure to the senses",
-            "the quality of being attractive and exciting (especially sexually exciting)"
-        ]
-    },
-    "verisimilitude": {
-        "d": [
-            "the appearance of truth or resemblance to reality "
-        ]
-    },
-    "visage": {
-        "d": [
-            "the appearance conveyed by a person's face",
-            "the human face "
-        ]
-    },
-    "verruca": {
-        "d": [
-            "a firm abnormal elevated blemish on the skin"
-        ]
-    },
-    "vaporousness": {
-        "d": [
-            "a cloudiness resulting from haze or mist or vapor"
-        ]
-    },
-    "vapourousness": {
-        "d": [
-            "a cloudiness resulting from haze or mist or vapor"
-        ]
-    },
-    "vagueness": {
-        "d": [
-            "indistinctness of shape or character",
-            "unclearness by virtue of being poorly expressed or not coherent in meaning"
-        ]
-    },
-    "visibility": {
-        "d": [
-            "capability of providing a clear unobstructed view",
-            "quality or fact or degree of being visible",
-            "degree of exposure to public notice"
-        ]
-    },
-    "vicissitude": {
-        "d": [
-            "mutability in life or nature, especially successive alternation from one condition to another",
-            "a variation in circumstances or fortune at different times in your life or in the development of something"
-        ]
-    },
-    "variety": {
-        "d": [
-            "noticeable heterogeneity",
-            "a difference that is usually pleasant",
-            "a category of things distinguished by some common characteristic or quality",
-            "a show consisting of a series of short unrelated performances",
-            "(biology) a taxonomic category consisting of members of a species that differ from others of the same species in minor but heritable characteristics",
-            "a collection containing a variety of sorts of things"
-        ]
-    },
-    "variability": {
-        "d": [
-            "the quality of being subject to variation",
-            "the quality of being uneven and lacking uniformity"
-        ]
-    },
-    "variableness": {
-        "d": [
-            "the quality of being subject to variation"
-        ]
-    },
-    "variedness": {
-        "d": [
-            "characterized by variation"
-        ]
-    },
-    "vibe": {
-        "d": [
-            "a distinctive emotional aura experienced instinctively"
-        ]
-    },
-    "vertu": {
-        "d": [
-            "an artistic quality",
-            "a love of or taste for fine objects of art"
-        ]
-    },
-    "vileness": {
-        "d": [
-            "the quality of being disgusting to the senses or emotions",
-            "the quality of being wicked"
-        ]
-    },
-    "validity": {
-        "d": [
-            "the quality of being valid and rigorous",
-            "the quality of having legal force or effectiveness",
-            "the property of being strong and healthy in constitution"
-        ]
-    },
-    "vulgarity": {
-        "d": [
-            "the quality of lacking taste and refinement"
-        ]
-    },
-    "vulgarism": {
-        "d": [
-            "the quality of lacking taste and refinement",
-            "an offensive or indecent word or phrase"
-        ]
-    },
-    "validness": {
-        "d": [
-            "the quality of having legal force or effectiveness"
-        ]
-    },
-    "valor": {
-        "d": [
-            "the qualities of a hero or heroine"
-        ]
-    },
-    "valour": {
-        "d": [
-            "the qualities of a hero or heroine"
-        ]
-    },
-    "valorousness": {
-        "d": [
-            "the qualities of a hero or heroine"
-        ]
-    },
-    "valiance": {
-        "d": [
-            "the qualities of a hero or heroine"
-        ]
-    },
-    "virtue": {
-        "d": [
-            "the quality of doing what is right and avoiding what is wrong",
-            "a particular moral excellence",
-            "morality with respect to sexual relations",
-            "any admirable quality or attribute"
-        ]
-    },
-    "valiancy": {
-        "d": [
-            "the qualities of a hero or heroine"
-        ]
-    },
-    "virtuousness": {
-        "d": [
-            "the quality of doing what is right and avoiding what is wrong"
-        ]
-    },
-    "viciousness": {
-        "d": [
-            "the trait of extreme cruelty"
-        ]
-    },
-    "venturesomeness": {
-        "d": [
-            "the trait of being adventurous"
-        ]
-    },
-    "villainousness": {
-        "d": [
-            "the quality of evil by virtue of villainous behavior"
-        ]
-    },
-    "voraciousness": {
-        "d": [
-            "an excessive desire for wealth (usually in large amounts)",
-            "extreme gluttony",
-            "excessive desire to eat"
-        ]
-    },
-    "venality": {
-        "d": [
-            "prostitution of talents or offices or services for reward"
-        ]
-    },
-    "veracity": {
-        "d": [
-            "unwillingness to tell lies"
-        ]
-    },
-    "voracity": {
-        "d": [
-            "extreme gluttony",
-            "excessive desire, especially to eat"
-        ]
-    },
-    "vainglory": {
-        "d": [
-            "outspoken conceit"
-        ]
-    },
-    "venerability": {
-        "d": [
-            "the quality of deserving veneration"
-        ]
-    },
-    "venerableness": {
-        "d": [
-            "the quality of deserving veneration"
-        ]
-    },
-    "viscosity": {
-        "d": [
-            "resistance of a liquid to shear forces and hence to flow"
-        ]
-    },
-    "viscousness": {
-        "d": [
-            "resistance of a liquid to shear forces and flow"
-        ]
-    },
-    "vintage": {
-        "d": [
-            "the oldness of wines",
-            "a season's yield of wine from a vineyard"
-        ]
-    },
-    "viscidity": {
-        "d": [
-            "the property of being cohesive and sticky"
-        ]
-    },
-    "viscidness": {
-        "d": [
-            "the property of being cohesive and sticky"
-        ]
-    },
-    "viridity": {
-        "d": [
-            "green color or pigment"
-        ]
-    },
-    "vividness": {
-        "d": [
-            "chromatic purity, freedom from dilution with white and hence vivid in hue",
-            "interest, variety, and intensity"
-        ]
-    },
-    "value": {
-        "d": [
-            "relative darkness or lightness of a color",
-            "the quality (positive or negative) that renders something desirable or valuable",
-            "a numerical quantity measured or assigned or computed",
-            "an ideal accepted by some individual or group",
-            "the amount of money, goods, or services that is considered to be a fair equivalent for something else",
-            "(music) the relative duration of a musical note",
-            "estimate the value of",
-            "evaluate or estimate the nature, quality, ability, extent, or significance of",
-            "regard highly",
-            "fix or determine the value of",
-            "hold dear"
-        ]
-    },
-    "vibrancy": {
-        "d": [
-            "having the character of a loud deep sound"
-        ]
-    },
-    "vinegariness": {
-        "d": [
-            "a sourness resembling that of vinegar"
-        ]
-    },
-    "valence": {
-        "d": [
-            "(chemistry) a property of atoms or radicals",
-            "(biology) a relative capacity to unite or react or interact as with antigens or a biological substrate"
-        ]
-    },
-    "valency": {
-        "d": [
-            "in chemistry, a property of atoms or radicals",
-            "in biology, a relative capacity to unite or react or interact as with antigens or a biological substrate",
-            "the phenomenon of forming chemical bonds"
-        ]
-    },
-    "vehemence": {
-        "d": [
-            "intensity or forcefulness of expression",
-            "the property of being wild or turbulent"
-        ]
-    },
-    "visibleness": {
-        "d": [
-            "the quality, fact, or degree of being visible"
-        ]
-    },
-    "virilism": {
-        "d": [
-            "the development of male secondary sexual characteristics in a female or prematurely in a young boy"
-        ]
-    },
-    "vulnerability": {
-        "d": [
-            "susceptibility to injury or attack",
-            "the state of being vulnerable or exposed"
-        ]
-    },
-    "viability": {
-        "d": [
-            "capable of normal growth and development",
-            "capable of being done in a practical and useful way"
-        ]
-    },
-    "verticality": {
-        "d": [
-            "position at right angles to the horizon"
-        ]
-    },
-    "verticalness": {
-        "d": [
-            "position at right angles to the horizon"
-        ]
-    },
-    "vastness": {
-        "d": [
-            "unusual largeness in size or extent or number"
-        ]
-    },
-    "verdancy": {
-        "d": [
-            "the lush appearance of flourishing vegetation"
-        ]
-    },
-    "verdure": {
-        "d": [
-            "the lush appearance of flourishing vegetation",
-            "green foliage"
-        ]
-    },
-    "voluminosity": {
-        "d": [
-            "a greatness of volume"
-        ]
-    },
-    "voluminousness": {
-        "d": [
-            "a greatness of volume"
-        ]
-    },
-    "valuelessness": {
-        "d": [
-            "having none of the properties that endow something with value"
-        ]
-    },
-    "valuableness": {
-        "d": [
-            "the positive quality of being precious and beyond value"
-        ]
-    },
-    "vantage": {
-        "d": [
-            "the quality of having a superior or more favorable position",
-            "a place or situation affording some advantage, especially a comprehensive view or commanding perspective"
-        ]
-    },
-    "vitalness": {
-        "d": [
-            "the quality of being essential to maintain life",
-            "the quality possessed by something that you cannot possibly do without"
-        ]
-    },
-    "vacuity": {
-        "d": [
-            "a region that is devoid of matter",
-            "total lack of meaning or ideas"
-        ]
-    },
-    "vapidity": {
-        "d": [
-            "the quality of being vapid and unsophisticated"
-        ]
-    },
-    "vapidness": {
-        "d": [
-            "the quality of being vapid and unsophisticated"
-        ]
-    },
-    "vallecula": {
-        "d": [
-            "any furrow or channel on a bodily structure or part"
-        ]
-    },
-    "vascularity": {
-        "d": [
-            "the visibility of the veins and arteries on a person's skin"
-        ]
-    },
-    "voicelessness": {
-        "d": [
-            "having no voice in the management or control of affairs",
-            "speaking softly without vibration of the vocal cords",
-            "a disorder of the vocal organs that results in the loss of voice"
-        ]
-    },
-    "vandyke": {
-        "d": [
-            "a short pointed beard, named after the artist Anthony Vandyke"
-        ]
-    },
-    "vertebra": {
-        "d": [
-            "one of the bony segments of the spinal column"
-        ]
-    },
-    "vitals": {
-        "d": [
-            "medical measurements of heart rate and other indicators of health",
-            "bodily organs that are essential for life"
-        ]
-    },
-    "viscus": {
-        "d": [
-            "a main organ that is situated inside the body"
-        ]
-    },
-    "viscera": {
-        "d": [
-            "internal organs collectively (especially those in the abdominal cavity)"
-        ]
-    },
-    "velum": {
-        "d": [
-            "in various areas of biology, a thin veil-like membrane or flap",
-            "a veil-like cloud that covers a large area"
-        ]
-    },
-    "valvule": {
-        "d": [
-            "a small valve"
-        ]
-    },
-    "valvelet": {
-        "d": [
-            "a small valve"
-        ]
-    },
-    "valvula": {
-        "d": [
-            "a small valve"
-        ]
-    },
-    "ventricle": {
-        "d": [
-            "a chamber of the heart that receives blood from an atrium and pumps it to the arteries",
-            "one of four connected cavities in the brain"
-        ]
-    },
-    "vena": {
-        "d": [
-            "a blood vessel that carries blood from the capillaries towards the heart, also known as a vein"
-        ]
-    },
-    "venation": {
-        "d": [
-            "(zoology) the system of venous blood vessels in an animal",
-            "(botany) the arrangement of veins in a leaf"
-        ]
-    },
-    "venter": {
-        "d": [
-            "an individual, often a woman, with offspring",
-            "a hollow region of an area that protrudes, such as the region of the body of a vertebrate between the thorax and the pelvis or the womb",
-            "a speaker who expresses or gives vent to a personal opinion or grievance"
-        ]
-    },
-    "vasopressin": {
-        "d": [
-            "hormone secreted by the posterior pituitary gland (trade name Pitressin) and also by nerve endings in the hypothalamus"
-        ]
-    },
-    "venule": {
-        "d": [
-            "a minute vein continuous with a capillary"
-        ]
-    },
-    "vacuole": {
-        "d": [
-            "a cavity in the cytoplasm of a cell filled with food, water, cell sap, and/or other vital substances"
-        ]
-    },
-    "vagus": {
-        "d": [
-            "a mixed nerve that supplies most of the abdomen of animals, including the lungs, heart, and stomach"
-        ]
-    },
-    "vesica": {
-        "d": [
-            "a distensible membranous sac, usually containing liquid or gas"
-        ]
-    },
-    "vermis": {
-        "d": [
-            "the narrow central part of the cerebellum between the two hemispheres"
-        ]
-    },
-    "vagina": {
-        "d": [
-            "the lower part of the female reproductive tract"
-        ]
-    },
-    "vulva": {
-        "d": [
-            "external parts of the female genitalia"
-        ]
-    },
-    "vesicle": {
-        "d": [
-            "a small anatomically normal sac or bladderlike structure (especially one containing fluid)"
-        ]
-    },
-    "vision": {
-        "d": [
-            "the formation of a mental image of something that is not perceived as real and is not present to the senses",
-            "the ability to see",
-            "the perceptual experience of seeing",
-            "a vivid mental image",
-            "a religious or mystical experience of a supernatural appearance"
-        ]
-    },
-    "vomer": {
-        "d": [
-            "thin trapezoidal bone of the skull forming the posterior and inferior parts of the nasal septum"
-        ]
-    },
-    "vacuousness": {
-        "d": [
-            "indicative of or marked by mental emptiness and an absence of ideas"
-        ]
-    },
-    "ventriloquism": {
-        "d": [
-            "the art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy)"
-        ]
-    },
-    "ventriloquy": {
-        "d": [
-            "the art of projecting your voice so that it seems to come from another source, as from a ventriloquist's dummy"
-        ]
-    },
-    "virtuosity": {
-        "d": [
-            "a technical skill, fluency, or style exhibited by a virtuoso"
-        ]
-    },
-    "vocabulary": {
-        "d": [
-            "a language user's knowledge of words",
-            "the system of techniques or symbols serving as a means of expression, typically in an art or craft",
-            "a listing of the words used in some enterprise"
-        ]
-    },
-    "velleity": {
-        "d": [
-            "the weakest form of volition",
-            "a mere wish, unaccompanied by the effort to obtain it"
-        ]
-    },
-    "versatility": {
-        "d": [
-            "having a wide variety of skills"
-        ]
-    },
-    "valuation": {
-        "d": [
-            "an appraisal of the value of something",
-            "an assessed price"
-        ]
-    },
-    "vogue": {
-        "d": [
-            "the popular or general taste at a given time"
-        ]
-    },
-    "vaticination": {
-        "d": [
-            "knowledge of the future, usually said to be obtained from a divine source"
-        ]
-    },
-    "verity": {
-        "d": [
-            "an enduring or necessary ethical or religious or aesthetic truth",
-            "conformity to reality or actuality"
-        ]
-    },
-    "variate": {
-        "d": [
-            "a variable quantity that is random"
-        ]
-    },
-    "vertex": {
-        "d": [
-            "the point of intersection of lines or the point opposite the base of a figure",
-            "the highest point of something"
-        ]
-    },
-    "verification": {
-        "d": [
-            "additional proof that something that was believed is correct",
-            "an affidavit attached to a statement confirming the truth of that statement"
-        ]
-    },
-    "values": {
-        "d": [
-            "the beliefs of a person or social group in which they have an emotional investment, either for or against something"
-        ]
-    },
-    "vista": {
-        "d": [
-            "the visual representation of a region"
-        ]
-    },
-    "visualization": {
-        "d": [
-            "a mental image that is similar to a visual perception"
-        ]
-    },
-    "visualisation": {
-        "d": [
-            "a mental image that is similar to a visual perception"
-        ]
-    },
-    "vitalism": {
-        "d": [
-            "a philosophical doctrine that says life is a vital principle distinct from physics and chemistry"
-        ]
-    },
-    "virology": {
-        "d": [
-            "the branch of medical science that studies viruses and viral diseases"
-        ]
-    },
-    "volcanology": {
-        "d": [
-            "the branch of geology that studies volcanoes"
-        ]
-    },
-    "vulcanology": {
-        "d": [
-            "the branch of geology that studies volcanoes"
-        ]
-    },
-    "vanguard": {
-        "d": [
-            "the position of greatest importance or advancement",
-            "the leading units moving at the head of an army",
-            "any creative group active in the innovation and application of new concepts and techniques in a given field, especially in the arts"
-        ]
-    },
-    "viewpoint": {
-        "d": [
-            "a mental position from which things are viewed",
-            "a place from which something can be viewed"
-        ]
-    },
-    "voodooism": {
-        "d": [
-            "a religious cult practiced chiefly in Caribbean countries, especially Haiti"
-        ]
-    },
-    "voicemail": {
-        "d": [
-            "a computerized system for answering and routing telephone calls"
-        ]
-    },
-    "vocable": {
-        "d": [
-            "a word that is spoken aloud"
-        ]
-    },
-    "verb": {
-        "d": [
-            "to use a word not conventionally considered a verb, typically a noun, as a verb",
-            "a word that denotes an action, occurrence, or state of existence"
-        ]
-    },
-    "viscountcy": {
-        "d": [
-            "the title of a viscount",
-            "the dignity or rank or position of a viscount or viscountess"
-        ]
-    },
-    "verse": {
-        "d": [
-            "a piece of poetry",
-            "a line of metrical text",
-            "literature in metrical form",
-            "familiarize through thorough study or experience",
-            "compose verses or put into verse"
-        ]
-    },
-    "versicle": {
-        "d": [
-            "a short verse said or sung by a priest or minister in public worship and followed by a response from the congregation"
-        ]
-    },
-    "voucher": {
-        "d": [
-            "a negotiable certificate that can be detached and redeemed as needed",
-            "a document that serves as evidence of some expenditure",
-            "someone who vouches for another or for the correctness of a statement"
-        ]
-    },
-    "variorum": {
-        "d": [
-            "an edition containing various versions of a text or notes by various scholars or editors"
-        ]
-    },
-    "voiceprint": {
-        "d": [
-            "biometric identification by electronically recording and graphically representing a person's voice"
-        ]
-    },
-    "vestige": {
-        "d": [
-            "an indication that something has been present"
-        ]
-    },
-    "Valentine": {
-        "d": [
-            "a card sent or given, as to a sweetheart, on Saint Valentine's Day"
-        ]
-    },
-    "visa": {
-        "d": [
-            "an endorsement made in a passport that allows the bearer to enter the country issuing it",
-            "to approve officially",
-            "to provide with a visa"
-        ]
-    },
-    "vituperation": {
-        "d": [
-            "abusive or venomous language used to express blame or censure or bitter deep-seated ill will"
-        ]
-    },
-    "vitriol": {
-        "d": [
-            "abusive or venomous language used to express blame or censure or bitter deep-seated ill will",
-            "(H2SO4) a highly corrosive acid made from sulfur dioxide",
-            "subject to bitter verbal abuse",
-            "expose to the effects of vitriol or injure with vitriol"
-        ]
-    },
-    "vilification": {
-        "d": [
-            "a rude expression intended to offend, hurt or defame"
-        ]
-    },
-    "virgule": {
-        "d": [
-            "a punctuation mark used to separate related items of information, also known as a slash"
-        ]
-    },
-    "vaudeville": {
-        "d": [
-            "a variety show with songs and comic acts"
-        ]
-    },
-    "verbalization": {
-        "d": [
-            "the activity of expressing something in words",
-            "the words that are spoken in the activity of verbalization"
-        ]
-    },
-    "verbalisation": {
-        "d": [
-            "the activity of expressing something in words",
-            "the words that are spoken in the activity of verbalization"
-        ]
-    },
-    "verbiage": {
-        "d": [
-            "the manner in which something is expressed in words",
-            "overabundance of words"
-        ]
-    },
-    "versification": {
-        "d": [
-            "the art or practice of writing verse",
-            "the form or metrical composition of a poem",
-            "a metrical adaptation of something, e.g., of a prose text"
-        ]
-    },
-    "vocalization": {
-        "d": [
-            "the sound made by the vibration of vocal folds modified by the resonance of the vocal tract"
-        ]
-    },
-    "vocalisation": {
-        "d": [
-            "the sound made by the vibration of vocal folds modified by the resonance of the vocal tract"
-        ]
-    },
-    "vociferation": {
-        "d": [
-            "a loud utterance"
-        ]
-    },
-    "vocalism": {
-        "d": [
-            "the sound made by the vibration of vocal folds modified by the resonance of the vocal tract",
-            "the system of vowels used in a particular language"
-        ]
-    },
-    "vowel": {
-        "d": [
-            "a speech sound made with the vocal tract open",
-            "a letter of the alphabet standing for a spoken vowel"
-        ]
-    },
-    "verboseness": {
-        "d": [
-            "an expressive style that uses excessive or empty words"
-        ]
-    },
-    "verbosity": {
-        "d": [
-            "an expressive style that uses excessive or empty words"
-        ]
-    },
-    "verbalism": {
-        "d": [
-            "overabundance of words",
-            "the communication in speech or writing of one's beliefs or opinions"
-        ]
-    },
-    "viva": {
-        "d": [
-            "an examination conducted by spoken communication"
-        ]
-    },
-    "vaporing": {
-        "d": [
-            "an instance of boastful talk"
-        ]
-    },
-    "vaunt": {
-        "d": [
-            "extravagant self-praise",
-            "to show off"
-        ]
-    },
-    "vagary": {
-        "d": [
-            "an unexpected and inexplicable change in something, in a situation or a person's behavior, etc"
-        ]
-    },
-    "vibrato": {
-        "d": [
-            "a pulsating effect in an instrumental or vocal tone produced by slight and rapid variations in pitch"
-        ]
-    },
-    "vroom": {
-        "d": [
-            "the roaring sound made by a motor that is running at high speed",
-            "to make a loud, roaring sound, as of a car engine, while moving"
-        ]
-    },
-    "victory": {
-        "d": [
-            "a successful ending of a struggle or contest"
-        ]
-    },
-    "volution": {
-        "d": [
-            "a rolling or revolving motion"
-        ]
-    },
-    "vortex": {
-        "d": [
-            "a powerful circular current of water, usually the result of conflicting tides",
-            "the shape of something rotating rapidly"
-        ]
-    },
-    "vegetarianism": {
-        "d": [
-            "a diet excluding all meat and fish"
-        ]
-    },
-    "venom": {
-        "d": [
-            "anger directed at someone",
-            "a need to see others suffer",
-            "a toxin used by animals to catch prey or defend against predators, which is administered through a delivery mechanism"
-        ]
-    },
-    "vindictiveness": {
-        "d": [
-            "a malevolent desire for revenge"
-        ]
-    },
-    "vengefulness": {
-        "d": [
-            "a malevolent desire for revenge"
-        ]
-    },
-    "victual": {
-        "d": [
-            "any substance that can be used as food",
-            "to take in nourishment",
-            "to lay in provisions",
-            "to supply with food"
-        ]
-    },
-    "victuals": {
-        "d": [
-            "any substance that can be used as food",
-            "a source of materials to nourish the body",
-            "a stock or supply of foods"
-        ]
-    },
-    "viands": {
-        "d": [
-            "a stock or supply of foods"
-        ]
-    },
-    "viand": {
-        "d": [
-            "a choice or delicious dish"
-        ]
-    },
-    "vichyssoise": {
-        "d": [
-            "a creamy potato soup flavored with leeks and onions often served cold"
-        ]
-    },
-    "veal": {
-        "d": [
-            "meat from a calf"
-        ]
-    },
-    "venison": {
-        "d": [
-            "meat from a deer used as food"
-        ]
-    },
-    "vegetable": {
-        "d": [
-            "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant",
-            "any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower"
-        ]
-    },
-    "veggie": {
-        "d": [
-            "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant, also  used as an abbreviation or informal shortening of vegetable"
-        ]
-    },
-    "vermicelli": {
-        "d": [
-            "pasta in strings thinner than spaghetti"
-        ]
-    },
-    "vinegar": {
-        "d": [
-            "sour-tasting liquid produced usually by oxidation of the alcohol in wine or cider and used as a condiment or food preservative",
-            "dilute acetic acid"
-        ]
-    },
-    "veloute": {
-        "d": [
-            "a white sauce made with stock instead of milk"
-        ]
-    },
-    "vinaigrette": {
-        "d": [
-            "oil and vinegar with mustard and garlic"
-        ]
-    },
-    "vino": {
-        "d": [
-            "fermented juice of grapes a.k.a. wine"
-        ]
-    },
-    "vodka": {
-        "d": [
-            "an unaged colorless liquor that originated in Russia"
-        ]
-    },
-    "vermouth": {
-        "d": [
-            "any of several white wines flavored with aromatic herbs"
-        ]
-    },
-    "varietal": {
-        "d": [
-            "a wine made principally from one grape and carrying the name of that grape"
-        ]
-    },
-    "varsity": {
-        "d": [
-            "relating to a team representing a college or university",
-            "a team representing a college or university",
-            "an abbreviation of university"
-        ]
-    },
-    "vicariate": {
-        "d": [
-            "the religious institution under the authority of a vicar"
-        ]
-    },
-    "vicarship": {
-        "d": [
-            "the religious institution under the authority of a vicar"
-        ]
-    },
-    "village": {
-        "d": [
-            "a community of people smaller than a town",
-            "a settlement smaller than a town"
-        ]
-    },
-    "varna": {
-        "d": [
-            "in Hinduism, the name for the original social division of Vedic people into four groups, which are subdivided into thousands of jatis"
-        ]
-    },
-    "vaisya": {
-        "d": [
-            "the third of the four varnas: the commoners or yeoman farmers or mercantile and professional category"
-        ]
-    },
-    "vernation": {
-        "d": [
-            "in botany, the arrangement of young leaves in a leaf bud before it opens"
-        ]
-    },
-    "venire": {
-        "d": [
-            "(law) a group of people summoned for jury service (from whom a jury will be chosen)"
-        ]
-    },
-    "viscounty": {
-        "d": [
-            "the domain controlled by a viscount or viscountess",
-            "the dignity or rank or position of a viscount or viscountess"
-        ]
-    },
-    "vicinity": {
-        "d": [
-            "a surrounding or nearby region"
-        ]
-    },
-    "veld": {
-        "d": [
-            "elevated open grassland in South Africa"
-        ]
-    },
-    "veldt": {
-        "d": [
-            "elevated open grassland in South Africa"
-        ]
-    },
-    "venue": {
-        "d": [
-            "in law: the jurisdiction where a trial will be held",
-            "the scene of any event or action, especially the place of a meeting or performance"
-        ]
-    },
-    "viceroyalty": {
-        "d": [
-            "a district or province governed by a viceroy"
-        ]
-    },
-    "versant": {
-        "d": [
-            "the side or slope of a mountain"
-        ]
-    },
-    "virino": {
-        "d": [
-            "in microbiology, a hypothetical infectious particle thought to be the cause of scrapie and other degenerative diseases of the central nervous system"
-        ]
-    },
-    "valley": {
-        "d": [
-            "a long depression in the surface of the land that usually contains a river"
-        ]
-    },
-    "vale": {
-        "d": [
-            "a long depression in the surface of the land that usually contains a river"
-        ]
-    },
-    "volcano": {
-        "d": [
-            "a fissure in the crust of a planet or moon through which molten lava and gases erupt",
-            "a mountain formed by volcanic material"
-        ]
-    },
-    "vampire": {
-        "d": [
-            "(folklore) a corpse that rises at night to drink the blood of the living"
-        ]
-    },
-    "venturer": {
-        "d": [
-            "a person who enjoys taking risks",
-            "a merchant who undertakes a trading venture (especially a venture that sends goods overseas)"
-        ]
-    },
-    "virtuoso": {
-        "d": [
-            "having or revealing supreme mastery or skill",
-            "someone who is exceptionally skilled in any field",
-            "a musician who is a consummate master of technique and artistry"
-        ]
-    },
-    "valuator": {
-        "d": [
-            "one who estimates officially the worth or value or quality of things"
-        ]
-    },
-    "vindicator": {
-        "d": [
-            "a person who argues to defend or justify some policy or institution"
-        ]
-    },
-    "virago": {
-        "d": [
-            "a large, strong, and aggressivly dominating woman"
-        ]
-    },
-    "vaunter": {
-        "d": [
-            "a very boastful and talkative person"
-        ]
-    },
-    "violoncellist": {
-        "d": [
-            "someone who plays a violoncello"
-        ]
-    },
-    "vendee": {
-        "d": [
-            "a person who buys"
-        ]
-    },
-    "vaquero": {
-        "d": [
-            "local names for a cowboy (`vaquero' is used especially in southwestern and central Texas and `buckaroo' is used especially in California)"
-        ]
-    },
-    "vamper": {
-        "d": [
-            "a seductive woman who uses her sex appeal to exploit men"
-        ]
-    },
-    "vanquisher": {
-        "d": [
-            "someone who is victorious by force of arms"
-        ]
-    },
-    "vilifier": {
-        "d": [
-            "one who attacks the reputation of another by slander or libel"
-        ]
-    },
-    "vitalizer": {
-        "d": [
-            "someone who imparts energy and vitality and spirit to other people"
-        ]
-    },
-    "vitaliser": {
-        "d": [
-            "someone who imparts energy and vitality and spirit to other people"
-        ]
-    },
-    "vaccinator": {
-        "d": [
-            "a medical practitioner who inoculates people against diseases"
-        ]
-    },
-    "varlet": {
-        "d": [
-            "in medieval times a youth acting as a knight's attendant as the first stage in training for knighthood",
-            "a deceitful and unreliable scoundrel"
-        ]
-    },
-    "vulgarizer": {
-        "d": [
-            "someone who makes attractive to the general public",
-            "someone who makes something vulgar"
-        ]
-    },
-    "vulgariser": {
-        "d": [
-            "someone who makes attractive to the general public",
-            "someone who makes something vulgar"
-        ]
-    },
-    "vaticinator": {
-        "d": [
-            "an authoritative person who divines the future"
-        ]
-    },
-    "versifier": {
-        "d": [
-            "a writer who composes rhymes"
-        ]
-    },
-    "vocalist": {
-        "d": [
-            "a person who sings"
-        ]
-    },
-    "vocalizer": {
-        "d": [
-            "a person who sings",
-            "an organism that can utter vocal sounds"
-        ]
-    },
-    "vocaliser": {
-        "d": [
-            "a person who sings",
-            "an organism that can utter vocal sounds"
-        ]
-    },
-    "vender": {
-        "d": [
-            "someone who promotes or exchanges goods or services for money"
-        ]
-    },
-    "vendor": {
-        "d": [
-            "someone who promotes or exchanges goods or services for money"
-        ]
-    },
-    "vacillator": {
-        "d": [
-            "one who hesitates, usually out of fear"
-        ]
-    },
-    "villein": {
-        "d": [
-            "a person who is bound to the land and owned by the feudal lord"
-        ]
-    },
-    "verbalizer": {
-        "d": [
-            "someone who expresses in language"
-        ]
-    },
-    "verbaliser": {
-        "d": [
-            "someone who expresses in language"
-        ]
-    },
-    "victualer": {
-        "d": [
-            "a supplier of victuals or supplies to an army",
-            "an innkeeper (especially British)"
-        ]
-    },
-    "victualler": {
-        "d": [
-            "a supplier of victuals or supplies to an army",
-            "an innkeeper "
-        ]
-    },
-    "vexer": {
-        "d": [
-            "someone given to teasing, as by mocking or stirring curiosity"
-        ]
-    },
-    "voyager": {
-        "d": [
-            "a traveler to a distant land, especially one who travels by sea"
-        ]
-    },
-    "voyeur": {
-        "d": [
-            "a viewer who enjoys seeing the sex acts or sex organs of others"
-        ]
-    },
-    "veterinarian": {
-        "d": [
-            "a doctor who practices veterinary medicine"
-        ]
-    },
-    "vulcanizer": {
-        "d": [
-            "someone who vulcanizes rubber to improve its strength and resiliency"
-        ]
-    },
-    "vibist": {
-        "d": [
-            "a musician who plays the vibraphone"
-        ]
-    },
-    "vibraphonist": {
-        "d": [
-            "a musician who plays the vibraphone"
-        ]
-    },
-    "vulgarian": {
-        "d": [
-            "a vulgar person, especially someone who makes a vulgar display of wealth"
-        ]
-    },
-    "vicar": {
-        "d": [
-            "a Roman Catholic priest who acts for another higher-ranking clergyman",
-            "in the Church of England, a clergyman appointed to act as priest of a parish",
-            "in the Episcopal Church, a clergyman in charge of a chapel"
-        ]
-    },
-    "vicegerent": {
-        "d": [
-            "someone appointed by a ruler as an administrative deputy"
-        ]
-    },
-    "vicereine": {
-        "d": [
-            "a governor of a country or province who rules as the representative of their sovereign",
-            "a wife of a viceroy"
-        ]
-    },
-    "victim": {
-        "d": [
-            "an unfortunate person who suffers from some adverse circumstance",
-            "a person who is tricked or swindled"
-        ]
-    },
-    "victimizer": {
-        "d": [
-            "a person who victimizes others"
-        ]
-    },
-    "victimiser": {
-        "d": [
-            "a person who victimizes others"
-        ]
-    },
-    "victor": {
-        "d": [
-            "a combatant who is able to defeat rivals",
-            "the contestant who wins the contest"
-        ]
-    },
-    "vigilante": {
-        "d": [
-            "member of a vigilance committee"
-        ]
-    },
-    "villager": {
-        "d": [
-            "one who has lived in a village most of their life or one who currently lives in a village"
-        ]
-    },
-    "villain": {
-        "d": [
-            "a wicked or evil person",
-            "the principal bad character in a film or work of fiction"
-        ]
-    },
-    "villainess": {
-        "d": [
-            "a woman villain"
-        ]
-    },
-    "vintager": {
-        "d": [
-            "a person who harvests grapes for making wine"
-        ]
-    },
-    "vintner": {
-        "d": [
-            "someone who makes wine",
-            "someone who sells wine"
-        ]
-    },
-    "vacationer": {
-        "d": [
-            "someone on vacation"
-        ]
-    },
-    "vacationist": {
-        "d": [
-            "someone on vacation"
-        ]
-    },
-    "violator": {
-        "d": [
-            "someone who assaults others sexually",
-            "someone who violates the law"
-        ]
-    },
-    "vaccinee": {
-        "d": [
-            "a patient who has been vaccinated"
-        ]
-    },
-    "valedictorian": {
-        "d": [
-            "the student with the best grades who usually delivers the valedictory address at commencement"
-        ]
-    },
-    "violinist": {
-        "d": [
-            "a musician who plays the violin"
-        ]
-    },
-    "valentine": {
-        "d": [
-            "a sweetheart chosen to receive a greeting on Saint Valentine's Day"
-        ]
-    },
-    "violist": {
-        "d": [
-            "a musician who plays the viola"
-        ]
-    },
-    "valet": {
-        "d": [
-            "a person that will park and fetch cars for people using a business, restaurant or service",
-            "a manservant who acts as a personal attendant to their employer",
-            "to serve as a personal attendant to"
-        ]
-    },
-    "virologist": {
-        "d": [
-            "a specialist in virology"
-        ]
-    },
-    "viscount": {
-        "d": [
-            "a British peer who ranks below an earl and above a baron",
-            "in various countries, a son or younger brother of a count"
-        ]
-    },
-    "viscountess": {
-        "d": [
-            "a noblewoman holding the rank of viscount in her own right",
-            "a wife or widow of a viscount"
-        ]
-    },
-    "valuer": {
-        "d": [
-            "someone who assesses the monetary worth of possessions"
-        ]
-    },
-    "vandal": {
-        "d": [
-            "someone who willfully destroys or defaces property"
-        ]
-    },
-    "vanisher": {
-        "d": [
-            "a person who disappears"
-        ]
-    },
-    "vassal": {
-        "d": [
-            "a person holding a fief"
-        ]
-    },
-    "visitor": {
-        "d": [
-            "someone who visits"
-        ]
-    },
-    "visitant": {
-        "d": [
-            "someone who visits"
-        ]
-    },
-    "vaudevillian": {
-        "d": [
-            "a performer who works in vaudeville"
-        ]
-    },
-    "visualizer": {
-        "d": [
-            "one whose prevailing mental imagery is visual"
-        ]
-    },
-    "visualiser": {
-        "d": [
-            "one whose prevailing mental imagery is visual"
-        ]
-    },
-    "vaulter": {
-        "d": [
-            "an athlete who jumps over a high crossbar with the aid of a long pole"
-        ]
-    },
-    "vitalist": {
-        "d": [
-            "one who believes in vitalism"
-        ]
-    },
-    "vegetarian": {
-        "d": [
-            "someone who eats fruits, grains and nuts, but not meat"
-        ]
-    },
-    "viticulturist": {
-        "d": [
-            "a cultivator of grape vines"
-        ]
-    },
-    "vegan": {
-        "d": [
-            "a strict vegetarian who does not use or consume any animal products"
-        ]
-    },
-    "vivisectionist": {
-        "d": [
-            "a biologist who cuts open live animals for research"
-        ]
-    },
-    "venerator": {
-        "d": [
-            "someone who regards with deep respect or reverence"
-        ]
-    },
-    "ventriloquist": {
-        "d": [
-            "a performer who projects the voice into a wooden dummy"
-        ]
-    },
-    "vizier": {
-        "d": [
-            "a high official in a Muslim government, originally in the Ottoman Empire also now other modern governments"
-        ]
-    },
-    "vociferator": {
-        "d": [
-            "a loud and vehement speaker, usually in protest"
-        ]
-    },
-    "voicer": {
-        "d": [
-            "someone who regulates the tone of organ pipes"
-        ]
-    },
-    "verger": {
-        "d": [
-            "a church officer who takes care of the interior of the building, acts as an attendant, and carries the verge during ceremonies"
-        ]
-    },
-    "volunteer": {
-        "d": [
-            "without payment",
-            "a person who performs voluntary work",
-            "(military) a person who freely enlists for service",
-            "tell voluntarily",
-            "do volunteer work",
-            "agree freely"
-        ]
-    },
-    "vestryman": {
-        "d": [
-            "a man who is a member of a church vestry"
-        ]
-    },
-    "vomiter": {
-        "d": [
-            "a person who vomits"
-        ]
-    },
-    "vestrywoman": {
-        "d": [
-            "a woman who is a member of a church vestry"
-        ]
-    },
-    "veteran": {
-        "d": [
-            "rendered competent through trial and experience",
-            "an experienced person who has been through many battles",
-            "a person who has served in the armed forces",
-            "a serviceman who has seen considerable active service"
-        ]
-    },
-    "votary": {
-        "d": [
-            "a devoted, almost religiously so, adherent of a cause, person, or activity",
-            "a priest or priestess in a non-Christian religion or cult",
-            "one bound by vows to a religion or life of worship or service"
-        ]
-    },
-    "voter": {
-        "d": [
-            "a citizen who has a legal right to vote"
-        ]
-    },
-    "vouchee": {
-        "d": [
-            "a person called into court to defend a title"
-        ]
-    },
-    "verifier": {
-        "d": [
-            "someone who vouches for another or for the correctness of a statement"
-        ]
-    },
-    "vower": {
-        "d": [
-            "someone who makes a solemn promise to do something or behave in a certain way"
-        ]
-    },
-    "voltage": {
-        "d": [
-            "the difference in electrical charge between two points in a circuit expressed in volts",
-            "the rate at which energy is drawn from a source that produces a flow of electricity in a circuit"
-        ]
-    },
-    "volva": {
-        "d": [
-            "cuplike structure around the base of the stalk of certain fungi"
-        ]
-    },
-    "virga": {
-        "d": [
-            "light wispy precipitation that evaporates before it reaches the ground, especially when the lower air is low in humidity"
-        ]
-    },
-    "volcanism": {
-        "d": [
-            "the phenomena associated with volcanic activity"
-        ]
-    },
-    "verdolagas": {
-        "d": [
-            "a weedy trailing mat-forming herb with bright yellow flowers cultivated for its edible mildly acidic leaves, eaten raw or cooked, especially in Indian, Greek and Middle Eastern cuisine"
-        ]
-    },
-    "vanillin": {
-        "d": [
-            "a crystalline compound found in vanilla beans and some balsam resins"
-        ]
-    },
-    "velvetleaf": {
-        "d": [
-            "tall annual herb or subshrub of tropical Asia having velvety leaves and yellow flowers and yielding a strong fiber",
-            "arborescent perennial shrub having palmately lobed furry leaves and showy red-purple flowers"
-        ]
-    },
-    "velvetweed": {
-        "d": [
-            "a tall annual herb or subshrub of tropical Asia having velvety leaves and yellow flowers and yielding a strong fiber"
-        ]
-    },
-    "vetch": {
-        "d": [
-            "any of various climbing plants of the genus Vicia having pinnately compound leaves that terminate in tendrils and small variously colored flowers"
-        ]
-    },
-    "vinegarweed": {
-        "d": [
-            "an aromatic plant of western United States"
-        ]
-    },
-    "veronica": {
-        "d": [
-            "any plant of the genus Veronica"
-        ]
-    },
-    "verbena": {
-        "d": [
-            "any of numerous tropical or subtropical American plants of the genus Verbena grown for their showy spikes of variously colored flowers"
-        ]
-    },
-    "vervain": {
-        "d": [
-            "any of numerous tropical or subtropical American plants of the genus Verbena grown for their showy spikes of variously colored flowers"
-        ]
-    },
-    "valerian": {
-        "d": [
-            "a plant of the genus Valeriana having lobed or dissected leaves and cymose white or pink flowers"
-        ]
-    },
-    "vine": {
-        "d": [
-            "a plant with a weak stem that derives support from climbing, twining, or creeping along a surface"
-        ]
-    },
-    "vinifera": {
-        "d": [
-            "a common European grape cultivated in many varieties"
-        ]
-    },
-    "vigorish": {
-        "d": [
-            "a percentage of winnings, loot or profit taken by an operator or gangster",
-            "an exorbitant or unlawful rate of interest"
-        ]
-    },
-    "voiding": {
-        "d": [
-            "the bodily process of discharging waste matter"
-        ]
-    },
-    "virilization": {
-        "d": [
-            "the abnormal development of male sexual characteristics in a female, usually as the result of hormone therapies or adrenal malfunction"
-        ]
-    },
-    "virilisation": {
-        "d": [
-            "the abnormal development of male sexual characteristics in a female, usually as the result of hormone therapies or adrenal malfunction",
-            "the normal development of male sexual characteristics in a male"
-        ]
-    },
-    "vapor": {
-        "d": [
-            "the process of becoming a vapor",
-            "a visible suspension in the air of particles of some substance"
-        ]
-    },
-    "vapour": {
-        "d": [
-            "the process of becoming a vapor",
-            "a visible suspension in the air of particles of some substance"
-        ]
-    },
-    "vascularization": {
-        "d": [
-            "the organic process whereby body tissue becomes vascular and develops capillaries"
-        ]
-    },
-    "vascularisation": {
-        "d": [
-            "the organic process whereby body tissue becomes vascular and develops capillaries"
-        ]
-    },
-    "vesiculation": {
-        "d": [
-            "the formation of vesicles in or beneath the skin"
-        ]
-    },
-    "vesication": {
-        "d": [
-            "the formation of vesicles in or beneath the skin"
-        ]
-    },
-    "vinification": {
-        "d": [
-            "the process whereby fermentation changes grape juice into wine"
-        ]
-    },
-    "vitrification": {
-        "d": [
-            "the process of becoming vitreous",
-            "a vitrified substance"
-        ]
-    },
-    "vulcanization": {
-        "d": [
-            "the process of treating rubber or rubberlike materials with sulphur at great heat to improve elasticity and strength or to harden them"
-        ]
-    },
-    "vulcanisation": {
-        "d": [
-            "the process of treating rubber or rubberlike materials with sulphur at great heat to improve elasticity and strength or to harden them"
-        ]
-    },
-    "volt": {
-        "d": [
-            "a unit of potential equal to the potential difference between two points on a conductor carrying a current of 1 ampere when the power dissipated between the two points is 1 watt"
-        ]
-    },
-    "vara": {
-        "d": [
-            "a Spanish unit of linear measurement that has different values in different localities, ranging from approximately 81 to 109 centimeters or 32 to 43 inches"
-        ]
-    },
-    "verst": {
-        "d": [
-            "a Russian unit of length equivalent to 1.067 km"
-        ]
-    },
-    "vacancy": {
-        "d": [
-            "an empty area or space",
-            "an unoccupied position or job"
-        ]
-    },
-    "vagrancy": {
-        "d": [
-            "the state of wandering from place to place, usually by people with no permanent home"
-        ]
-    },
-    "virginity": {
-        "d": [
-            "the condition or quality of being a virgin"
-        ]
-    },
-    "verticil": {
-        "d": [
-            "a whorl of leaves growing around a stem"
-        ]
-    },
-    "villeinage": {
-        "d": [
-            "the legal status or condition of servitude of a villein or feudal serf"
-        ]
-    },
-    "villainage": {
-        "d": [
-            "the legal status or condition of servitude of a villein or feudal serf"
-        ]
-    },
-    "vassalage": {
-        "d": [
-            "the state of a serf"
-        ]
-    },
-    "vitalization": {
-        "d": [
-            "the state of being vitalized and filled with life"
-        ]
-    },
-    "vitalisation": {
-        "d": [
-            "the state of being vitalized and filled with life"
-        ]
-    },
-    "vacuolization": {
-        "d": [
-            "the state of having become filled with vacuoles"
-        ]
-    },
-    "vacuolisation": {
-        "d": [
-            "the state of having become filled with vacuoles"
-        ]
-    },
-    "vacuolation": {
-        "d": [
-            "the state of having become filled with vacuoles"
-        ]
-    },
-    "varicella": {
-        "d": [
-            "an acute contagious disease caused by herpes varicella zoster virus"
-        ]
-    },
-    "variola": {
-        "d": [
-            "smallpox; the virus causing smallpox"
-        ]
-    },
-    "villoma": {
-        "d": [
-            "a benign epithelial tumor forming a rounded mass"
-        ]
-    },
-    "vitiligo": {
-        "d": [
-            "an acquired skin disease characterized by patches of unpigmented skin, often surrounded by a heavily pigmented border"
-        ]
-    },
-    "vaginocele": {
-        "d": [
-            "a hernia projecting into the vagina"
-        ]
-    },
-    "verticilliosis": {
-        "d": [
-            "a wilt caused by fungi of the genus Verticillium"
-        ]
-    },
-    "vesicopapule": {
-        "d": [
-            "a papule that changes into a blister"
-        ]
-    },
-    "vaccinia": {
-        "d": [
-            "a local infection induced in humans by inoculation with the virus causing cowpox in order to confer resistance to smallpox"
-        ]
-    },
-    "vaccina": {
-        "d": [
-            "a local infection induced in humans by inoculation with the virus causing cowpox in order to confer resistance to smallpox"
-        ]
-    },
-    "vaginitis": {
-        "d": [
-            "inflammation of the vagina, usually associated with candidiasis"
-        ]
-    },
-    "valvulitis": {
-        "d": [
-            "inflammation of a valve, especially of a cardiac valve as a consequence of rheumatic fever"
-        ]
-    },
-    "vasculitis": {
-        "d": [
-            "inflammation of a blood vessel"
-        ]
-    },
-    "vasovesiculitis": {
-        "d": [
-            "inflammation of the vas deferens and seminal vesicles"
-        ]
-    },
-    "vesiculitis": {
-        "d": [
-            "inflammation of a seminal vesicle, usually in conjunction with prostatitis"
-        ]
-    },
-    "vulvitis": {
-        "d": [
-            "inflammation of the vulva"
-        ]
-    },
-    "vulvovaginitis": {
-        "d": [
-            "inflammation of the vulva and the vagina"
-        ]
-    },
-    "vellication": {
-        "d": [
-            "a sudden muscle spasm"
-        ]
-    },
-    "vapors": {
-        "d": [
-            "a state of depression"
-        ]
-    },
-    "vapours": {
-        "d": [
-            "a state of depression"
-        ]
-    },
-    "vertigo": {
-        "d": [
-            "a reeling sensation accompanied by balance problems"
-        ]
-    },
-    "valgus": {
-        "d": [
-            "a deformity in which there is an abnormal displacement of part of a limb away from the midline of the body"
-        ]
-    },
-    "varus": {
-        "d": [
-            "a deformity in which part of a limb is turned inward to an abnormal degree"
-        ]
-    },
-    "varicocele": {
-        "d": [
-            "a dilatation of the veins associated with the spermatic cord in the testes"
-        ]
-    },
-    "varicosis": {
-        "d": [
-            "a pathological condition of being varicose or having varicose veins"
-        ]
-    },
-    "varicosity": {
-        "d": [
-            "varix or varicose condition in which a vein is swollen and tortuous"
-        ]
-    },
-    "varix": {
-        "d": [
-            "an abnormally enlarged or twisted blood vessel or lymphatic vessel"
-        ]
-    },
-    "viremia": {
-        "d": [
-            "the presence of a virus in the blood stream"
-        ]
-    },
-    "viraemia": {
-        "d": [
-            "the presence of a virus in the blood stream"
-        ]
-    },
-    "volvulus": {
-        "d": [
-            "an abnormal twisting of the intestines, usually in the area of the ileum or sigmoid colon, resulting in intestinal obstruction"
-        ]
-    },
-    "valetudinarianism": {
-        "d": [
-            "the state of being weak in health or body, especially from old age"
-        ]
-    },
-    "vanadium": {
-        "d": [
-            "a soft silvery white toxic metallic element used in steel alloys"
-        ]
-    },
-    "vellum": {
-        "d": [
-            "fine parchment prepared from the skin of a young animal e.g. a calf or lamb",
-            "a heavy creamy-colored paper resembling parchment"
-        ]
-    },
-    "vomitus": {
-        "d": [
-            "the matter ejected in vomiting"
-        ]
-    },
-    "vulcanite": {
-        "d": [
-            "a hard nonresilient rubber formed by vulcanizing natural rubber"
-        ]
-    },
-    "viricide": {
-        "d": [
-            "an agent (physical or chemical) that inactivates or destroys viruses"
-        ]
-    },
-    "virucide": {
-        "d": [
-            "an agent, physical or chemical, that inactivates or destroys viruses"
-        ]
-    },
-    "vitamin": {
-        "d": [
-            "any of a group of organic substances essential in small quantities to normal metabolism"
-        ]
-    },
-    "valine": {
-        "d": [
-            "an essential amino acid found in proteins"
-        ]
-    },
-    "vanadate": {
-        "d": [
-            "a salt or ester of vanadic acid"
-        ]
-    },
-    "vanadinite": {
-        "d": [
-            "a mineral consisting of chloride and vanadate of lead"
-        ]
-    },
-    "vermiculite": {
-        "d": [
-            "any of a group of yellow or brown hydrous silicate minerals having a micaceous structure"
-        ]
-    },
-    "vesuvianite": {
-        "d": [
-            "a green or yellow or brown mineral consisting of a hydrated silicate"
-        ]
-    },
-    "vesuvian": {
-        "d": [
-            "a green, yellow or brown mineral consisting of a hydrated silicate"
-        ]
-    },
-    "vinyl": {
-        "d": [
-            "shiny and tough and flexible plastic",
-            "a univalent chemical radical derived from ethylene"
-        ]
-    },
-    "vernix": {
-        "d": [
-            "a white cheeselike protective material that covers the skin of a fetus"
-        ]
-    },
-    "viosterol": {
-        "d": [
-            "a fat-soluble vitamin that prevents rickets"
-        ]
-    },
-    "vespers": {
-        "d": [
-            "the sixth of the seven canonical hours of the divine office"
-        ]
-    },
-    "vulgarize": {
-        "d": [
-            "to act in a vulgar manner",
-            "to debase and make vulgar",
-            "to cater to popular taste, in order to make popular and present to the general public"
-        ]
-    },
-    "vulgarise": {
-        "d": [
-            "to act in a vulgar manner",
-            "to debase and make vulgar",
-            "to cater to popular taste, in order to make popular and present to the general public"
-        ]
-    },
-    "velocity": {
-        "d": [
-            "the distance travelled per unit time"
-        ]
-    },
-    "vivify": {
-        "d": [
-            "to give new life or energy to",
-            "to make more striking or animated"
-        ]
-    },
-    "vegetate": {
-        "d": [
-            "to engage in passive relaxation",
-            "to propagate asexually",
-            "to grow or spread abnormally",
-            "to grow like a plant",
-            "to produce vegetation",
-            "to establish vegetation on",
-            "to lead a passive existence without using one's body or mind"
-        ]
-    },
-    "vasectomize": {
-        "d": [
-            "remove the vas deferens"
-        ]
-    },
-    "vasectomise": {
-        "d": [
-            "remove the vas deferens"
-        ]
-    },
-    "venesect": {
-        "d": [
-            "to practice venesection"
-        ]
-    },
-    "vascularize": {
-        "d": [
-            "to make vascular",
-            "to become vascular and have vessels that circulate fluids"
-        ]
-    },
-    "vascularise": {
-        "d": [
-            "to make vascular",
-            "to become vascular and have vessels that circulate fluids"
-        ]
-    },
-    "vary": {
-        "d": [
-            "to become different in some particular way, without permanently losing one's or its former characteristics or essence",
-            "to make something more diverse and varied",
-            "to be at variance with",
-            "to be subject to change in accordance with a variable"
-        ]
-    },
-    "verbalize": {
-        "d": [
-            "convert into a verb",
-            "articulate",
-            "express in speech",
-            "be verbose"
-        ]
-    },
-    "verbalise": {
-        "d": [
-            "convert into a verb",
-            "articulate",
-            "express in speech",
-            "be verbose"
-        ]
-    },
-    "vaccinate": {
-        "d": [
-            "to perform vaccinations or produce immunity in by inoculation"
-        ]
-    },
-    "vaporize": {
-        "d": [
-            "decrease rapidly and disappear",
-            "lose or cause to lose liquid by vaporization leaving a more concentrated residue",
-            "turn into gas",
-            "kill with or as if with a burst of gunfire or electric current or as if by shooting"
-        ]
-    },
-    "vaporise": {
-        "d": [
-            "decrease rapidly and disappear",
-            "lose or cause to lose liquid by vaporization leaving a more concentrated residue",
-            "turn into gas",
-            "kill with or as if with a burst of gunfire or electric current or as if by shooting"
-        ]
-    },
-    "vitalize": {
-        "d": [
-            "make more lively or vigorous",
-            "give life to"
-        ]
-    },
-    "vitalise": {
-        "d": [
-            "make more lively or vigorous",
-            "give life to"
-        ]
-    },
-    "vanish": {
-        "d": [
-            "pass away rapidly",
-            "become invisible or unnoticeable",
-            "decrease rapidly and disappear",
-            "get lost, as without warning or explanation",
-            "cease to exist"
-        ]
-    },
-    "vouch": {
-        "d": [
-            "to give supporting evidence",
-            "to summon an individual into court to warrant or defend a title",
-            "to give surety or assume responsibility",
-            "to give personal assurance"
-        ]
-    },
-    "vesicate": {
-        "d": [
-            "to get blistered"
-        ]
-    },
-    "validate": {
-        "d": [
-            "make valid or confirm the validity of",
-            "prove valid",
-            "give evidence for",
-            "declare or make legally valid"
-        ]
-    },
-    "vitiate": {
-        "d": [
-            "to take away the legal force of or render ineffective",
-            "to make imperfect",
-            "to corrupt morally or by intemperance or sensuality"
-        ]
-    },
-    "vinify": {
-        "d": [
-            "to convert a juice into wine by fermentation"
-        ]
-    },
-    "variegate": {
-        "d": [
-            "to change the appearance of, especially by marking with different colors",
-            "to make something more diverse and varied"
-        ]
-    },
-    "vellicate": {
-        "d": [
-            "to irritate as if by a nip, pinch, or tear",
-            "to touch a body part lightly so as to excite the surface nerves and cause uneasiness, laughter, or spasmodic movements"
-        ]
-    },
-    "ventilate": {
-        "d": [
-            "to expose to cool or cold air so as to cool or freshen",
-            "to furnish with an opening to allow air to circulate or gas to escape",
-            "to give expression or utterance to",
-            "to circulate through and freshen",
-            "to expose to the circulation of fresh air so as to retard spoilage"
-        ]
-    },
-    "vulcanize": {
-        "d": [
-            "subject to vulcanization",
-            "undergo vulcanization"
-        ]
-    },
-    "vulcanise": {
-        "d": [
-            "subject to vulcanization",
-            "undergo vulcanization"
-        ]
-    },
-    "volatilize": {
-        "d": [
-            "make volatile"
-        ]
-    },
-    "volatilise": {
-        "d": [
-            "make volatile"
-        ]
-    },
-    "vitrify": {
-        "d": [
-            "to change into glass or a glass-like substance by applying heat"
-        ]
-    },
-    "verbify": {
-        "d": [
-            "to make into a verb"
-        ]
-    },
-    "veer": {
-        "d": [
-            "to shift to a clockwise direction",
-            "to turn sharply"
-        ]
-    },
-    "vesiculate": {
-        "d": [
-            "to cause to become vesicular or full of air cells"
-        ]
-    },
-    "visualize": {
-        "d": [
-            "to make visible",
-            "to imagine",
-            "to form a mental picture of something that is invisible or abstract",
-            "to view the outline of by means of an X-ray"
-        ]
-    },
-    "visualise": {
-        "d": [
-            "to make visible",
-            "to imagine",
-            "to form a mental picture of something that is invisible or abstract",
-            "to view the outline of by means of an X-ray"
-        ]
-    },
-    "virilize": {
-        "d": [
-            "produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy"
-        ]
-    },
-    "virilise": {
-        "d": [
-            "produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy"
-        ]
-    },
-    "verify": {
-        "d": [
-            "to confirm the truth of",
-            "to declare or affirm solemnly and formally as true",
-            "to attach or append a legal verification to",
-            "to check or regulate a scientific experiment by conducting a parallel experiment or comparing with another standard"
-        ]
-    },
-    "valuate": {
-        "d": [
-            "to evaluate or estimate the nature, quality, ability, extent, or significance of"
-        ]
-    },
-    "vocalize": {
-        "d": [
-            "utter speech sounds",
-            "utter with vibrating vocal chords",
-            "express or state clearly",
-            "pronounce as a vowel",
-            "sing (each note a scale or in a melody) with the same vowel"
-        ]
-    },
-    "vocalise": {
-        "d": [
-            "utter speech sounds",
-            "utter with vibrating vocal chords",
-            "express or state clearly",
-            "pronounce as a vowel",
-            "sing (each note a scale or in a melody) with the same vowel"
-        ]
-    },
-    "vacate": {
-        "d": [
-            "to cancel officially",
-            "to leave behind empty",
-            "to leave a job, post, or position voluntarily"
-        ]
-    },
-    "vilify": {
-        "d": [
-            "to spread negative information about"
-        ]
-    },
-    "vituperate": {
-        "d": [
-            "to spread negative information about"
-        ]
-    },
-    "vilipend": {
-        "d": [
-            "to belittle",
-            "to despise"
-        ]
-    },
-    "vindicate": {
-        "d": [
-            "to show to be right by providing justification or proof",
-            "to maintain, uphold, or defend"
-        ]
-    },
-    "vociferate": {
-        "d": [
-            "to utter in a very loud voice"
-        ]
-    },
-    "vaticinate": {
-        "d": [
-            "to predict or reveal through, or as if through, divine inspiration"
-        ]
-    },
-    "vowelize": {
-        "d": [
-            "pronounce as a vowel"
-        ]
-    },
-    "vowelise": {
-        "d": [
-            "pronounce as a vowel"
-        ]
-    },
-    "vanquish": {
-        "d": [
-            "to come out better in a competition, race, or conflict"
-        ]
-    },
-    "violate": {
-        "d": [
-            "to destroy",
-            "to destroy and strip of its possessions",
-            "to act in disregard of laws, rules, contracts, or promises",
-            "to force someone to have sex against their will",
-            "to violate the sacred character of a place or language"
-        ]
-    },
-    "velcro": {
-        "d": [
-            "to fasten with Velcro"
-        ]
-    },
-    "vandalize": {
-        "d": [
-            "destroy wantonly, as through acts of vandalism"
-        ]
-    },
-    "vandalise": {
-        "d": [
-            "destroy wantonly, as through acts of vandalism"
-        ]
-    },
-    "vivisect": {
-        "d": [
-            "to cut a body open while still alive"
-        ]
-    },
-    "versify": {
-        "d": [
-            "to compose verses or put into verse"
-        ]
-    },
-    "venerate": {
-        "d": [
-            "to regard with feelings of respect and reverence"
-        ]
-    },
-    "vibrate": {
-        "d": [
-            "feel sudden intense sensation or emotion",
-            "move or swing from side to side regularly",
-            "shake, quiver, or throb",
-            "sound with resonance",
-            "be undecided about something"
-        ]
-    },
-    "vacillate": {
-        "d": [
-            "to move or sway in a rising and falling or wavelike pattern",
-            "to be undecided about something"
-        ]
-    },
-    "vamoose": {
-        "d": [
-            "to leave suddenly"
-        ]
-    },
-    "vouchsafe": {
-        "d": [
-            "to grant in a condescending manner"
-        ]
-    },
-    "vitaminize": {
-        "d": [
-            "add vitamins as a supplement"
-        ]
-    },
-    "vitaminise": {
-        "d": [
-            "add vitamins as a supplement"
-        ]
-    },
-    "vend": {
-        "d": [
-            "to sell or offer for sale from place to place"
-        ]
-    },
-    "victimize": {
-        "d": [
-            "punish unjustly",
-            "deprive of by deceit",
-            "make a victim of"
-        ]
-    },
-    "victimise": {
-        "d": [
-            "punish unjustly",
-            "deprive of by deceit",
-            "make a victim of"
-        ]
-    },
-    "vipers": {
-        "d": [
-            "people who smoke pot, often while listening to jazz"
-        ]
-    },
-    "vibratome": {
-        "d": [
-            "a medical device that uses a vibrating razor to slice tissue"
-        ]
-    },
-    "vlog": {
-        "d": [
-            "to make or film a vlog",
-            "a blog in the format of a video, usually showcasing somebody talking directly to a camera"
-        ]
-    },
-    "venatorial": {
-        "d": [
-            "of or relating to hunting"
-        ]
-    },
-    "venatic": {
-        "d": [
-            "of or relating to hunting"
-        ]
-    },
-    "vape": {
-        "d": [
-            "to use an electronic cigarette"
-        ]
-    },
-    "vexillology": {
-        "d": [
-            "the study of flags"
-        ]
-    }
-}
+[
+    "vacancy",
+    "vacant",
+    "vacantly",
+    "vacate",
+    "vacation",
+    "vacationer",
+    "vacationing",
+    "vacationist",
+    "vaccina",
+    "vaccinate",
+    "vaccinated",
+    "vaccinating",
+    "vaccination",
+    "vaccinator",
+    "vaccine",
+    "vaccinee",
+    "vaccinia",
+    "vaccinum",
+    "vacillant",
+    "vacillate",
+    "vacillating",
+    "vacillation",
+    "vacillator",
+    "vacuity",
+    "vacuolate",
+    "vacuolated",
+    "vacuolation",
+    "vacuole",
+    "vacuolisation",
+    "vacuolization",
+    "vacuous",
+    "vacuously",
+    "vacuousness",
+    "vacuum",
+    "vain",
+    "vainglorious",
+    "vainglory",
+    "vainly",
+    "vaisya",
+    "valance",
+    "vale",
+    "valediction",
+    "valedictorian",
+    "valedictory",
+    "valence",
+    "valency",
+    "valent",
+    "valentine",
+    "valerian",
+    "valet",
+    "valetudinarianism",
+    "valetudinary",
+    "valgus",
+    "valiance",
+    "valiancy",
+    "valiant",
+    "valiantly",
+    "valid",
+    "validate",
+    "validated",
+    "validating",
+    "validation",
+    "validatory",
+    "validity",
+    "validly",
+    "validness",
+    "valine",
+    "valise",
+    "vallecula",
+    "valley",
+    "valor",
+    "valorous",
+    "valorously",
+    "valorousness",
+    "valour",
+    "valse",
+    "valuable",
+    "valuableness",
+    "valuate",
+    "valuation",
+    "valuator",
+    "value",
+    "valued",
+    "valueless",
+    "valuelessness",
+    "valuer",
+    "values",
+    "valve",
+    "valved",
+    "valvelet",
+    "valvotomy",
+    "valvula",
+    "valvular",
+    "valvule",
+    "valvulitis",
+    "valvulotomy",
+    "vambrace",
+    "vamoose",
+    "vamp",
+    "vamper",
+    "vampire",
+    "vampirism",
+    "vanadate",
+    "vanadinite",
+    "vanadium",
+    "vandal",
+    "vandalise",
+    "vandalism",
+    "vandalize",
+    "vane",
+    "vaned",
+    "vanguard",
+    "vanilla",
+    "vanillin",
+    "vanish",
+    "vanished",
+    "vanisher",
+    "vanishing",
+    "vanishingly",
+    "vanity",
+    "vanquish",
+    "vanquishable",
+    "vanquisher",
+    "vantage",
+    "vape",
+    "vapid",
+    "vapidity",
+    "vapidly",
+    "vapidness",
+    "vapor",
+    "vaporific",
+    "vaporing",
+    "vaporisation",
+    "vaporise",
+    "vaporiser",
+    "vaporish",
+    "vaporizable",
+    "vaporization",
+    "vaporize",
+    "vaporized",
+    "vaporizer",
+    "vaporous",
+    "vaporousness",
+    "vapors",
+    "vapour",
+    "vapourific",
+    "vapourisable",
+    "vapourised",
+    "vapourish",
+    "vapourous",
+    "vapourousness",
+    "vapours",
+    "vaquita",
+    "vara",
+    "varan",
+    "variability",
+    "variable",
+    "variableness",
+    "variably",
+    "variance",
+    "variant",
+    "variate",
+    "variation",
+    "varicella",
+    "varicelliform",
+    "varicocele",
+    "varicolored",
+    "varicoloured",
+    "varicose",
+    "varicosis",
+    "varicosity",
+    "varied",
+    "variedness",
+    "variegate",
+    "variegated",
+    "variegation",
+    "varietal",
+    "variety",
+    "variform",
+    "variola",
+    "variolar",
+    "variolation",
+    "variolic",
+    "variolization",
+    "variolous",
+    "variometer",
+    "variorum",
+    "various",
+    "variously",
+    "varix",
+    "varlet",
+    "varment",
+    "varmint",
+    "varna",
+    "varnish",
+    "varnished",
+    "varsity",
+    "varus",
+    "vary",
+    "varying",
+    "vascular",
+    "vascularisation",
+    "vascularise",
+    "vascularity",
+    "vascularization",
+    "vascularize",
+    "vasculitis",
+    "vase",
+    "vasectomise",
+    "vasectomize",
+    "vasectomy",
+    "vaseline",
+    "vasiform",
+    "vasoconstriction",
+    "vasoconstrictive",
+    "vasoconstrictor",
+    "vasodilation",
+    "vasodilative",
+    "vasodilator",
+    "vasomotor",
+    "vasopressin",
+    "vasopressor",
+    "vasosection",
+    "vasotomy",
+    "vasovasostomy",
+    "vasovesiculitis",
+    "vassal",
+    "vassalage",
+    "vast",
+    "vastly",
+    "vastness",
+    "vatic",
+    "vatical",
+    "vaticinate",
+    "vaticination",
+    "vaticinator",
+    "vaudeville",
+    "vaudevillian",
+    "vault",
+    "vaulted",
+    "vaulter",
+    "vaulting",
+    "vaunt",
+    "vaunter",
+    "vauntingly",
+    "veal",
+    "vector",
+    "vedalia",
+    "veer",
+    "veering",
+    "veery",
+    "vegan",
+    "vegetable",
+    "vegetal",
+    "vegetarianism",
+    "vegetate",
+    "vegetation",
+    "vegetational",
+    "vegetative",
+    "vegetive",
+    "veggie",
+    "vehemence",
+    "vehement",
+    "vehemently",
+    "vehicle",
+    "vehicular",
+    "veil",
+    "veiled",
+    "veiling",
+    "vein",
+    "veinal",
+    "veined",
+    "velar",
+    "velcro",
+    "veld",
+    "veldt",
+    "velleity",
+    "vellicate",
+    "vellication",
+    "vellum",
+    "velocipede",
+    "velociraptor",
+    "velocity",
+    "velodrome",
+    "velour",
+    "velours",
+    "veloute",
+    "velum",
+    "velvet",
+    "velveteen",
+    "velvetleaf",
+    "velvety",
+    "vena",
+    "venal",
+    "venality",
+    "venally",
+    "venatic",
+    "venation",
+    "venatorial",
+    "vend",
+    "vendable",
+    "vendee",
+    "vender",
+    "vendetta",
+    "vendible",
+    "vending",
+    "vendition",
+    "vendor",
+    "vendue",
+    "veneer",
+    "veneering",
+    "venerability",
+    "venerable",
+    "venerableness",
+    "venerate",
+    "venerating",
+    "veneration",
+    "venerator",
+    "venereal",
+    "venesect",
+    "venesection",
+    "vengeance",
+    "vengeful",
+    "vengefully",
+    "vengefulness",
+    "venial",
+    "venipuncture",
+    "venire",
+    "venison",
+    "venogram",
+    "venography",
+    "venom",
+    "venomed",
+    "venomous",
+    "venomously",
+    "venose",
+    "venous",
+    "vent",
+    "ventail",
+    "vented",
+    "venter",
+    "venthole",
+    "ventilate",
+    "ventilated",
+    "ventilation",
+    "ventilator",
+    "ventilatory",
+    "venting",
+    "ventral",
+    "ventrally",
+    "ventricle",
+    "ventricose",
+    "ventricous",
+    "ventricular",
+    "ventriculus",
+    "ventriloquism",
+    "ventriloquist",
+    "ventriloquy",
+    "venture",
+    "venturer",
+    "venturesome",
+    "venturesomeness",
+    "venturi",
+    "venturous",
+    "venue",
+    "venule",
+    "veracious",
+    "veracity",
+    "veranda",
+    "verandah",
+    "verb",
+    "verbal",
+    "verbalisation",
+    "verbalise",
+    "verbalised",
+    "verbaliser",
+    "verbalism",
+    "verbalization",
+    "verbalize",
+    "verbalized",
+    "verbalizer",
+    "verbally",
+    "verbatim",
+    "verbena",
+    "verbiage",
+    "verbify",
+    "verbolatry",
+    "verbose",
+    "verbosely",
+    "verboseness",
+    "verbosity",
+    "verboten",
+    "verdancy",
+    "verdant",
+    "verdict",
+    "verdigris",
+    "verdin",
+    "verdolagas",
+    "verdure",
+    "verge",
+    "verger",
+    "veridical",
+    "verifiable",
+    "verification",
+    "verificatory",
+    "verified",
+    "verifier",
+    "verify",
+    "verifying",
+    "verily",
+    "verisimilar",
+    "verisimilitude",
+    "veritable",
+    "verity",
+    "vermicelli",
+    "vermicide",
+    "vermicular",
+    "vermiculate",
+    "vermiculated",
+    "vermiculation",
+    "vermiculite",
+    "vermiform",
+    "vermifuge",
+    "vermin",
+    "verminous",
+    "vermis",
+    "vermouth",
+    "vernacular",
+    "vernal",
+    "vernation",
+    "vernier",
+    "vernix",
+    "veronal",
+    "veronica",
+    "verruca",
+    "verrucose",
+    "versant",
+    "versatile",
+    "versatility",
+    "verse",
+    "versed",
+    "versicle",
+    "versification",
+    "versifier",
+    "versify",
+    "version",
+    "verso",
+    "verst",
+    "vertebra",
+    "vertebral",
+    "vertebrate",
+    "vertex",
+    "vertical",
+    "verticality",
+    "vertically",
+    "verticalness",
+    "verticil",
+    "verticillate",
+    "verticillated",
+    "verticilliosis",
+    "vertiginous",
+    "vertigo",
+    "vertu",
+    "vervain",
+    "verve",
+    "vervet",
+    "very",
+    "vesica",
+    "vesical",
+    "vesicant",
+    "vesicate",
+    "vesication",
+    "vesicatory",
+    "vesicle",
+    "vesicular",
+    "vesiculate",
+    "vesiculation",
+    "vesiculitis",
+    "vesiculovirus",
+    "vesper",
+    "vespers",
+    "vespertilionid",
+    "vespid",
+    "vessel",
+    "vest",
+    "vestal",
+    "vested",
+    "vestiary",
+    "vestibular",
+    "vestige",
+    "vestigial",
+    "vestiture",
+    "vestment",
+    "vestmental",
+    "vestmented",
+    "vestry",
+    "vestryman",
+    "vestrywoman",
+    "vesture",
+    "vesuvian",
+    "vesuvianite",
+    "vetch",
+    "vetchworm",
+    "veteran",
+    "veterinary",
+    "veto",
+    "vexation",
+    "vexatious",
+    "vexatiously",
+    "vexed",
+    "vexer",
+    "vexillology",
+    "vexing",
+    "viability",
+    "viable",
+    "viaduct",
+    "vial",
+    "viand",
+    "viands",
+    "viatical",
+    "viatication",
+    "viaticus",
+    "vibist",
+    "vicar",
+    "vicarage",
+    "vicarial",
+    "vicariate",
+    "vicarious",
+    "vicariously",
+    "vicarship",
+    "vice",
+    "vicegerent",
+    "vicenary",
+    "vicennial",
+    "viceregal",
+    "vicereine",
+    "viceroy",
+    "viceroyalty",
+    "viceroyship",
+    "vichyssoise",
+    "vicinal",
+    "vicinity",
+    "vicious",
+    "viciously",
+    "viciousness",
+    "vicissitude",
+    "victim",
+    "victimisation",
+    "victimise",
+    "victimiser",
+    "victimization",
+    "victimize",
+    "victimized",
+    "victimizer",
+    "victor",
+    "victorian",
+    "victorious",
+    "victoriously",
+    "victory",
+    "victual",
+    "victualer",
+    "victualler",
+    "victuals",
+    "vicuna",
+    "videlicet",
+    "video",
+    "videocassette",
+    "videodisc",
+    "videodisk",
+    "videotape",
+    "view",
+    "viewable",
+    "viewer",
+    "viewfinder",
+    "viewgraph",
+    "viewing",
+    "viewless",
+    "viewpoint",
+    "vigesimal",
+    "vigil",
+    "vigilance",
+    "vigilant",
+    "vigilante",
+    "vigilantism",
+    "vigilantly",
+    "vignette",
+    "vigor",
+    "vigorish",
+    "vigorous",
+    "vigorously",
+    "vigour",
+    "viii",
+    "vile",
+    "vilely",
+    "vileness",
+    "vilification",
+    "vilifier",
+    "vilify",
+    "vilipend",
+    "villa",
+    "village",
+    "villager",
+    "villain",
+    "villainage",
+    "villainess",
+    "villainous",
+    "villainousness",
+    "villainy",
+    "villein",
+    "villeinage",
+    "villoma",
+    "villus",
+    "vinaceous",
+    "vinaigrette",
+    "vincible",
+    "vindicate",
+    "vindicated",
+    "vindication",
+    "vindicator",
+    "vindicatory",
+    "vindictive",
+    "vindictively",
+    "vindictiveness",
+    "vine",
+    "vinegar",
+    "vinegariness",
+    "vinegarish",
+    "vinegarroon",
+    "vinegary",
+    "vinery",
+    "vineyard",
+    "viniculture",
+    "vinifera",
+    "vinification",
+    "vinify",
+    "vino",
+    "vinous",
+    "vintage",
+    "vintager",
+    "vintner",
+    "vinyl",
+    "viol",
+    "viola",
+    "violable",
+    "violate",
+    "violated",
+    "violation",
+    "violative",
+    "violator",
+    "violence",
+    "violent",
+    "violently",
+    "violet",
+    "violin",
+    "violinist",
+    "violist",
+    "violoncellist",
+    "violoncello",
+    "viosterol",
+    "viper",
+    "vipers",
+    "viraemia",
+    "virago",
+    "viral",
+    "viremia",
+    "vireo",
+    "virga",
+    "virgule",
+    "viricidal",
+    "viricide",
+    "viridity",
+    "virile",
+    "virilisation",
+    "virilise",
+    "virilism",
+    "virility",
+    "virilization",
+    "virilize",
+    "virino",
+    "virion",
+    "viroid",
+    "virological",
+    "virologist",
+    "virology",
+    "virtu",
+    "virtual",
+    "virtually",
+    "virtue",
+    "virtuosity",
+    "virtuoso",
+    "virtuous",
+    "virtuously",
+    "virtuousness",
+    "virucidal",
+    "virucide",
+    "virulence",
+    "virulency",
+    "virulent",
+    "virulently",
+    "virus",
+    "virusoid",
+    "visa",
+    "visage",
+    "visaged",
+    "viscacha",
+    "viscera",
+    "visceral",
+    "viscerally",
+    "viscid",
+    "viscidity",
+    "viscidly",
+    "viscidness",
+    "viscoelastic",
+    "viscometer",
+    "viscometric",
+    "viscometry",
+    "viscose",
+    "viscosimeter",
+    "viscosimetric",
+    "viscosimetry",
+    "viscosity",
+    "viscount",
+    "viscountcy",
+    "viscountess",
+    "viscounty",
+    "viscous",
+    "viscousness",
+    "viscus",
+    "vise",
+    "visibility",
+    "visible",
+    "visibleness",
+    "visibly",
+    "vision",
+    "visionary",
+    "visit",
+    "visitant",
+    "visitation",
+    "visiting",
+    "visitor",
+    "visor",
+    "visored",
+    "vista",
+    "visual",
+    "visualisation",
+    "visualise",
+    "visualised",
+    "visualiser",
+    "visualization",
+    "visualize",
+    "visualized",
+    "visualizer",
+    "visually",
+    "vital",
+    "vitalisation",
+    "vitalise",
+    "vitaliser",
+    "vitalism",
+    "vitalist",
+    "vitality",
+    "vitalization",
+    "vitalize",
+    "vitalizer",
+    "vitalizing",
+    "vitally",
+    "vitalness",
+    "vitals",
+    "vitamin",
+    "vitaminise",
+    "vitaminize",
+    "vitellus",
+    "vitiate",
+    "vitiated",
+    "vitiation",
+    "viticulture",
+    "viticulturist",
+    "vitiliginous",
+    "vitiligo",
+    "vitrectomy",
+    "vitreous",
+    "vitrification",
+    "vitrified",
+    "vitrify",
+    "vitrine",
+    "vitriol",
+    "vitriolic",
+    "vitriolically",
+    "vituperate",
+    "vituperation",
+    "vituperative",
+    "viva",
+    "vivace",
+    "vivacious",
+    "vivaciously",
+    "vivacity",
+    "vivarium",
+    "viverrine",
+    "vivid",
+    "vividly",
+    "vividness",
+    "vivification",
+    "vivify",
+    "viviparous",
+    "vivisect",
+    "vivisection",
+    "vivisectionist",
+    "vizier",
+    "viziership",
+    "vizor",
+    "vizsla",
+    "vlog",
+    "vocable",
+    "vocabulary",
+    "vocal",
+    "vocalic",
+    "vocalisation",
+    "vocalise",
+    "vocaliser",
+    "vocalism",
+    "vocalist",
+    "vocalization",
+    "vocalize",
+    "vocalizer",
+    "vocalizing",
+    "vocally",
+    "vocation",
+    "vocational",
+    "vocationally",
+    "vocative",
+    "vociferate",
+    "vociferation",
+    "vociferator",
+    "vociferous",
+    "vociferously",
+    "vodoun",
+    "vogue",
+    "voguish",
+    "voice",
+    "voiced",
+    "voiceless",
+    "voicelessness",
+    "voicemail",
+    "voiceprint",
+    "voicer",
+    "voicing",
+    "void",
+    "voidable",
+    "voidance",
+    "voider",
+    "voiding",
+    "voile",
+    "volant",
+    "volar",
+    "volary",
+    "volatile",
+    "volatilisable",
+    "volatilise",
+    "volatilised",
+    "volatility",
+    "volatilizable",
+    "volatilize",
+    "volatilized",
+    "volcanic",
+    "volcanically",
+    "volcanism",
+    "volcano",
+    "volcanology",
+    "vole",
+    "volition",
+    "volitional",
+    "volitionally",
+    "volley",
+    "volleyball",
+    "volt",
+    "voltage",
+    "voltaic",
+    "voltmeter",
+    "volubility",
+    "voluble",
+    "volubly",
+    "volume",
+    "volumed",
+    "volumeter",
+    "volumetric",
+    "volumetrical",
+    "volumetrically",
+    "voluminosity",
+    "voluminous",
+    "voluminousness",
+    "voluntarily",
+    "voluntary",
+    "volunteer",
+    "voluptuary",
+    "voluptuous",
+    "voluptuously",
+    "voluptuousness",
+    "volute",
+    "voluted",
+    "volution",
+    "volva",
+    "volvulus",
+    "vomer",
+    "voodoo",
+    "voodooism",
+    "voracious",
+    "voraciously",
+    "voraciousness",
+    "voracity",
+    "vortex",
+    "vorticella",
+    "votary",
+    "vote",
+    "voteless",
+    "voter",
+    "voting",
+    "votive",
+    "vouch",
+    "vouchee",
+    "voucher",
+    "vouchsafe",
+    "vouge",
+    "voussoir",
+    "vowel",
+    "vowelise",
+    "vowelize",
+    "vower",
+    "voyage",
+    "voyager",
+    "vroom",
+    "vulcanisation",
+    "vulcanise",
+    "vulcanised",
+    "vulcanite",
+    "vulcanization",
+    "vulcanize",
+    "vulcanized",
+    "vulcanizer",
+    "vulcanology",
+    "vulnerability",
+    "vulnerable",
+    "vulnerably",
+    "vulpecular",
+    "vulpine",
+    "vulture",
+    "vulturine",
+    "vulturous",
+    "vulvectomy",
+    "vulvitis",
+    "vulvovaginitis"
+]

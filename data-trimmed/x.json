@@ -1,368 +1,58 @@
-{
-    "xenophobic": {
-        "d": [
-            "suffering from xenophobia, or the fear of outsiders"
-        ]
-    },
-    "xanthous": {
-        "d": [
-            "of the color intermediate between green and orange in the color spectrum"
-        ]
-    },
-    "xxvii": {
-        "d": [
-            "being seven more than twenty"
-        ]
-    },
-    "xxviii": {
-        "d": [
-            "the Roman numeral for 28"
-        ]
-    },
-    "xxix": {
-        "d": [
-            "the Roman numeral for 29"
-        ]
-    },
-    "xxxi": {
-        "d": [
-            "thirty-one in Roman numerals"
-        ]
-    },
-    "xxxii": {
-        "d": [
-            "the Roman numeral for 32"
-        ]
-    },
-    "xxxiii": {
-        "d": [
-            "the Roman numeral for 33"
-        ]
-    },
-    "xiii": {
-        "d": [
-            "the Roman numeral for 13"
-        ]
-    },
-    "xxxiv": {
-        "d": [
-            "the Roman numeral for 34"
-        ]
-    },
-    "xxxv": {
-        "d": [
-            "the Roman numeral for 35"
-        ]
-    },
-    "xxxvi": {
-        "d": [
-            "the Roman numeral for 36"
-        ]
-    },
-    "xxxvii": {
-        "d": [
-            "the Roman numeral for 37"
-        ]
-    },
-    "xxxviii": {
-        "d": [
-            "the Roman numeral for 38"
-        ]
-    },
-    "xvii": {
-        "d": [
-            "the Roman numeral for 17"
-        ]
-    },
-    "xviii": {
-        "d": [
-            "the Roman numeral for 18"
-        ]
-    },
-    "xlii": {
-        "d": [
-            "the Roman numeral for 42"
-        ]
-    },
-    "xliii": {
-        "d": [
-            "the Roman numeral for 43"
-        ]
-    },
-    "xliv": {
-        "d": [
-            "the Roman numeral for 44"
-        ]
-    },
-    "xxii": {
-        "d": [
-            "the Roman numeral for 22"
-        ]
-    },
-    "xlvi": {
-        "d": [
-            "the Roman numeral for 46"
-        ]
-    },
-    "xlvii": {
-        "d": [
-            "the Roman numeral for 47"
-        ]
-    },
-    "xxiii": {
-        "d": [
-            "the Roman numeral for 23"
-        ]
-    },
-    "xlviii": {
-        "d": [
-            "the Roman numeral for 48"
-        ]
-    },
-    "xxiv": {
-        "d": [
-            "the Roman numeral for 24"
-        ]
-    },
-    "xxvi": {
-        "d": [
-            "the Roman numeral for 26"
-        ]
-    },
-    "xciii": {
-        "d": [
-            "the Roman numeral for 93"
-        ]
-    },
-    "xciv": {
-        "d": [
-            "nintey-four in Roman numerals"
-        ]
-    },
-    "xcvi": {
-        "d": [
-            "the Roman numeral for 96"
-        ]
-    },
-    "xcvii": {
-        "d": [
-            "the number 97 in Roman numerals"
-        ]
-    },
-    "xcviii": {
-        "d": [
-            "the Roman numeral for 98"
-        ]
-    },
-    "xeric": {
-        "d": [
-            "being deficient in moisture"
-        ]
-    },
-    "xerophytic": {
-        "d": [
-            "adapted to a dry environment"
-        ]
-    },
-    "xenogeneic": {
-        "d": [
-            "denoting or relating to cells or tissues from individuals belonging to different species"
-        ]
-    },
-    "xerographic": {
-        "d": [
-            "of or relating to copying paper or other items, aka xerography"
-        ]
-    },
-    "xerography": {
-        "d": [
-            "forming an image by the action of light on a specially coated charged plate"
-        ]
-    },
-    "xeroradiography": {
-        "d": [
-            "radiography using X-rays and xerographic techniques"
-        ]
-    },
-    "xenotransplant": {
-        "d": [
-            "a surgical procedure in which tissue or whole organs are transfered from one species to another species"
-        ]
-    },
-    "xenotransplantation": {
-        "d": [
-            "a surgical procedure in which tissue or whole organs are transfered from one species to another species"
-        ]
-    },
-    "xanthomonad": {
-        "d": [
-            "bacteria producing yellow non-water-soluble pigments"
-        ]
-    },
-    "xylophone": {
-        "d": [
-            "a percussion instrument with wooden bars tuned to produce a chromatic scale, with resonators to help with the sound quality"
-        ]
-    },
-    "Xerox": {
-        "d": [
-            "a duplicator (trade mark Xerox) that copies graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder"
-        ]
-    },
-    "xerox": {
-        "d": [
-            "a copy made by a xerographic printer",
-            "reproduce by xerography"
-        ]
-    },
-    "xenograft": {
-        "d": [
-            "tissue from an animal of one species used as a temporary graft, as in cases of severe burns, on an individual of another species"
-        ]
-    },
-    "xenolith": {
-        "d": [
-            "a piece of rock of different origin from the igneous rock in which it is embedded"
-        ]
-    },
-    "xylophonist": {
-        "d": [
-            "someone who plays a xylophone"
-        ]
-    },
-    "xenogenesis": {
-        "d": [
-            "the production of offspring that is distinct from either parent"
-        ]
-    },
-    "xerophyte": {
-        "d": [
-            "plant adapted for life with a limited supply of water"
-        ]
-    },
-    "xerophile": {
-        "d": [
-            "plant adapted for life with a limited supply of water"
-        ]
-    },
-    "xylem": {
-        "d": [
-            "the woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels"
-        ]
-    },
-    "xanthelasma": {
-        "d": [
-            "xanthoma of the eyelids"
-        ]
-    },
-    "xanthoma": {
-        "d": [
-            "a skin problem marked by the development of irregular yellow nodules on the eyelids, neck and back"
-        ]
-    },
-    "xanthomatosis": {
-        "d": [
-            "widespread xanthomas (especially on elbows and knees)"
-        ]
-    },
-    "xanthosis": {
-        "d": [
-            "an abnormal yellow discoloration of the skin"
-        ]
-    },
-    "xenophobia": {
-        "d": [
-            "a fear of foreigners or strangers"
-        ]
-    },
-    "xanthopsia": {
-        "d": [
-            "visual defect in which objects appear to have a yellowish hue"
-        ]
-    },
-    "xerotes": {
-        "d": [
-            "the condition of not containing or being covered by a liquid, especially water"
-        ]
-    },
-    "xeroderma": {
-        "d": [
-            "a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin"
-        ]
-    },
-    "xerodermia": {
-        "d": [
-            "a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin"
-        ]
-    },
-    "xerophthalmia": {
-        "d": [
-            "abnormal dryness of the conjunctiva and cornea of the eyes"
-        ]
-    },
-    "xerophthalmus": {
-        "d": [
-            "abnormal dryness of the conjunctiva and cornea of the eyes"
-        ]
-    },
-    "xeroma": {
-        "d": [
-            "abnormal dryness of the conjunctiva and cornea of the eyes"
-        ]
-    },
-    "xerostomia": {
-        "d": [
-            "abnormal dryness of the mouth resulting from decreased secretion of saliva"
-        ]
-    },
-    "xanthemia": {
-        "d": [
-            "excess carotene in the blood stream"
-        ]
-    },
-    "xenon": {
-        "d": [
-            "a colorless, odorless, inert gaseous element occurring in the earth's atmosphere in trace amounts"
-        ]
-    },
-    "xanthophyll": {
-        "d": [
-            "yellow carotenoid pigments in plants and animal fats and egg yolks"
-        ]
-    },
-    "xanthophyl": {
-        "d": [
-            "yellow carotenoid pigments in plants and animal fats and egg yolks"
-        ]
-    },
-    "xanthate": {
-        "d": [
-            "a salt or ester of xanthic acid"
-        ]
-    },
-    "xanthine": {
-        "d": [
-            "crystalline oxidation product of the metabolism of nucleoproteins"
-        ]
-    },
-    "xylose": {
-        "d": [
-            "a sugar extracted from wood or straw"
-        ]
-    },
-    "xenotime": {
-        "d": [
-            "a brown-to-yellow mineral that is a phosphate of yttrium in crystalline form"
-        ]
-    },
-    "xylene": {
-        "d": [
-            "a colorless flammable volatile liquid hydrocarbon used as a solvent"
-        ]
-    },
-    "xylol": {
-        "d": [
-            "a colorless flammable volatile liquid hydrocarbon used as a solvent"
-        ]
-    }
-}
+[
+    "xanthate",
+    "xanthelasma",
+    "xanthemia",
+    "xanthine",
+    "xanthoma",
+    "xanthomatosis",
+    "xanthophyl",
+    "xanthophyll",
+    "xanthopsia",
+    "xanthosis",
+    "xanthous",
+    "xciii",
+    "xciv",
+    "xcvi",
+    "xcvii",
+    "xcviii",
+    "xenogeneic",
+    "xenogenesis",
+    "xenograft",
+    "xenolith",
+    "xenon",
+    "xenophobia",
+    "xenophobic",
+    "xenotime",
+    "xenotransplant",
+    "xenotransplantation",
+    "xeric",
+    "xeroderma",
+    "xerodermia",
+    "xerographic",
+    "xerography",
+    "xeroma",
+    "xerophile",
+    "xerophthalmia",
+    "xerophthalmus",
+    "xerophyte",
+    "xerophytic",
+    "xeroradiography",
+    "xerostomia",
+    "xerotes",
+    "xerox",
+    "xiii",
+    "xlii",
+    "xliii",
+    "xliv",
+    "xlvi",
+    "xlvii",
+    "xlviii",
+    "xvii",
+    "xviii",
+    "xylem",
+    "xylene",
+    "xylol",
+    "xylophone",
+    "xylophonist",
+    "xylose"
+]
