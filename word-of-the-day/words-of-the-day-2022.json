@@ -1,369 +1,1470 @@
-{
-    "reasonably": "to a moderately sufficient extent or degree",
-    "hydrazine": "a colorless fuming corrosive liquid",
-    "chaotically": "in a manner suggestive of chaos",
-    "buffoon": "a person who amuses others by ridiculous behavior",
-    "construct": "an abstract or general idea inferred or derived from specific instances",
-    "basalt": "the commonest type of solidified lava",
-    "jamming": "deliberate radiation or reflection of electromagnetic energy for the purpose of disrupting enemy use of electronic devices or systems",
-    "immortalize": "make famous forever",
-    "burglarise": "to commit a burglary",
-    "ictus": "a sudden occurrence (or recurrence) of a disease",
-    "intrinsic": "situated within or belonging solely to the organ or body part on which it acts",
-    "covariant": "changing so that interrelations with another variable quantity or set of quantities remain unchanged",
-    "branchial": "of or relating to gills (or to parts of the body derived from embryonic gills)",
-    "atheistic": "rejecting any belief in gods",
-    "detersive": "having cleansing power",
-    "acronymous": "characterized by the use of acronyms",
-    "benthos": "organisms (plants and animals) that live at or near the bottom of a sea",
-    "budge": "to move very slightly",
-    "blackwater": "any of several human or animal diseases characterized by dark urine resulting from rapid breakdown of red blood cells",
-    "cease": "(`cease' is a noun only in the phrase `without cease') end",
-    "hinge": "a joint that holds two parts together so that one can swing relative to the other",
-    "inflame": "become inflamed",
-    "inclementness": "weather unsuitable for outdoor activities",
-    "install": "set up for use",
-    "ingest": "take up mentally",
-    "anaclisis": "relationship marked by strong dependence on others",
-    "haft": "the handle of a weapon or tool",
-    "boodle": "a gambling card game in which chips are placed on the ace and king and queen and jack of separate suits (taken from a separate deck)",
-    "binocular": "relating to both eyes",
-    "jaunty": "having a cheerful, lively, and self-confident air",
-    "intravasation": "entry of foreign matter into a blood vessel",
-    "hyperalimentation": "administration of a nutritionally adequate solution through a catheter into the vena cava",
-    "carburise": "to unite with carbon",
-    "coda": "the closing section of a musical composition",
-    "crystallography": "the branch of science that studies the formation and structure of crystals",
-    "bronchiolitis": "inflammation of the membranes lining the bronchioles",
-    "briskly": "in a brisk manner",
-    "breeches": "trousers ending above the knee",
-    "cosmetician": "someone who works in a beauty parlor",
-    "bedspring": "(usually plural) one of the springs holding up the mattress of a bed",
-    "handsaw": "a saw used with one hand for cutting wood",
-    "isoproterenol": "drug (trade name Isuprel) used to treat bronchial asthma and to stimulate the heart",
-    "improvize": "perform without preparation",
-    "anguine": "of or related to or resembling a snake",
-    "beseech": "to ask for or request earnestly",
-    "inquietude": "feelings of anxiety that make you tense and irritable",
-    "huffing": "an act of forcible exhalation",
-    "antistrophic": "of or relating to an antistrophe",
-    "birefringent": "relating to or characterized by double refraction",
-    "inhale": "to draw in air",
-    "calcite": "a common mineral consisting of crystallized calcium carbonate",
-    "harassed": "troubled persistently especially with petty annoyances",
-    "caramelize": "to convert to caramel",
-    "bulge": "something that bulges out or is protuberant or projects from its surroundings",
-    "hitch": "the uneven manner of walking that results from an injured leg",
-    "hadrosaurus": "any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill and webbed feet",
-    "harmonization": "singing in harmony",
-    "index": "the finger next to the thumb",
-    "balsamic": "of or relating to or containing balsam",
-    "bankruptcy": "a legal process intended to insure equality among the creditors of a corporation declared to be insolvent",
-    "intone": "recite with musical intonation",
-    "indene": "a colorless liquid hydrocarbon extracted from petroleum or coal tar and used in making synthetic resins",
-    "clod": "a compact mass",
-    "harm": "the act of damaging something or someone",
-    "augmentative": "intensifying by augmentation and enhancement",
-    "boliviano": "the basic unit of money in Bolivia",
-    "interoception": "sensitivity to stimuli originating inside of the body",
-    "bout": "an occasion for excessive eating or drinking",
-    "knower": "a person who knows or apprehends",
-    "bocce": "Italian bowling played on a long narrow dirt court",
-    "besiege": "to harass, as with questions or requests",
-    "jobless": "not having a job",
-    "commercialise": "to make commercial",
-    "birken": "consisting of or made of wood of the birch tree",
-    "banjo": "a stringed instrument of the guitar family that has long neck and circular body",
-    "impracticality": "concerned with theoretical possibilities rather than actual use",
-    "geophysicist": "a geologist who uses physical principles to study the properties of the earth",
-    "heliometer": "an instrument used to measure the angular separation of two stars that are too far apart to be included in the field of view of an ordinary telescope",
-    "buna": "made by polymerizing butadiene",
-    "lamellibranch": "bivalve",
-    "buttonhole": "a hole through which buttons are pushed",
-    "gangster": "a criminal who is a member of gang",
-    "implicitness": "inexplicitness as a consequence of being implied or indirect",
-    "illogicalness": "invalid or incorrect reasoning",
-    "grog": "rum cut with water",
-    "gruel": "a thin porridge (usually oatmeal or cornmeal)",
-    "gynarchy": "a political system governed by a woman",
-    "become": "to enter or assume a certain state or condition",
-    "ineffectiveness": "lacking the power to be effective",
-    "internalisation": "learning (of values or attitudes etc.) that is incorporated within yourself",
-    "aloft": "in the higher atmosphere above the earth",
-    "attritional": "relating to or caused by attrition",
-    "tenderizer": "a substance applied to meat to make it tender",
-    "overburdened": "heavily burdened with work or cares",
-    "ponderous": "having great mass and weight and unwieldiness",
-    "pyrexia": "a rise in the temperature of the body",
-    "mycosis": "an inflammatory condition caused by a fungus",
-    "nacelle": "a streamlined enclosure for an aircraft engine",
-    "garroter": "someone who kills by strangling",
-    "pastille": "a medicated lozenge used to soothe the throat",
-    "authorial": "of or by or typical of an author",
-    "ambitionless": "having little desire for success or achievement",
-    "agential": "of or relating to an agent or agency",
-    "linecut": "engraving consisting of a block that has been etched or engraved",
-    "moorgame": "reddish-brown grouse of upland moors of Great Britain",
-    "nosecount": "a periodic count of the population",
-    "neuropsychiatry": "the branch of medicine dealing with mental disorders attributable to diseases of the nervous system",
-    "guardian": "a person who cares for persons or property",
-    "abaxial": "facing away from the axis of an organ or organism",
-    "interstratify": "arrange rocks in alternating strata",
-    "pimozide": "the most commonly used diphenylbutyl piperidine",
-    "iconolatry": "the worship of sacred images",
-    "macrocyte": "abnormally large red blood cell (associated with pernicious anemia)",
-    "autocratically": "in an autocratic manner",
-    "mafia": "any tightly knit group of trusted associates",
-    "pollyfish": "gaudy tropical fishes with parrotlike beaks formed by fusion of teeth",
-    "netherworld": "(religion) the world of the dead",
-    "idyl": "a short poem descriptive of rural or pastoral life",
-    "nonlethal": "not capable of causing death",
-    "punctureless": "being without punctures or incapable of being punctured",
-    "intangibleness": "the quality of being intangible and not perceptible by touch",
-    "nagging": "continually complaining or faultfinding",
-    "palmyra": "tall fan palm of Africa and India and Malaysia yielding a hard wood and sweet sap that is a source of palm wine and sugar",
-    "imprisonment": "the act of confining someone in a prison (or as if in a prison)",
-    "butyl": "a hydrocarbon radical (C4H9)",
-    "monodic": "having a single vocal part",
-    "planetesimal": "one of many small solid celestial bodies thought to have existed at an early stage in the development of the solar system",
-    "prayer": "the act of communicating with a deity, especially as a petition or in adoration or contrition or thanksgiving",
-    "nattiness": "stylishness as evidenced by a smart appearance",
-    "haemoproteid": "related to malaria parasite and having a phase in the viscera of various birds",
-    "peroneus": "muscle of the lower leg that is involved in moving the foot",
-    "isometry": "equality of measure (e.g., equality of height above sea level or equality of loudness etc.)",
-    "aortic": "of or relating to the aorta",
-    "papillary": "of or relating to or resembling papilla",
-    "buddleia": "tropical shrub having clusters of white or violet or yellow flowers",
-    "profligate": "unrestrained by convention or morality",
-    "busyness": "the state of being or appearing to be actively engaged in an activity",
-    "private": "not expressed",
-    "puerperal": "relating to or connected with or occurring at the time of childbirth or shortly following, or to the woman who has just given birth",
-    "penitential": "showing or constituting penance",
-    "porc": "meat from a domestic hog or pig",
-    "hemic": "relating to or containing or affecting blood",
-    "loop": "a flight maneuver",
-    "kinaesthesia": "the perception of body position and and movement based on input received by sensory organs in the muscles and joints",
-    "cone": "any cone-shaped artifact",
-    "martyr": "one who suffers for the sake of principle",
-    "perceiver": "a person who becomes aware (of things or events) through the senses",
-    "menial": "used of unskilled work (especially domestic work)",
-    "cardiologic": "of or relating to or used in or practicing cardiology",
-    "anthrax": "a disease of humans that is not communicable",
-    "realist": "a philosopher who believes that universals are real and exist independently of anyone thinking of them",
-    "interlard": "introduce one's writing or speech with certain expressions",
-    "keratoscope": "a medical instrument to examine the cornea in order to detect irregularities in its anterior surface",
-    "chough": "a European corvine bird of small or medium size with red legs and glossy black plumage",
-    "asbestos": "a fibrous amphibole",
-    "prostrate": "stretched out and lying at full length along the ground",
-    "medivac": "the evacuation of persons (usually by air transportation) to a place where they can receive medical care",
-    "collection": "the act of gathering something together",
-    "napped": "(of fabrics) having soft nap produced by brushing",
-    "monition": "a summons issued after the filing of a libel or claim directing all parties concerned to show cause why the judgment asked for should not be granted",
-    "milldam": "dam to make a millpond to provide power for a water mill",
-    "platinise": "coat with metallic platinum",
-    "ghoul": "an evil spirit or ghost",
-    "immunocompetence": "the ability to develop an immune response following exposure to an antigen",
-    "nostrum": "patent medicine whose efficacy is questionable",
-    "packaged": "enclosed in a package or protective covering",
-    "irritant": "something that causes irritation and annoyance",
-    "percher": "a bird with feet adapted for perching (as on tree branches)",
-    "nonfunctional": "not having or performing a function",
-    "cystic": "of or relating to or resembling a cyst",
-    "partial": "being or affecting only a part",
-    "poultry": "a domesticated gallinaceous bird thought to be descended from the red jungle fowl",
-    "lxxxiv": "being four more than eighty",
-    "alphabetically": "in alphabetical order",
-    "hugging": "affectionate play (or foreplay without contact with the genital organs)",
-    "kitchenette": "a small kitchen",
-    "resiny": "having the characteristics of pitch or tar",
-    "multitudinousness": "a very large number (especially of people)",
-    "rickety": "lacking bodily or muscular strength or vitality",
-    "reform": "a change for the better as a result of correcting abuses",
-    "majorette": "a female drum major",
-    "philatelist": "a collector and student of postage stamps",
-    "counterinsurgency": "actions taken by a government to defeat insurgency",
-    "militia": "civilians trained as soldiers but not part of the regular army",
-    "inessentiality": "not of basic importance",
-    "barbarisation": "an act that makes people primitive and uncivilized",
-    "devilish": "in a playfully devilish manner",
-    "precipitant": "done with very great haste and without due deliberation",
-    "anecdotic": "characterized by or given to telling anecdotes",
-    "gladiator": "in ancient Rome, a professional combatant or a captive who entertained the public by engaging in mortal combat",
-    "nurture": "helping someone grow up to be an accepted member of the community",
-    "biaxial": "having two axes",
-    "nonexempt": "(of persons) not exempt from an obligation or liability",
-    "nonrestrictive": "not limiting the reference of a modified word or phrase",
-    "cymbidium": "any of various plants of the genus Cymbidium having narrow leaves and a long drooping cluster of numerous showy and variously colored boat-shaped flowers",
-    "pepperwood": "Pacific coast tree having aromatic foliage and small umbellate flowers followed by olivelike fruit",
-    "pixy": "fairies that are somewhat mischievous",
-    "collogue": "to confer secretly",
-    "helve": "the handle of a weapon or tool",
-    "kayak": "a small canoe consisting of a light frame made watertight with animal skins",
-    "bayberry": "deciduous aromatic shrub of eastern North America with grey-green wax-coated berries",
-    "blitz": "a swift and violent military offensive with intensive aerial bombardment",
-    "putrescent": "becoming putrid",
-    "arak": "any of various strong liquors distilled from the fermented sap of toddy palms or from fermented molasses",
-    "falcon": "diurnal birds of prey having long pointed powerful wings adapted for swift flight",
-    "aversive": "tending to repel or dissuade",
-    "buckeye": "tree having palmate leaves and large clusters of white to red flowers followed by brown shiny inedible seeds",
-    "misstatement": "a statement that contains a mistake",
-    "eighty": "being ten more than seventy",
-    "appetite": "a feeling of craving something",
-    "enclosure": "the act of enclosing something inside something else",
-    "pone": "cornbread often made without milk or eggs and baked or fried (southern)",
-    "psychotherapeutic": "emotionally purging",
-    "pepperidge": "columnar tree of eastern North America having horizontal limbs and small leaves that emerge late in spring and have brilliant color in early fall",
-    "newspapering": "journalism practiced for the newspapers",
-    "navigation": "the work of a sailor",
-    "amebous": "pertaining to or resembling amoebae",
-    "prompt": "performed with little or no delay",
-    "procyonid": "plantigrade carnivorous mammals",
-    "modernisation": "making modern in appearance or behavior",
-    "postganglionic": "beyond or distal to a ganglion, referring especially to the unmyelinated fibers that originate from cells in autonomic ganglia",
-    "conditionality": "the state of being conditional",
-    "nonflowering": "without flower or bloom and not producing seeds",
-    "cronk": "to cry like a goose",
-    "postilion": "someone who rides the near horse of a pair in order to guide the horses pulling a carriage (especially a carriage without a coachman)",
-    "nonaged": "not of legal age",
-    "prankster": "someone who plays practical jokes on others",
-    "necker": "a lover who necks",
-    "embolus": "an abnormal particle (e.g. an air bubble or part of a clot) circulating in the blood",
-    "autoimmune": "of or relating to the immune response of the body against substance normally present in the body",
-    "nonenterprising": "lacking in enterprise",
-    "ethmoid": "one of the eight bones of the cranium",
-    "meteorite": "stony or metallic object that is the remains of a meteoroid that has reached the earth's surface",
-    "anxiety": "a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune",
-    "phony": "fraudulent",
-    "morphology": "the branch of biology that deals with the structure of animals and plants",
-    "algarroba": "mesquite of Gulf Coast and Caribbean Islands from Mexico to Venezuela",
-    "bignoniad": "any woody plant of the family Bignoniaceae",
-    "predetermination": "the act of determining or ordaining in advance what is to take place",
-    "reissue": "a publication (such as a book) that is reprinted without changes or editing and offered again for sale",
-    "northwest": "to, toward, or in the northwest",
-    "mincemeat": "spiced mixture of chopped raisins and apples and other ingredients with or without meat",
-    "plebe": "a military trainee (as at a military academy)",
-    "electrologist": "someone skilled in the use of electricity to remove moles or warts or hair roots",
-    "meteorological": "of or pertaining to atmospheric phenomena, especially weather and weather conditions",
-    "paternalistic": "benevolent but sometimes intrusive",
-    "madrasa": "Muslim schools in Bangladesh and Pakistan",
-    "passant": "in walking position with right foreleg raised",
-    "penpusher": "a clerk who does boring paperwork",
-    "peafowl": "very large terrestrial southeast Asian pheasant often raised as an ornamental bird",
-    "consumer": "a person who uses goods or services",
-    "pfannkuchen": "puffy mildly sweet lemon-flavored egg mixture sprinkled with confectioners' sugar and served with jam or a wine or fruit sauce",
-    "fossil": "characteristic of a fossil",
-    "missive": "a written message addressed to a person or organization",
-    "exit": "the act of going out",
-    "mnemotechnical": "of or relating to or involved the practice of aiding the memory",
-    "pachycephalosaurus": "bipedal herbivore having 10 inches of bone atop its head",
-    "pleader": "a lawyer who pleads cases in court",
-    "bark": "a sailing ship with 3 (or more) masts",
-    "pasta": "shaped and dried dough made from flour and water and sometimes egg",
-    "canon": "a collection of books accepted as holy scripture especially the books of the Bible recognized by any Christian church as genuine and inspired",
-    "muteness": "a refusal to speak when expected",
-    "privation": "act of depriving someone of food or money or rights",
-    "certify": "to provide evidence for",
-    "pyrrhuloxia": "crested grey-and-red bird of southwest United States and Mexico",
-    "expectable": "to be expected",
-    "cryptographical": "of or relating to cryptanalysis",
-    "encephalitis": "inflammation of the brain usually caused by a virus",
-    "metagrobolised": "totally perplexed and mixed up",
-    "interbreeding": "reproduction by parents of different races (especially by white and non-white persons)",
-    "offshoot": "a natural consequence of development",
-    "perennial": "recurring again and again",
-    "disencumber": "release from entanglement of difficulty",
-    "palas": "East Indian tree bearing a profusion of intense vermilion velvet-textured blooms and yielding a yellow dye",
-    "admiration": "a favorable judgment",
-    "judicious": "marked by the exercise of good judgment or common sense in practical matters",
-    "christen": "to administer baptism to",
-    "crispen": "to make brown and crisp by heating",
-    "catostomid": "a cypriniform fish of the family Catostomidae",
-    "imagery": "the ability to form mental images of things or events",
-    "overcrop": "to exhaust by excessive cultivation",
-    "frizzly": "(of hair) in small tight curls",
-    "cecropia": "North American silkworm moth",
-    "acanthocephalan": "any of various worms living parasitically in intestines of vertebrates having a retractile proboscis covered with many hooked spines",
-    "electronegative": "having a negative charge",
-    "myopic": "lacking foresight or scope",
-    "millennian": "relating to a millennium or span of a thousand years",
-    "agenesis": "imperfect development",
-    "okeh": "in a satisfactory or adequate manner",
-    "granddaddy": "the father of your father or mother",
-    "nineteenth": "coming next after the eighteenth in position",
-    "flinty": "showing unfeeling resistance to tender feelings",
-    "ridiculousness": "a message whose content is at variance with reason",
-    "pothos": "evergreen liana widely cultivated for its variegated foliage",
-    "endotoxin": "a toxin that is confined inside the microorganisms and is released only when the microorganisms are broken down or die",
-    "must": "highly recommended",
-    "moderatism": "a political philosophy of avoiding the extremes of left and right by taking a moderate position or course of action",
-    "festal": "offering fun and gaiety",
-    "regulator": "a control that maintains a steady speed in a machine (as by controlling the supply of fuel)",
-    "nondeductible": "not allowable as a deduction",
-    "camise": "a loose shirt or tunic",
-    "prothorax": "the anterior part of an insect's thorax",
-    "colonnade": "a structure composed of a series of arches supported by columns",
-    "chrysarobin": "a bitter yellow powder used to treat skin diseases",
-    "medicolegal": "pertaining to legal aspects of the practice of medicine (as malpractice or patient consent for operations or patient information)",
-    "monarchy": "an autocracy governed by a monarch who usually inherits the authority",
-    "backbiter": "one who attacks the reputation of another by slander or libel",
-    "quickset": "grown from cuttings planted directly in the ground",
-    "cognise": "to be cognizant or aware of a fact or a specific piece of information",
-    "coelacanth": "fish thought to have been extinct since the Cretaceous period but found in 1938 off the coast of Africa",
-    "emollient": "having a softening or soothing effect especially to the skin",
-    "disclaim": "to indicate lack of responsibility and giving caution",
-    "frore": "very cold",
-    "gramps": "the father of your father or mother",
-    "molal": "designating a solution containing one mole of solute per kilogram of solvent",
-    "proprionamide": "the amide of propionic acid (C2H5CONH2)",
-    "ahorse": "on the back of a horse",
-    "buckthorn": "an Old World plantain with long narrow ribbed leaves widely established in temperate regions",
-    "multifarious": "having many aspects",
-    "characterise": "to describe or portray the character or the qualities or peculiarities of",
-    "gerontocracy": "a political system governed by old men",
-    "enterprisingness": "readiness to embark on bold new ventures",
-    "paella": "saffron-flavored dish made of rice with shellfish and chicken",
-    "misquote": "an incorrect quotation",
-    "osteopetrosis": "an inherited disorder characterized by an increase in bone density",
-    "reminiscence": "the process of remembering (especially the process of recovering information by mental effort)",
-    "milliammeter": "a sensitive ammeter graduated in milliamperes",
-    "allopurinol": "a drug (trade name Zyloprim) used to treat gout and other conditions in which there is an excessive buildup of uric acid",
-    "ensile": "to store in a silo",
-    "culinary": "of or relating to or used in cooking",
-    "maximizing": "making as great as possible",
-    "misappropriation": "wrongful borrowing",
-    "marching": "the act of marching",
-    "maturational": "relating to or involved in maturation",
-    "incarnation": "the act of attributing human characteristics to abstract ideas etc.",
-    "pneumonic": "relating to or affecting the lungs",
-    "naphthoquinone": "a fat-soluble vitamin that helps in the clotting of blood",
-    "elasticised": "made with strands or inserts of elastic",
-    "plastinate": "preserve organic materials with plastics, as for teaching and research purposes",
-    "fatty": "containing or composed of fat",
-    "aerodrome": "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo",
-    "maceration": "extreme leanness (usually caused by starvation or disease)",
-    "cuddling": "affectionate play (or foreplay without contact with the genital organs)",
-    "nonprotractile": "not extensile",
-    "robotic": "resembling the unthinking functioning of a machine",
-    "precipitating": "bringing on suddenly or abruptly",
-    "almandine": "a deep red garnet consisting of iron aluminum silicate",
-    "psycholinguistic": "of or relating to the psychology of language",
-    "exteriorization": "embodying in an outward form",
-    "enucleation": "surgical removal of something without cutting into it",
-    "nonintervention": "a foreign policy of staying out of other countries' disputes",
-    "perambulation": "a leisurely walk (usually in some public place)",
-    "nectariferous": "possessing nectaries",
-    "algebraic": "of or relating to algebra",
-    "plunker": "(baseball) hitting a baseball so that it drops suddenly",
-    "abstractedly": "in an absentminded or preoccupied manner",
-    "equaliser": "a weight that balances another weight",
-    "leechee": "Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed",
-    "knout": "a whip with a lash of leather thongs twisted with wire",
-    "hurry": "the act of moving hurriedly and in a careless manner",
-    "newsbreak": "a short news announcement concerning some on-going news story",
-    "philodendron": "often grown as a houseplant",
-    "purgation": "the act of clearing yourself (or another) from some stigma or charge",
-    "punitive": "inflicting punishment",
-    "florid": "inclined to a healthy reddish color often associated with outdoor life",
-    "leprous": "relating to or resembling or having leprosy",
-    "impalpability": "the quality of being intangible and not perceptible by touch"
-}
+[
+    {
+        "word": "fancier",
+        "def": "a person having a strong liking for something"
+    },
+    {
+        "word": "spinnable",
+        "def": "capable of being spun into fibres"
+    },
+    {
+        "word": "absorbent",
+        "def": "having power or capacity or tendency to absorb or soak up something (liquids or energy etc.)"
+    },
+    {
+        "word": "barbasco",
+        "def": "West Indian shrub or small tree having leathery saponaceous leaves and extremely hard wood"
+    },
+    {
+        "word": "biogeographical",
+        "def": "of or relating to or involved with biogeography"
+    },
+    {
+        "word": "anticoagulation",
+        "def": "the administration of an anticoagulant drug to retard coagulation of the blood"
+    },
+    {
+        "word": "adjudication",
+        "def": "the final judgment in a legal proceeding"
+    },
+    {
+        "word": "anguine",
+        "def": "of or related to or resembling a snake"
+    },
+    {
+        "word": "connivance",
+        "def": "(law) tacit approval of someone's wrongdoing"
+    },
+    {
+        "word": "brushed",
+        "def": "(of fabrics) having soft nap produced by brushing"
+    },
+    {
+        "word": "blinking",
+        "def": "informal intensifiers"
+    },
+    {
+        "word": "attention",
+        "def": "the work of providing treatment for or attending to someone or something"
+    },
+    {
+        "word": "bilious",
+        "def": "irritable as if suffering from indigestion"
+    },
+    {
+        "word": "cure",
+        "def": "a medicine or therapy that cures disease or relieve pain"
+    },
+    {
+        "word": "bloodguilty",
+        "def": "guilty of murder or bloodshed"
+    },
+    {
+        "word": "contraceptive",
+        "def": "capable of preventing conception or impregnation"
+    },
+    {
+        "word": "acrocarp",
+        "def": "a moss in which the main axis is terminated by the archegonium (and hence the capsule)"
+    },
+    {
+        "word": "camera",
+        "def": "equipment for taking photographs "
+    },
+    {
+        "word": "bovine",
+        "def": "dull and slow-moving and stolid"
+    },
+    {
+        "word": "beetling",
+        "def": "jutting or overhanging"
+    },
+    {
+        "word": "complainingly",
+        "def": "with complaints"
+    },
+    {
+        "word": "archaeozoic",
+        "def": "of or belonging to earlier of two divisions of the Precambrian era"
+    },
+    {
+        "word": "bromidic",
+        "def": "dull and tiresome but with pretensions of significance or originality"
+    },
+    {
+        "word": "archaeornis",
+        "def": "extinct primitive toothed bird with a long feathered tail and three free clawed digits on each wing"
+    },
+    {
+        "word": "congress",
+        "def": "the act of sexual procreation between a man and a woman"
+    },
+    {
+        "word": "butat",
+        "def": "100 bututs equal 1 dalasi in Gambia"
+    },
+    {
+        "word": "apatosaur",
+        "def": "huge quadrupedal herbivorous dinosaur common in North America in the late Jurassic"
+    },
+    {
+        "word": "biodegradable",
+        "def": "capable of being decomposed by e.g. bacteria"
+    },
+    {
+        "word": "belabor",
+        "def": "to attack verbally with harsh criticism"
+    },
+    {
+        "word": "collet",
+        "def": "a band or collar that holds an individual stone in a jewelry setting"
+    },
+    {
+        "word": "bypast",
+        "def": "well in the past"
+    },
+    {
+        "word": "brachium",
+        "def": "(biology) a branching or armlike part of an animal"
+    },
+    {
+        "word": "baffled",
+        "def": "perplexed by many conflicting situations or statements"
+    },
+    {
+        "word": "crampon",
+        "def": "an iron spike attached to the shoe to prevent slipping on ice when walking or climbing"
+    },
+    {
+        "word": "bossy",
+        "def": "offensively self-assured or given to exercising usually unwarranted power"
+    },
+    {
+        "word": "compartment",
+        "def": "a partitioned section, chamber, or separate room within a larger enclosed area"
+    },
+    {
+        "word": "aglitter",
+        "def": "having brief brilliant points or flashes of light"
+    },
+    {
+        "word": "baronial",
+        "def": "impressive in appearance"
+    },
+    {
+        "word": "aeroembolism",
+        "def": "pain resulting from rapid change in pressure"
+    },
+    {
+        "word": "bedimmed",
+        "def": "made dim or indistinct"
+    },
+    {
+        "word": "aglet",
+        "def": "ornamental tagged cord or braid on the shoulder of a uniform"
+    },
+    {
+        "word": "contumeliously",
+        "def": "without respect"
+    },
+    {
+        "word": "blob",
+        "def": "an indistinct shapeless form"
+    },
+    {
+        "word": "cosmotron",
+        "def": "a large proton synchrotron"
+    },
+    {
+        "word": "admission",
+        "def": "the act of admitting someone to enter"
+    },
+    {
+        "word": "backcross",
+        "def": "to mate a hybrid of the first generation with one of its parents"
+    },
+    {
+        "word": "aecium",
+        "def": "fruiting body of some rust fungi bearing chains of aeciospores"
+    },
+    {
+        "word": "beguiling",
+        "def": "misleading by means of pleasant or alluring methods"
+    },
+    {
+        "word": "acerbity",
+        "def": "a rough and bitter manner"
+    },
+    {
+        "word": "commissary",
+        "def": "a retail store that sells equipment and provisions (usually to military personnel)"
+    },
+    {
+        "word": "aorist",
+        "def": "a verb tense in some languages (classical Greek and Sanskrit) expressing action (especially past action) without indicating its completion or continuation"
+    },
+    {
+        "word": "abrocome",
+        "def": "ratlike rodent with soft fur and large ears of the Andes"
+    },
+    {
+        "word": "barrowful",
+        "def": "the quantity that a barrow will hold"
+    },
+    {
+        "word": "collage",
+        "def": "a paste-up made by sticking together pieces of paper or photographs to form an artistic image"
+    },
+    {
+        "word": "adumbrative",
+        "def": "indistinctly prophetic"
+    },
+    {
+        "word": "bituminise",
+        "def": "to treat with bitumen"
+    },
+    {
+        "word": "botulism",
+        "def": "food poisoning from ingesting botulin"
+    },
+    {
+        "word": "countermove",
+        "def": "an attack by a defending force against an attacking enemy force in order to regain lost ground or cut off enemy advance units etc."
+    },
+    {
+        "word": "chart",
+        "def": "a map designed to assist navigation by air or sea"
+    },
+    {
+        "word": "bimillenary",
+        "def": "a span of 2000 years"
+    },
+    {
+        "word": "butene",
+        "def": "any of three isomeric hydrocarbons C4H8"
+    },
+    {
+        "word": "cookfire",
+        "def": "a fire for cooking"
+    },
+    {
+        "word": "brimstone",
+        "def": "an old name for sulfur"
+    },
+    {
+        "word": "bootlick",
+        "def": "to try to gain favor by cringing or flattering"
+    },
+    {
+        "word": "clothespress",
+        "def": "a closet where clothes are stored"
+    },
+    {
+        "word": "ammoniacal",
+        "def": "pertaining to or containing or similar to ammonia"
+    },
+    {
+        "word": "buckram",
+        "def": "rigidly formal"
+    },
+    {
+        "word": "brabble",
+        "def": "to argue over petty things"
+    },
+    {
+        "word": "bimotored",
+        "def": "having two motors"
+    },
+    {
+        "word": "chamberpot",
+        "def": "a receptacle for urination or defecation in the bedroom"
+    },
+    {
+        "word": "cannonball",
+        "def": "a solid projectile that in former times was fired from a cannon"
+    },
+    {
+        "word": "betimes",
+        "def": "in good time"
+    },
+    {
+        "word": "bummer",
+        "def": "a bad reaction to a hallucinogenic drug"
+    },
+    {
+        "word": "catch",
+        "def": "the act of apprehending (especially apprehending a criminal)"
+    },
+    {
+        "word": "accidence",
+        "def": "the part of grammar that deals with the inflections of words"
+    },
+    {
+        "word": "baccate",
+        "def": "producing or bearing berries"
+    },
+    {
+        "word": "badmouth",
+        "def": "to speak unfavorably about"
+    },
+    {
+        "word": "arctiid",
+        "def": "stout-bodied broad-winged moth with conspicuously striped or spotted wings"
+    },
+    {
+        "word": "adore",
+        "def": "to love intensely"
+    },
+    {
+        "word": "bleeding",
+        "def": "the flow of blood from a ruptured blood vessel"
+    },
+    {
+        "word": "alabaster",
+        "def": "of or resembling alabaster"
+    },
+    {
+        "word": "cabalistic",
+        "def": "having a secret or hidden meaning"
+    },
+    {
+        "word": "bleary",
+        "def": "indistinct or hazy in outline"
+    },
+    {
+        "word": "beriberi",
+        "def": "a disorder caused by lack of thiamine/vitamin B1"
+    },
+    {
+        "word": "bitter",
+        "def": "extremely and sharply"
+    },
+    {
+        "word": "betting",
+        "def": "preoccupied with the pursuit of pleasure and especially games of chance"
+    },
+    {
+        "word": "coquille",
+        "def": "a dish in the form of a scallop shell"
+    },
+    {
+        "word": "chatelaine",
+        "def": "a chain formerly worn at the waist by women"
+    },
+    {
+        "word": "crumbly",
+        "def": "easily broken into small fragments or reduced to powder"
+    },
+    {
+        "word": "conviction",
+        "def": "(criminal law) a final judgment of guilty in a criminal case and the punishment that is imposed"
+    },
+    {
+        "word": "brashly",
+        "def": "in a brash cheeky manner"
+    },
+    {
+        "word": "beset",
+        "def": "to assail or attack on all sides"
+    },
+    {
+        "word": "breezily",
+        "def": "in a breezy manner"
+    },
+    {
+        "word": "bellicose",
+        "def": "having or showing a ready disposition to fight"
+    },
+    {
+        "word": "barren",
+        "def": "completely wanting or lacking"
+    },
+    {
+        "word": "bumbling",
+        "def": "lacking physical movement skills, especially with the hands"
+    },
+    {
+        "word": "bedhop",
+        "def": "to be sexually active with more than one partner"
+    },
+    {
+        "word": "blessedness",
+        "def": "a state of supreme happiness"
+    },
+    {
+        "word": "consecrate",
+        "def": "solemnly dedicated to or set apart for a high purpose"
+    },
+    {
+        "word": "anosmatic",
+        "def": "relating to an impairment or loss of the sense of smell"
+    },
+    {
+        "word": "arbor",
+        "def": "a framework that supports climbing plants"
+    },
+    {
+        "word": "comprehendible",
+        "def": "capable of being comprehended or understood"
+    },
+    {
+        "word": "confining",
+        "def": "crowded"
+    },
+    {
+        "word": "amalgamate",
+        "def": "joined together into a whole"
+    },
+    {
+        "word": "communal",
+        "def": "for or by a group rather than individuals"
+    },
+    {
+        "word": "apportion",
+        "def": "to distribute according to a plan or set apart for a special purpose"
+    },
+    {
+        "word": "compartmentalization",
+        "def": "the act of distributing things into classes or categories of the same type"
+    },
+    {
+        "word": "challis",
+        "def": "a soft lightweight fabric (usually printed)"
+    },
+    {
+        "word": "axiomatic",
+        "def": "evident without proof or argument"
+    },
+    {
+        "word": "ahead",
+        "def": "having the leading position or higher score in a contest"
+    },
+    {
+        "word": "brimfull",
+        "def": "filled to capacity"
+    },
+    {
+        "word": "contrastive",
+        "def": "syntactically establishing a relation of contrast between sentences or elements of a sentence"
+    },
+    {
+        "word": "chamaeleon",
+        "def": "lizard of Africa and Madagascar able to change skin color and having a projectile tongue"
+    },
+    {
+        "word": "ashen",
+        "def": "anemic looking from illness or emotion"
+    },
+    {
+        "word": "complaining",
+        "def": "expressing pain or dissatisfaction of resentment"
+    },
+    {
+        "word": "curt",
+        "def": "brief and to the point"
+    },
+    {
+        "word": "boundless",
+        "def": "seemingly boundless in amount, number, degree, or especially extent"
+    },
+    {
+        "word": "bilaterally",
+        "def": "so as to involve two sides or parts"
+    },
+    {
+        "word": "cast",
+        "def": "a violent throw"
+    },
+    {
+        "word": "arithmancy",
+        "def": "divination by means of numbers"
+    },
+    {
+        "word": "inventive",
+        "def": "persons or artifacts marked by independence and creativity in thought or action"
+    },
+    {
+        "word": "engram",
+        "def": "a postulated biochemical change (presumably in neural tissue) that represents a memory"
+    },
+    {
+        "word": "acroscopic",
+        "def": "facing or on the side toward the apex"
+    },
+    {
+        "word": "ampullar",
+        "def": "of or related to an ampulla"
+    },
+    {
+        "word": "dioxin",
+        "def": "any of several toxic or carcinogenic hydrocarbons that occur as impurities in herbicides"
+    },
+    {
+        "word": "drayhorse",
+        "def": "draft horse kept for pulling carts"
+    },
+    {
+        "word": "alderman",
+        "def": "a member of a municipal legislative body (as a city council)"
+    },
+    {
+        "word": "drawbar",
+        "def": "a strong metal bar bearing a hook to attach something to be pulled"
+    },
+    {
+        "word": "exterminable",
+        "def": "capable of being totally destroyed or wiped out"
+    },
+    {
+        "word": "ethnographical",
+        "def": "of or relating to ethnography"
+    },
+    {
+        "word": "administrivia",
+        "def": "the tiresome but essential details that must be taken care of and tasks that must be performed in running an organization"
+    },
+    {
+        "word": "delavirdine",
+        "def": "a non-nucleoside reverse transcriptase inhibitor (trade name Rescriptor) used to treat AIDS and HIV"
+    },
+    {
+        "word": "ceratosaurus",
+        "def": "primitive medium-sized theropod"
+    },
+    {
+        "word": "enraged",
+        "def": "marked by extreme anger"
+    },
+    {
+        "word": "exult",
+        "def": "to express great joy"
+    },
+    {
+        "word": "archegonium",
+        "def": "a female sex organ occurring in mosses, ferns, and most gymnosperms"
+    },
+    {
+        "word": "cherrystone",
+        "def": "a half-grown quahog"
+    },
+    {
+        "word": "freestanding",
+        "def": "standing apart"
+    },
+    {
+        "word": "demagnetize",
+        "def": "make nonmagnetic"
+    },
+    {
+        "word": "broider",
+        "def": "to decorate with needlework"
+    },
+    {
+        "word": "depositary",
+        "def": "a facility where things can be deposited for storage or safekeeping"
+    },
+    {
+        "word": "comburant",
+        "def": "supporting combustion"
+    },
+    {
+        "word": "crouch",
+        "def": "the act of bending low with the limbs close to the body"
+    },
+    {
+        "word": "brackish",
+        "def": "slightly salty (especially from containing a mixture of seawater and fresh water)"
+    },
+    {
+        "word": "abduct",
+        "def": "to pull away from the body"
+    },
+    {
+        "word": "compaction",
+        "def": "the act of crushing"
+    },
+    {
+        "word": "antifeminism",
+        "def": "activity indicative of belief in the superiority of men over women"
+    },
+    {
+        "word": "coalhole",
+        "def": "a bin for holding coal"
+    },
+    {
+        "word": "dhak",
+        "def": "East Indian tree bearing a profusion of intense vermilion velvet-textured blooms and yielding a yellow dye"
+    },
+    {
+        "word": "deamination",
+        "def": "removal of the amino radical from an amino acid or other amino compound"
+    },
+    {
+        "word": "drench",
+        "def": "cover with liquid"
+    },
+    {
+        "word": "digitise",
+        "def": "put into digital form, as for use in a computer"
+    },
+    {
+        "word": "advocate",
+        "def": "a person who pleads for a cause or propounds an idea"
+    },
+    {
+        "word": "expunging",
+        "def": "deletion by an act of expunging or erasing"
+    },
+    {
+        "word": "chalice",
+        "def": "a bowl-shaped drinking vessel"
+    },
+    {
+        "word": "cavy",
+        "def": "short-tailed rough-haired South American rodent"
+    },
+    {
+        "word": "firstly",
+        "def": "before anything else"
+    },
+    {
+        "word": "alienate",
+        "def": "to arouse hostility or indifference in where there had formerly been love, affection, or friendliness"
+    },
+    {
+        "word": "dasymeter",
+        "def": "densimeter consisting of a thin glass globe that is weighed in a gas to determine its density"
+    },
+    {
+        "word": "baggy",
+        "def": "not fitting closely"
+    },
+    {
+        "word": "fascinating",
+        "def": "capturing interest as if by a spell"
+    },
+    {
+        "word": "erinaceous",
+        "def": "of or relating to a hedgehog"
+    },
+    {
+        "word": "esophagitis",
+        "def": "inflammation of the esophagus"
+    },
+    {
+        "word": "regionally",
+        "def": "in a regional manner"
+    },
+    {
+        "word": "militarized",
+        "def": "issued military arms"
+    },
+    {
+        "word": "expending",
+        "def": "the act of spending money for goods or services"
+    },
+    {
+        "word": "landscapist",
+        "def": "someone who arranges features of the landscape or garden attractively"
+    },
+    {
+        "word": "ranid",
+        "def": "insectivorous usually semiaquatic web-footed amphibian with smooth moist skin and long hind legs"
+    },
+    {
+        "word": "rariora",
+        "def": "(plural) rare collector's items"
+    },
+    {
+        "word": "noncivilized",
+        "def": "not having a high state of culture and social development"
+    },
+    {
+        "word": "prospectus",
+        "def": "a catalog listing the courses offered by a college or university"
+    },
+    {
+        "word": "mensch",
+        "def": "a decent responsible person with admirable characteristics"
+    },
+    {
+        "word": "cooperative",
+        "def": "willing to adjust to differences in order to obtain agreement"
+    },
+    {
+        "word": "faster",
+        "def": "more quickly"
+    },
+    {
+        "word": "loathe",
+        "def": "find repugnant"
+    },
+    {
+        "word": "citywide",
+        "def": "occurring or extending throughout a city"
+    },
+    {
+        "word": "larch",
+        "def": "any of numerous conifers of the genus Larix all having deciduous needlelike leaves"
+    },
+    {
+        "word": "rickettsial",
+        "def": "relating to or caused by rickettsias"
+    },
+    {
+        "word": "preclinical",
+        "def": "of or relating to the early phases of a disease when accurate diagnosis is not possible because symptoms of the disease have not yet appeared"
+    },
+    {
+        "word": "presbyopic",
+        "def": "able to see distant objects clearly"
+    },
+    {
+        "word": "officialdom",
+        "def": "people elected or appointed to administer a government"
+    },
+    {
+        "word": "rhabdovirus",
+        "def": "any of a group of arboviruses including those causing rabies"
+    },
+    {
+        "word": "coffeepot",
+        "def": "tall pot in which coffee is brewed"
+    },
+    {
+        "word": "ermine",
+        "def": "mustelid of northern hemisphere in its white winter coat"
+    },
+    {
+        "word": "olivenite",
+        "def": "rare green to black mineral consisting of hydrated copper arsenate that is found in copper deposits"
+    },
+    {
+        "word": "reposeful",
+        "def": "affording physical or mental rest"
+    },
+    {
+        "word": "lore",
+        "def": "knowledge gained through tradition or anecdote"
+    },
+    {
+        "word": "pleat",
+        "def": "any of various types of fold formed by doubling fabric back upon itself and then pressing or stitching into shape"
+    },
+    {
+        "word": "best",
+        "def": "it would be sensible"
+    },
+    {
+        "word": "diphtheria",
+        "def": "acute contagious infection caused by the bacterium Corynebacterium diphtheriae"
+    },
+    {
+        "word": "butanone",
+        "def": "colorless soluble flammable liquid ketone used as a solvent for resins and as a paint remover and in lacquers and cements and adhesives and cleaning fluids and celluloid"
+    },
+    {
+        "word": "orderliness",
+        "def": "the quality of appreciating method and system"
+    },
+    {
+        "word": "nephrectomy",
+        "def": "surgical removal of a kidney"
+    },
+    {
+        "word": "paraplegic",
+        "def": "suffering complete paralysis of the lower half of the body usually resulting from damage to the spinal cord"
+    },
+    {
+        "word": "oafish",
+        "def": "ill-mannered and coarse and contemptible in behavior or appearance"
+    },
+    {
+        "word": "lacepod",
+        "def": "annual herb having pinnatifid basal leaves and slender racemes of small white flowers followed by one-seeded winged silicles"
+    },
+    {
+        "word": "prognathic",
+        "def": "having a projecting lower jaw"
+    },
+    {
+        "word": "readiness",
+        "def": "prompt willingness"
+    },
+    {
+        "word": "ovoid",
+        "def": "rounded like an egg"
+    },
+    {
+        "word": "corner",
+        "def": "the intersection of two streets"
+    },
+    {
+        "word": "busy",
+        "def": "crowded with or characterized by much activity"
+    },
+    {
+        "word": "freeborn",
+        "def": "born free of free parents"
+    },
+    {
+        "word": "regal",
+        "def": "belonging to or befitting a supreme ruler"
+    },
+    {
+        "word": "flimsily",
+        "def": "in a weak and flimsy manner"
+    },
+    {
+        "word": "explanation",
+        "def": "thought that makes something comprehensible"
+    },
+    {
+        "word": "externalise",
+        "def": "make external or objective, or give reality to"
+    },
+    {
+        "word": "furred",
+        "def": "covered with a dense coat of fine silky hairs"
+    },
+    {
+        "word": "lammergeier",
+        "def": "the largest Eurasian bird of prey"
+    },
+    {
+        "word": "agnosticism",
+        "def": "the disbelief in any claims of ultimate knowledge"
+    },
+    {
+        "word": "resolvable",
+        "def": "capable of being settled or resolved"
+    },
+    {
+        "word": "disbursement",
+        "def": "the act of spending or disbursing money"
+    },
+    {
+        "word": "prognostic",
+        "def": "of or relating to prediction"
+    },
+    {
+        "word": "photochemical",
+        "def": "of or relating to or produced by the effects of light on chemical systems"
+    },
+    {
+        "word": "discography",
+        "def": "a descriptive catalog of musical recordings"
+    },
+    {
+        "word": "earthworm",
+        "def": "terrestrial worm that burrows into and helps aerate soil"
+    },
+    {
+        "word": "conflux",
+        "def": "a flowing together"
+    },
+    {
+        "word": "present",
+        "def": "temporal sense"
+    },
+    {
+        "word": "dolt",
+        "def": "a person who is not very bright"
+    },
+    {
+        "word": "forcibly",
+        "def": "in a forcible manner"
+    },
+    {
+        "word": "envoy",
+        "def": "a brief stanza concluding certain forms of poetry"
+    },
+    {
+        "word": "moaner",
+        "def": "a person given to excessive complaints and crying and whining"
+    },
+    {
+        "word": "offhandedly",
+        "def": "in a casually inconsiderate manner"
+    },
+    {
+        "word": "entoproct",
+        "def": "any of various moss-like aquatic animals usually forming branching colonies"
+    },
+    {
+        "word": "megalopolis",
+        "def": "a very large urban complex (usually involving several cities and towns)"
+    },
+    {
+        "word": "embossment",
+        "def": "sculpture consisting of shapes carved on a surface so as to stand out from the surrounding background"
+    },
+    {
+        "word": "dissatisfy",
+        "def": "fail to satisfy"
+    },
+    {
+        "word": "cigaret",
+        "def": "finely ground tobacco wrapped in paper"
+    },
+    {
+        "word": "coalescence",
+        "def": "the union of diverse things into one body or form or group"
+    },
+    {
+        "word": "rophy",
+        "def": "street names for flunitrazepan"
+    },
+    {
+        "word": "personhood",
+        "def": "being a person"
+    },
+    {
+        "word": "reechoing",
+        "def": "(of sounds) repeating by reflection"
+    },
+    {
+        "word": "pinpoint",
+        "def": "the sharp point of a pin"
+    },
+    {
+        "word": "propjet",
+        "def": "an airplane with an external propeller that is driven by a turbojet engine"
+    },
+    {
+        "word": "odontiasis",
+        "def": "the eruption through the gums of baby teeth"
+    },
+    {
+        "word": "religiousism",
+        "def": "exaggerated or affected piety and religious zeal"
+    },
+    {
+        "word": "pigeonhole",
+        "def": "a small compartment"
+    },
+    {
+        "word": "fourpenny",
+        "def": "used of nail size"
+    },
+    {
+        "word": "embroiderer",
+        "def": "someone who ornaments with needlework"
+    },
+    {
+        "word": "printable",
+        "def": "fit for publication because free of material that is morally or legally objectionable"
+    },
+    {
+        "word": "plimsoll",
+        "def": "a light gym shoe with a rubber sole and a canvas top"
+    },
+    {
+        "word": "ferric",
+        "def": "of or relating to or containing iron"
+    },
+    {
+        "word": "premonitory",
+        "def": "warning of future misfortune"
+    },
+    {
+        "word": "endgame",
+        "def": "the final stages of a chess game after most of the pieces have been removed from the board"
+    },
+    {
+        "word": "argentine",
+        "def": "any of various small silver-scaled salmon-like marine fishes"
+    },
+    {
+        "word": "concentric",
+        "def": "having a common center"
+    },
+    {
+        "word": "notochord",
+        "def": "a flexible rodlike structure that forms the supporting axis of the body in the lowest chordates and lowest vertebrates and in embryos of higher vertebrates"
+    },
+    {
+        "word": "faddishly",
+        "def": "in a faddish manner"
+    },
+    {
+        "word": "lottery",
+        "def": "players buy (or are given) chances and prizes are distributed by casting lots"
+    },
+    {
+        "word": "electrograph",
+        "def": "electrical device used for etching by electrolytic means"
+    },
+    {
+        "word": "mynah",
+        "def": "tropical Asian starlings"
+    },
+    {
+        "word": "purposive",
+        "def": "having a purpose"
+    },
+    {
+        "word": "degrease",
+        "def": "remove grease or oil from (a pan)"
+    },
+    {
+        "word": "fuzzy",
+        "def": "covering with fine light hairs"
+    },
+    {
+        "word": "mishmash",
+        "def": "a motley assortment of things"
+    },
+    {
+        "word": "emissary",
+        "def": "someone sent on a mission to represent the interests of someone else"
+    },
+    {
+        "word": "barehanded",
+        "def": "with bare hands"
+    },
+    {
+        "word": "orbiculate",
+        "def": "circular or nearly circular"
+    },
+    {
+        "word": "morphallaxis",
+        "def": "regeneration on a reduced scale of a body part"
+    },
+    {
+        "word": "calculator",
+        "def": "a small machine that is used for mathematical calculations"
+    },
+    {
+        "word": "burbly",
+        "def": "uttered with unrestrained enthusiasm"
+    },
+    {
+        "word": "embryonal",
+        "def": "of an organism prior to birth or hatching"
+    },
+    {
+        "word": "mountain",
+        "def": "a land mass that projects well above its surroundings"
+    },
+    {
+        "word": "laundress",
+        "def": "a working woman who takes in washing"
+    },
+    {
+        "word": "nudge",
+        "def": "a slight push or shake"
+    },
+    {
+        "word": "familiarly",
+        "def": "in an intimately familiar manner"
+    },
+    {
+        "word": "modification",
+        "def": "the act of making something different (as e.g. the size of a garment)"
+    },
+    {
+        "word": "mycelium",
+        "def": "the vegetative part of a fungus consisting of a mass of branching threadlike hyphae"
+    },
+    {
+        "word": "luminescence",
+        "def": "light from nonthermal sources"
+    },
+    {
+        "word": "meditativeness",
+        "def": "deep serious thoughtfulness"
+    },
+    {
+        "word": "chip",
+        "def": "the act of chipping something"
+    },
+    {
+        "word": "dichromasy",
+        "def": "a deficiency of color vision in which the person can match any given hue by mixing only two other wavelengths of light (as opposed to the three wavelengths needed by people with normal color vision)"
+    },
+    {
+        "word": "obbligato",
+        "def": "a part of the score that must be performed without change or omission"
+    },
+    {
+        "word": "rhizopodan",
+        "def": "protozoa characterized by a pseudopod"
+    },
+    {
+        "word": "allot",
+        "def": "to give out"
+    },
+    {
+        "word": "powdered",
+        "def": "consisting of fine particles"
+    },
+    {
+        "word": "obscurantist",
+        "def": "a person who is deliberately vague"
+    },
+    {
+        "word": "fortunate",
+        "def": "presaging good fortune"
+    },
+    {
+        "word": "dockyard",
+        "def": "an establishment on the waterfront where vessels are built or fitted out or repaired"
+    },
+    {
+        "word": "density",
+        "def": "the amount per unit size"
+    },
+    {
+        "word": "parenthetical",
+        "def": "qualifying or explaining"
+    },
+    {
+        "word": "macerative",
+        "def": "accompanied by or characterized by maceration"
+    },
+    {
+        "word": "filthily",
+        "def": "in a filthy unclean manner"
+    },
+    {
+        "word": "refractiveness",
+        "def": "the physical property of a medium as determined by its index of refraction"
+    },
+    {
+        "word": "porker",
+        "def": "a pig fattened to provide meat"
+    },
+    {
+        "word": "overpraise",
+        "def": "to praise excessively"
+    },
+    {
+        "word": "mockingbird",
+        "def": "long-tailed grey-and-white songbird of the southern United States able to mimic songs of other birds"
+    },
+    {
+        "word": "environs",
+        "def": "an outer adjacent area of any place"
+    },
+    {
+        "word": "regional",
+        "def": "related or limited to a particular region"
+    },
+    {
+        "word": "repeatable",
+        "def": "able or fit to be repeated or quoted"
+    },
+    {
+        "word": "pieta",
+        "def": "a representation of the Virgin Mary mourning over the dead body of Jesus"
+    },
+    {
+        "word": "leukaemia",
+        "def": "malignant neoplasm of blood-forming tissues"
+    },
+    {
+        "word": "potbelly",
+        "def": "a bulbous stove in which wood or coal is burned"
+    },
+    {
+        "word": "blooper",
+        "def": "an embarrassing mistake"
+    },
+    {
+        "word": "pickerel",
+        "def": "any of several North American species of small pike"
+    },
+    {
+        "word": "bibulous",
+        "def": "given to or marked by the consumption of alcohol"
+    },
+    {
+        "word": "aerosolized",
+        "def": "in the form of ultramicroscopic solid or liquid particles dispersed or suspended in air or gas"
+    },
+    {
+        "word": "nonexploratory",
+        "def": "not exploratory"
+    },
+    {
+        "word": "paperknife",
+        "def": "dull knife used to cut open the envelopes in which letters are mailed or to slit uncut pages of books"
+    },
+    {
+        "word": "rowlock",
+        "def": "a holder attached to the gunwale of a boat that holds the oar in place and acts as a fulcrum for rowing"
+    },
+    {
+        "word": "destabilize",
+        "def": "make unstable"
+    },
+    {
+        "word": "pinfish",
+        "def": "similar to sea bream"
+    },
+    {
+        "word": "rackety",
+        "def": "uncontrollably noisy"
+    },
+    {
+        "word": "conception",
+        "def": "the act of becoming pregnant"
+    },
+    {
+        "word": "pupa",
+        "def": "an insect in the inactive stage of development (when it is not feeding) intermediate between larva and adult"
+    },
+    {
+        "word": "marketing",
+        "def": "shopping at a market"
+    },
+    {
+        "word": "molindone",
+        "def": "antipsychotic drug (trade name Moban) used in the treatment of schizophrenia"
+    },
+    {
+        "word": "opportunity",
+        "def": "a possibility due to a favorable combination of circumstances"
+    },
+    {
+        "word": "electroplater",
+        "def": "a plater who uses electrolysis"
+    },
+    {
+        "word": "cannikin",
+        "def": "a small can"
+    },
+    {
+        "word": "oversubscribed",
+        "def": "sold in excess of available supply especially season tickets"
+    },
+    {
+        "word": "executrix",
+        "def": "a woman executor"
+    },
+    {
+        "word": "dracaena",
+        "def": "an agave that is often cultivated for its decorative foliage"
+    },
+    {
+        "word": "elephant",
+        "def": "five-toed pachyderm"
+    },
+    {
+        "word": "ratan",
+        "def": "a switch made from the stems of the rattan palms"
+    },
+    {
+        "word": "porkpie",
+        "def": "a hat with a low, flat crown and a snap brim"
+    },
+    {
+        "word": "papery",
+        "def": "thin and paperlike"
+    },
+    {
+        "word": "moiety",
+        "def": "one of two basic subdivisions of a tribe"
+    },
+    {
+        "word": "postmenopausal",
+        "def": "subsequent to menopause"
+    },
+    {
+        "word": "flavorful",
+        "def": "full of flavor"
+    },
+    {
+        "word": "buxomly",
+        "def": "in a curvaceous way"
+    },
+    {
+        "word": "reflected",
+        "def": "(especially of incident sound or light) bent or sent back"
+    },
+    {
+        "word": "racquet",
+        "def": "a sports implement (usually consisting of a handle and an oval frame with a tightly interlaced network of strings) used to strike a ball (or shuttlecock) in various games"
+    },
+    {
+        "word": "accretionary",
+        "def": "marked or produced by accretion"
+    },
+    {
+        "word": "mutisia",
+        "def": "any of various plants of the genus Mutisia"
+    },
+    {
+        "word": "effeminise",
+        "def": "to give a (more) feminine, effeminate, or womanly quality or appearance to"
+    },
+    {
+        "word": "megahit",
+        "def": "an unusually successful hit with widespread popularity and huge sales (especially a movie or play or recording or novel)"
+    },
+    {
+        "word": "falteringly",
+        "def": "in an unsteady manner"
+    },
+    {
+        "word": "neurotoxin",
+        "def": "any toxin that affects neural tissues"
+    },
+    {
+        "word": "nought",
+        "def": "a mathematical element that when added to another number yields the same number"
+    },
+    {
+        "word": "poikilothermic",
+        "def": "of animals except birds and mammals"
+    },
+    {
+        "word": "constructive",
+        "def": "constructing or tending to construct or improve or promote development"
+    },
+    {
+        "word": "restrictive",
+        "def": "protective of national interests by restricting imports"
+    },
+    {
+        "word": "betroth",
+        "def": "to give to in marriage"
+    },
+    {
+        "word": "claymore",
+        "def": "an antipersonnel land mine whose blast is aimed at the oncoming enemy"
+    },
+    {
+        "word": "crawler",
+        "def": "terrestrial worm that burrows into and helps aerate soil"
+    },
+    {
+        "word": "calumniatory",
+        "def": "(used of statements) harmful and often untrue"
+    },
+    {
+        "word": "canulization",
+        "def": "the insertion of a cannula or tube into a hollow body organ"
+    },
+    {
+        "word": "opportunism",
+        "def": "taking advantage of opportunities without regard for the consequences for others"
+    },
+    {
+        "word": "eggplant",
+        "def": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+    },
+    {
+        "word": "paralytic",
+        "def": "affected with paralysis"
+    },
+    {
+        "word": "converter",
+        "def": "a device for changing one substance or form or state into another"
+    },
+    {
+        "word": "rainforest",
+        "def": "a forest with heavy annual rainfall"
+    },
+    {
+        "word": "mantispid",
+        "def": "insect that resembles a mantis"
+    },
+    {
+        "word": "onerous",
+        "def": "not easily borne"
+    },
+    {
+        "word": "rusted",
+        "def": "having accumulated rust"
+    },
+    {
+        "word": "obsidian",
+        "def": "acid or granitic glass formed by the rapid cooling of lava without crystallization"
+    },
+    {
+        "word": "eternal",
+        "def": "tiresomely long"
+    },
+    {
+        "word": "plutocratical",
+        "def": "of or relating to or characteristic of a plutocrat"
+    },
+    {
+        "word": "bulldoze",
+        "def": "to flatten with or as if with a bulldozer"
+    },
+    {
+        "word": "fingerless",
+        "def": "not having or having lost fingers"
+    },
+    {
+        "word": "commensurable",
+        "def": "capable of being measured by a common standard"
+    },
+    {
+        "word": "compiling",
+        "def": "the act of compiling (as into a single book or file or list)"
+    },
+    {
+        "word": "rudderless",
+        "def": "aimlessly drifting"
+    },
+    {
+        "word": "epistemic",
+        "def": "of or relating to epistemology"
+    },
+    {
+        "word": "respectful",
+        "def": "full of or exhibiting respect"
+    },
+    {
+        "word": "carving",
+        "def": "creating figures or designs in three dimensions"
+    },
+    {
+        "word": "esurient",
+        "def": "devouring or craving food in great quantities"
+    },
+    {
+        "word": "dicamptodontid",
+        "def": "salamanders found near cold streams throughout the year"
+    },
+    {
+        "word": "respected",
+        "def": "receiving deferential regard"
+    },
+    {
+        "word": "participation",
+        "def": "the act of sharing in the activities of a group"
+    },
+    {
+        "word": "drawback",
+        "def": "the quality of being a hindrance"
+    },
+    {
+        "word": "manioc",
+        "def": "cassava with long tuberous edible roots and soft brittle stems"
+    },
+    {
+        "word": "profitable",
+        "def": "yielding material gain or profit"
+    },
+    {
+        "word": "parceling",
+        "def": "the act of distributing by allotting or apportioning"
+    },
+    {
+        "word": "bolshevize",
+        "def": "to make Communist or bring in accord with Communist principles"
+    },
+    {
+        "word": "pacemaker",
+        "def": "a horse used to set the pace in racing"
+    },
+    {
+        "word": "officialese",
+        "def": "the style of writing characteristic of some government officials: formal and obscure"
+    }
+]

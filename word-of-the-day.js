@@ -51,10 +51,9 @@ fs.readdir(dataDirectory, (err, files) => {
     const randomizedSampleAndFlattened =  allWords
         .sort(() => Math.random() - Math.random())
         .slice(0, 367).flat()
-        .reduce((accumulator, word) => {
-            accumulator[Object.keys(word)[0]] = word[Object.keys(word)[0]];
-            return accumulator;
-    }, {});
+        .map((word) => {
+            return { word: Object.keys(word)[0], def:word[Object.keys(word)] }
+    });
 
     // write the words of the day data back to a json file - words-of-the-day-2022.json
     fs.writeFile(`${wordOfTheDayDataArrayDirectory}words-of-the-day-2022.json`, JSON.stringify(randomizedSampleAndFlattened, null, 4), function (err) {
